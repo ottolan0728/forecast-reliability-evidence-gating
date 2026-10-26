@@ -1,0 +1,24 @@
+{
+  "seed_base": 20261012,
+  "lookback": 168,
+  "lstm_hidden": 32,
+  "lstm_layers": 1,
+  "tcn_channels": [
+    16,
+    32,
+    32
+  ],
+  "tcn_kernel": 3,
+  "tcn_dilations": [
+    1,
+    2,
+    4
+  ],
+  "dropout": 0.1,
+  "epochs": 20,
+  "batch_size": 64,
+  "lr": 0.001,
+  "device": "cpu",
+  "torch": "2.7.1+cpu",
+  "plan_sha256": "547a8285b97c6bc7d92072f23b0f7985e456f92caa410e17b4c5392becb89afb"
+}

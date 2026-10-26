@@ -29,3 +29,7 @@ This repository will contain only derived or non-restricted artifacts needed to 
 - October–December: held evaluation window
 
 These roles are frozen before evaluation in the accepted study.
+
+## Retrieval and local placement
+
+BDG2: use the official repository https://github.com/buds-lab/building-data-genome-project-2 and its raw electricity meter file `data/meters/raw/electricity.csv`; retain original source checksums locally. CKW: follow Aggregate Data at https://www.ckw.ch/landingpages/open-data and obtain the frozen 2025 monthly UTC releases. Do not silently replace a missing historical release with a newer one. Local placement is `data/raw/bdg2/` and `data/raw/ckw/`, both excluded by Git. See REPRODUCE.md for the currently unimplemented portable raw-input reconstruction boundary and docs/RIGHTS_AND_ATTRIBUTION.md for source terms.

@@ -1,0 +1,47 @@
+\documentclass[tikz,border=3pt]{standalone}
+\usepackage{pgfplots}
+\pgfplotsset{compat=1.18}
+\begin{document}
+\begin{tikzpicture}[font=\sffamily\small]
+\begin{axis}[
+  width=7.4cm,height=5.3cm,
+  xmin=0.034,xmax=0.092,
+  xlabel={Entity-macro NMAE},
+  ytick={1,2,3,4},yticklabels={HGB peak,HGB average,Ridge peak,Ridge average},
+  y dir=reverse,
+  title={(a) Entity-macro keep vs. admitted},
+  grid=major,grid style={gray!18},
+  legend style={draw=none,font=\scriptsize,at={(0.98,0.05)},anchor=south east},
+  tick label style={font=\scriptsize},label style={font=\scriptsize},title style={font=\small}
+]
+\addplot+[only marks,mark=o] coordinates {(0.086855,1) (0.048411,2) (0.081863,3) (0.042439,4)};
+\addlegendentry{Keep}
+\addplot+[only marks,mark=square*] coordinates {(0.087479,1) (0.037427,2) (0.084446,3) (0.040169,4)};
+\addlegendentry{Admitted}
+\addplot+[no marks] coordinates {(0.086855,1) (0.087479,1)};
+\addplot+[no marks] coordinates {(0.048411,2) (0.037427,2)};
+\addplot+[no marks] coordinates {(0.081863,3) (0.084446,3)};
+\addplot+[no marks] coordinates {(0.042439,4) (0.040169,4)};
+\end{axis}
+
+\begin{axis}[
+  xshift=8.5cm,
+  width=7.4cm,height=5.3cm,
+  xmin=-0.034,xmax=0.007,
+  xlabel={Admitted minus keep NMAE},
+  ytick={1,2,3,4},yticklabels={HGB peak,HGB average,Ridge peak,Ridge average},
+  y dir=reverse,
+  title={(b) Site-level mean differences and 95\% CIs},
+  grid=major,grid style={gray!18},
+  tick label style={font=\scriptsize},label style={font=\scriptsize},title style={font=\small}
+]
+\addplot+[only marks,mark=*,error bars/.cd,x dir=both,x explicit] coordinates {
+ (0.000436,1) +- (0.001562,0.002211)
+ (-0.010984,2) +- (0.021237,0.011137)
+ (0.002409,3) +- (0.002227,0.002761)
+ (-0.002270,4) +- (0.002601,0.001911)
+};
+\draw[dashed] (axis cs:0,0.5) -- (axis cs:0,4.5);
+\end{axis}
+\end{tikzpicture}
+\end{document}

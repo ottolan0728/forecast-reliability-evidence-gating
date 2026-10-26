@@ -1,0 +1,321 @@
+building_id,site_id,primaryspaceusage,timezone,prior_rsdg_qc_registry,prior_rsdg_pilot_selected,prior_rsdg_split_registry,no_other_exposure_verified,eligible,reason,train_n,july_n,august_n,train_q99,selection_hash
+Lamb_other_Minerva,Lamb,Other,Europe/London,False,False,False,False,True,,4173,744,744,35.53400000000001,426e1f073d47786bae5ec02b9474bd4b1a9c21d09856ea1aae34403994dbc288
+Lamb_other_Katharina,Lamb,Other,Europe/London,False,False,False,False,True,,4173,744,744,45.30200000000004,b1fecf29d621ff6311539c3dde04fd5753a0b7dc4c47c31c677b4a723959f122
+Lamb_education_Emery,Lamb,Education,Europe/London,False,False,False,False,True,,4173,744,744,166.13400000000001,5fee9a48d73070e474e7d3bd1515f716700d67c8f623649ca56ea19bd19fcab9
+Lamb_assembly_Corliss,Lamb,Entertainment/public assembly,Europe/London,False,False,False,False,True,,4173,744,744,34.134000000000015,acaedcb4fd595be2537695470dd2308d92944d0a3cfefc0ee7d49b99bb54b6f3
+Lamb_assembly_Zita,Lamb,Entertainment/public assembly,Europe/London,False,False,False,False,True,,4173,744,744,4.0,3259d8b8f206bca45d15b07ce786b519b52392c5722f1d03cc98635183115dff
+Lamb_assembly_Jerry,Lamb,Entertainment/public assembly,Europe/London,False,False,False,False,True,,4173,744,744,20.834000000000014,f3e11f5535bd54bda428b02c047a4a04c444de8fd6a17db5f737a6cb317276aa
+Lamb_assembly_Ethel,Lamb,Entertainment/public assembly,Europe/London,False,False,False,False,True,,4173,744,744,69.034,256ff0647b7c49904b11216a4430ea70c6678d83b4d317e9805f7a93efa47168
+Lamb_assembly_Cesar,Lamb,Entertainment/public assembly,Europe/London,False,False,False,False,True,,4173,744,744,48.9,a82fc7b0dc9002f33457a6decb4fe9669ec6e7fa388999a56cd1a9322a79623f
+Lamb_assembly_Steven,Lamb,Entertainment/public assembly,Europe/London,False,False,False,False,True,,4173,744,744,19.46234,5324caab434cf1bebd9743a46e502c3877fc8af7c7b1048e46af7b66f9606251
+Lamb_assembly_Dudley,Lamb,Entertainment/public assembly,Europe/London,False,False,False,False,True,,4173,744,744,55.8,faba919c21e922585b372189fb5959b79b295e23fe3d08dfffdaba34769db497
+Lamb_assembly_Isa,Lamb,Entertainment/public assembly,Europe/London,False,False,False,False,True,,4173,744,744,7.815760000000002,36f3ddd9f81205f4f2af155e1f10b9d60ebc3bff72bb309ad0e73b9fc9a7f153
+Lamb_assembly_Eugenia,Lamb,Entertainment/public assembly,Europe/London,False,False,False,False,True,,4173,744,744,15.4,188b3b6295a0b73965d87cd45165a0d7452ad9a97477a9da233bd587456f457d
+Lamb_assembly_Dillon,Lamb,Entertainment/public assembly,Europe/London,False,False,False,False,True,,4173,744,744,106.43400000000001,70f029e711135bc5184d21688406aa0b31c9af0d504ea9b50d30345a947656bd
+Lamb_assembly_Kurt,Lamb,Entertainment/public assembly,Europe/London,False,False,False,False,True,,4173,744,744,6.7,12fa4a6e7b1c3f0332dd2c99440410cc604e64ae50e45f02de5ba07581ebc484
+Lamb_assembly_Elinor,Lamb,Entertainment/public assembly,Europe/London,False,False,False,False,True,,4173,744,744,71.34600000000027,02eabd03613c5586361345b85d68d4516b63495741e19b5432738d7321664004
+Lamb_assembly_Dorathy,Lamb,Entertainment/public assembly,Europe/London,False,False,False,False,True,,4173,744,744,12.603600000000005,435e497cac6323b38cfe89f39cb175ef23198aa682d66c2168fbaa8e5659d409
+Lamb_assembly_Ossie,Lamb,Entertainment/public assembly,Europe/London,False,False,False,False,True,,4173,744,744,15.0,87037821c3e2d156602b22ee4f62665e60492d9af6b273afe35fe848c6285b26
+Lamb_assembly_Alden,Lamb,Entertainment/public assembly,Europe/London,False,False,False,False,True,,4173,744,744,8.1,3ef0cb9b4f8968e1d85993d2655f5c2c209a56a311c9d9e3bfca7a52e793013e
+Lamb_assembly_Theresa,Lamb,Entertainment/public assembly,Europe/London,False,False,False,False,True,,4173,744,744,10.834000000000016,aff51145ecaf8b5574c9e1f6db64c6cd6ae69f9051209f94223cbd89798bbdf0
+Lamb_assembly_Delilah,Lamb,Entertainment/public assembly,Europe/London,False,False,False,False,True,,4173,744,744,41.7,04f6a21911b162a2708e0648782b559f8da6d7f9103e19d6d75a440980371ed7
+Lamb_assembly_Walter,Lamb,Entertainment/public assembly,Europe/London,False,False,False,False,True,,4173,744,744,16.5,d70f7e31bde6fd3f517b522b69ccd7bd6471c9a9b7745ce1722b43fcd0808d30
+Lamb_assembly_Nicole,Lamb,Entertainment/public assembly,Europe/London,False,False,False,False,True,,4173,744,744,6.2,51f1624bc2e2f63c46ea69e3223c3d94274e0d3768bd110790977cbbf2f1e9bf
+Lamb_assembly_Cherie,Lamb,Entertainment/public assembly,Europe/London,False,False,False,False,True,,4173,744,744,131.4,7a85f2708b26df564c936823b475ab6032ebf227fb31691816b1816af6189eea
+Lamb_assembly_Tawana,Lamb,Entertainment/public assembly,Europe/London,False,False,False,False,True,,4173,744,744,12.4,90b4cb744ea410a046b77ee6dd38c1421765b107b67cdd6c577be056588bf438
+Lamb_assembly_Tasha,Lamb,Entertainment/public assembly,Europe/London,False,False,False,False,True,,4173,744,744,38.3,59564babb276c73c3ee16bd44fc5373bdd612d6d3ae6b09e9bd8d6b19a3dd6cf
+Lamb_health_Ken,Lamb,Healthcare,Europe/London,False,False,False,False,True,,4173,744,744,42.2,944d3ef75a59749b14d51c2c3e9c300c35ae990732309d8c1f432317e2f89085
+Lamb_lodging_Burt,Lamb,Lodging/residential,Europe/London,False,False,False,False,True,,4173,744,744,8.634000000000015,43ff53b7ff21798e4f503eb9b594724cbb9005bb1160cb5c7a143b68fa15f7d0
+Lamb_industrial_Venessa,Lamb,Manufacturing/industrial,Europe/London,False,False,False,False,True,,4173,744,744,15.386160000000004,ec933da76269ced748895b82e253ec3dd7617110550e66227508a1d818676e78
+Lamb_industrial_Willard,Lamb,Manufacturing/industrial,Europe/London,False,False,False,False,True,,4173,744,744,3.2,f3ad5a597fd74521007ac5d7544012404abd68fb8f4f7bc381b8adc6d67562c7
+Lamb_assembly_Louis,Lamb,Entertainment/public assembly,Europe/London,False,False,False,False,True,,4173,744,744,61.12980000000007,33fff3e04a7d922126f8651430a1bb2e98d34f97801b21b24b1bd60f13c63294
+Lamb_assembly_Bertie,Lamb,Entertainment/public assembly,Europe/London,False,False,False,False,True,,4173,744,744,285.44000000000017,0f002ef0bf8758e34ca1278364fd04d6bcf7dd974d8ed4a92e933bd4fe181826
+Lamb_lodging_Harley,Lamb,Lodging/residential,Europe/London,False,False,False,False,True,,4173,744,744,16.6,a8f9ddd062ccfc422fc31e8d6ac7103c32203594f822d2c15ae19f99c0050c60
+Lamb_industrial_Enrique,Lamb,Manufacturing/industrial,Europe/London,False,False,False,False,True,,4173,744,744,188.83400000000003,8eddb4d0f02b1fb0e780b0639a57b44a3f96eb845edadd9aeacaab4859254f3f
+Lamb_industrial_Carla,Lamb,Manufacturing/industrial,Europe/London,False,False,False,False,True,,4173,744,744,332.37000000000006,0c6aecb8354a7ebbe7edea3ca4867d3123281dc429d8a48ec0101d00f8bd25fe
+Lamb_public_Nyla,Lamb,Public services,Europe/London,False,False,False,False,True,,4173,744,744,12.5,ca181c8a5c321ba5bdee13f55d68ae21af88bae1617e9c3c995ebc91c139e835
+Lamb_public_Grace,Lamb,Public services,Europe/London,False,False,False,False,True,,4173,744,744,138.33400000000003,043bc96b4baa1cb8d6003aaf76bf2e5276ff296ba2e47c6046aa74867731a5ca
+Lamb_public_Vania,Lamb,Public services,Europe/London,False,False,False,False,True,,4173,744,744,44.53400000000001,31aaef1aa68187bae42ecf8abaae41199fab88852f6430ca2550a61a37607da3
+Lamb_public_Gracie,Lamb,Public services,Europe/London,False,False,False,False,True,,4173,744,744,9.9,94d3bf1794f6e9b4b0973d5bae271ca500c41fb5b661c97d2e64dbdf4a87f556
+Lamb_public_Angeline,Lamb,Public services,Europe/London,False,False,False,False,True,,4173,744,744,86.30200000000005,b2b0b47d4e50cba4e42c31a3a39e85db91b4b41471a7bdc9fb9ba43d9c7135c7
+Lamb_public_Bradly,Lamb,Public services,Europe/London,False,False,False,False,True,,4173,744,744,25.9,768a2e7d94e9ee81cda368ab94fed90983e1582f3e53f065c7f73df7657f1f7b
+Lamb_food_Sylvia,Lamb,Food sales and service,Europe/London,False,False,False,False,True,,4173,744,744,46.0,25fb8211190587986d2263853546a631c7cb6f6a32b1ceba7970699b289bcbf7
+Lamb_assembly_Dorothy,Lamb,Entertainment/public assembly,Europe/London,False,False,False,False,True,,4173,744,744,111.30200000000005,053f065aa67930061f2d8ffd20c594e7675929a592afb11df7251880c62ec5b3
+Lamb_office_William,Lamb,Office,Europe/London,False,False,False,False,True,,4173,744,744,7.1,5c438cb4f07b1a75bfe704f58c8533d12e124b183b84450689bb5d811655d67c
+Lamb_office_Peggy,Lamb,Office,Europe/London,False,False,False,False,True,,4173,744,744,10.2,402673821e91d2ce8efcb889b1a2d9323a129eda3f828e21c9b154e0763dd7a6
+Lamb_office_Velma,Lamb,Office,Europe/London,False,False,False,False,True,,4173,744,744,229.07400000000015,43a2bd05c77b2da1f4ff0eaaa37e93eaf9a79cbbf1ad88320a124a92dcbf64c4
+Lamb_office_Vasiliki,Lamb,Office,Europe/London,False,False,False,False,True,,4173,744,744,720.034,fcfce6556fbe199b39e5c5433de5d0e92728b19092e9c2ddd901d3b9325d0919
+Lamb_office_Jo,Lamb,Office,Europe/London,False,False,False,False,True,,4173,744,744,3.9,43a452ef045a1f52b9c08c67b572ca00b033be4ca247e707ab24b70c784551fb
+Lamb_office_Kent,Lamb,Office,Europe/London,False,False,False,False,True,,4173,744,744,1.4,84337e41825af84321721dadf36553b3e8772c240f4b9cd4eedc90d725b8fb59
+Lamb_office_Donita,Lamb,Office,Europe/London,False,False,False,False,True,,4173,744,744,2.0,33ef2d1c362f814b575dae4105f8428535a64ee51b56a1560f02ec110f639b6c
+Lamb_office_Maggie,Lamb,Office,Europe/London,False,False,False,False,True,,4173,744,744,21.9,0308fbd1c1fea06341795a204d2e2d284723081f07f136f140f1838da465f4f4
+Lamb_office_Corine,Lamb,Office,Europe/London,False,False,False,False,True,,4173,744,744,2.2,0fc41dea5566e0cf3360d1619ad51bcd3ac25311ab5eeafc84b45b6c293324f7
+Lamb_office_Caitlin,Lamb,Office,Europe/London,False,False,False,False,True,,4173,744,744,137.4,ed8627ca16439256117e55cedf948534ef990cb825908f8b2aef60e2166097bc
+Lamb_office_Gerardo,Lamb,Office,Europe/London,False,False,False,False,True,,4173,744,744,43.134000000000015,816592cc6fba15254cce54f3a042e0f08de66db56dd55b5d05e31a7645796d1a
+Lamb_office_Stefani,Lamb,Office,Europe/London,False,False,False,False,True,,4173,744,744,30.064000000000014,0a30e4d0dcee0b236bb4f1685685504f428578596207870b3eab190d864c8820
+Lamb_office_Joanna,Lamb,Office,Europe/London,False,False,False,False,True,,3809,744,744,2.4,a892e591f92519975e396106c970148c15b36d248ab96f5e1aa9d9899b5644ed
+Lamb_office_Raymond,Lamb,Office,Europe/London,False,False,False,False,True,,4173,744,744,39.16800000000003,da48abc963b72bc941d12dad8fb4daafda3f811efc5dc5c9d41a8c53a83a9646
+Lamb_office_Kerry,Lamb,Office,Europe/London,False,False,False,False,True,,4173,744,744,15.3,867142cb2ecc2b912cd27c8ec246bfd2e9b88f98b71d911492509fe1141ee1d7
+Lamb_office_Callie,Lamb,Office,Europe/London,False,False,False,False,True,,4173,744,744,8.103600000000005,62516b9dfe564019a957ed3fb8723c020adcb6af4e9f6dc88e4fe9febd5043ab
+Lamb_office_Bertha,Lamb,Office,Europe/London,False,False,False,False,True,,4173,744,744,190.36800000000002,df17e67c68c2f22a0c5648ff5aea77616747fc8cbcbd61d48cbb0a6a7af85884
+Lamb_assembly_Queen,Lamb,Entertainment/public assembly,Europe/London,False,False,False,False,True,,4173,744,744,5.5,89011fc7cb5302d8a4adae76f5c3dd13c0c0f99f49cc18c290fc19bd86fa11ab
+Lamb_education_Ruben,Lamb,Education,Europe/London,False,False,False,False,True,,4173,744,744,28.3,e9a25526c73d51c44ed95c90fa9b4b955a456cf8849b14d09167845896c217a2
+Lamb_education_Manuel,Lamb,Education,Europe/London,False,False,False,False,True,,4173,744,744,43.7,f966b83c8ef9876bda34675cd34d76a71540ca6437bbcdaf208e967d33e79217
+Lamb_education_Mae,Lamb,Education,Europe/London,False,False,False,False,True,,4173,744,744,189.93400000000003,0bd149ca415481ecefef380a13c68b90c61ef0fb8ff8ce9dd511aa5c522b318c
+Lamb_education_Princess,Lamb,Education,Europe/London,False,False,False,False,True,,4173,744,744,35.7,f52d6e7d633ed265207645c6f7476630382a66abd750cd13f925b52cef82de78
+Lamb_education_Bettye,Lamb,Education,Europe/London,False,False,False,False,True,,4173,744,744,47.85080000000002,ea2fd4f23ec984f6104ca7d08f922c427d89afeacfa89ef725061caf4fbe6cf4
+Lamb_education_Aldo,Lamb,Education,Europe/London,False,False,False,False,True,,4173,744,744,9.0,d4d4d95e098e7d0b00fc759120561db7fc1007af884a7fca17a9aa0610199198
+Lamb_education_Lucas,Lamb,Education,Europe/London,False,False,False,False,True,,4173,744,744,29.56538,9b7c1f72e2f3375e2295c330a0069b4177a7d985753976a3132679a2377788ed
+Lamb_education_Freddy,Lamb,Education,Europe/London,False,False,False,False,True,,4173,744,744,15.1,e3084790f6a69c0f4c1e25c051e052bae1b3c47181ace43b09a5b9b85f632152
+Lamb_education_Moses,Lamb,Education,Europe/London,False,False,False,False,True,,4173,744,744,27.534000000000017,739daeca629201a70833f953b8d6c5ee2aebaa153793023f20c567d427e81022
+Lamb_education_Sara,Lamb,Education,Europe/London,False,False,False,False,True,,4173,744,744,180.40200000000004,66c644f3771cd01259a1082b5aa7fb2ab9246e8c08121641f854e5d11726f8fe
+Lamb_education_Phil,Lamb,Education,Europe/London,False,False,False,False,True,,4173,744,744,16.7,4b30cee7482fddd4d9c2ca0c4673e65519da4eb69cc0a062e6f1bec81ff51ba0
+Lamb_education_Sabrina,Lamb,Education,Europe/London,False,False,False,False,True,,4173,744,744,16.9,8c5d67703863a2d2eb1ebf52247a1007c702eb7c04788dac0dd5136ed184da80
+Lamb_education_Darrel,Lamb,Education,Europe/London,False,False,False,False,True,,4173,744,744,158.4,16043d531652e8c55bbfe56d4989969cf6cfdd793befe05547fef5167c148312
+Lamb_education_Isabelle,Lamb,Education,Europe/London,False,False,False,False,True,,4173,744,744,53.0,bb40ffd07b7a01d0e78eeee7ea9695e046cbd6acebdd7d308ea48e8ac07d5f0d
+Lamb_education_Norris,Lamb,Education,Europe/London,False,False,False,False,True,,4173,744,744,50.6,045a3f70576fe55c68d5e5e816294d9802c99cf106c2c84362fa8463c1b96a40
+Lamb_education_Logan,Lamb,Education,Europe/London,False,False,False,False,True,,4173,744,744,19.0,3761edec22ba14fe034fc866453111113ab60a997657b3f331f2b8803fe77968
+Lamb_education_Rick,Lamb,Education,Europe/London,False,False,False,False,True,,4173,744,744,47.4,22a9dad1ac8f6fb4ee98e8384c601cb488dc0a0dd7213a32cab2be5107d51a5f
+Lamb_education_Gabriel,Lamb,Education,Europe/London,False,False,False,False,True,,4173,744,744,35.734000000000016,b2cc960f42963c0144e6511611f466921e565cc20b675a23b3443f38c6499320
+Lamb_education_Gabrielle,Lamb,Education,Europe/London,False,False,False,False,True,,4173,744,744,25.11074,a089404bd174b437520a8ba64a62c5eea7c86503b262115daa62757ccb8234b3
+Lamb_education_Kayla,Lamb,Education,Europe/London,False,False,False,False,True,,4173,744,744,36.2,aafdce2e02b6ffd639df0bfdc98112e2017be10746834ab8fd6a5d395746f4c3
+Lamb_education_Hubert,Lamb,Education,Europe/London,False,False,False,False,True,,4173,744,744,36.12040000000001,f6d4593376c79ebd5b7fd6eca6b5166035de95ba2b353ab488a57b5089d7e42f
+Lamb_education_Harold,Lamb,Education,Europe/London,False,False,False,False,True,,4173,744,744,33.0,02c87df5d31a6068a3240a93e8b62024c9616c5d8e41b4090ffbe9afb5d5cbe0
+Lamb_education_Dolly,Lamb,Education,Europe/London,False,False,False,False,True,,4173,744,744,25.7,a33d61e93d9a8e96a642e5d20be3b10400576d7b596de4bbc7fade8fc61fc02d
+Lamb_education_Antonio,Lamb,Education,Europe/London,False,False,False,False,True,,4173,744,744,143.96800000000002,7584443e47c9af6cbf5d47301ee9fb4f8d2b24a34a2ac12184b44b5e34117167
+Lamb_education_Lawrence,Lamb,Education,Europe/London,False,False,False,False,True,,4173,744,744,37.53400000000001,d62cc5fe8f635b23ed2e2b723e9213636733a7fb16613364e762d1240c73dea8
+Lamb_education_Hellen,Lamb,Education,Europe/London,False,False,False,False,True,,4173,744,744,16.7,4ed678376e3b1dea448538a50a614d8f7bbc2bae22d2604fa79ec8e099419d62
+Lamb_education_Daniel,Lamb,Education,Europe/London,False,False,False,False,True,,4173,744,744,33.905980000000035,111c1e510b95cfe763719604992e72af61e8a5c76ed2ea679a271dc1c4047dd4
+Lamb_education_Renae,Lamb,Education,Europe/London,False,False,False,False,True,,4068,744,744,20.6,a5d21ce0bd286104d9c555f88d95510011d6185901ff0abd136ef6caf0448008
+Lamb_education_Wilbert,Lamb,Education,Europe/London,False,False,False,False,True,,4173,744,744,57.4,d3009c44b25371a91370910d682a0bec3343208846884083aa862ff485e2c24b
+Lamb_education_Salvador,Lamb,Education,Europe/London,False,False,False,False,True,,4173,744,744,33.9,ca839871af8a45af6da46c2f864dc7ccc767a5de14c338134dcd4a9a1031a305
+Lamb_education_Sylvester,Lamb,Education,Europe/London,False,False,False,False,True,,4173,744,744,13.2,05a20873c8a8fcd21184290912f2497578d56a95f162d8cb61b8b7b36ee63a7b
+Lamb_education_Dwayne,Lamb,Education,Europe/London,False,False,False,False,True,,4173,744,744,24.765860000000025,0afbb3baa1f2e331d484ea4f0d5ce5a7e947b1ba568382140b6860ebea3e17d4
+Lamb_education_Marc,Lamb,Education,Europe/London,False,False,False,False,True,,4173,744,744,70.40200000000004,81b945f2c67951f9d77468a5eaf85f0b88a95e1db68d4038b2d48946e851f4b5
+Lamb_education_Stefan,Lamb,Education,Europe/London,False,False,False,False,True,,4173,744,744,50.634000000000015,cbb0f153d16eb8f59c754b007fe04600a5b222977d99bd4dec7788c0ad600228
+Lamb_education_Hui,Lamb,Education,Europe/London,False,False,False,False,True,,4173,744,744,74.33400000000002,25560888c9371f7d0bf166b9c20c9beaea08440297e5ceb8d3abe40fe416990f
+Lamb_education_Randal,Lamb,Education,Europe/London,False,False,False,False,True,,4173,744,744,31.1,8791fb8381292d971e6da14392f49a2ac944834138a1c871d494dcf4e6ad5ac8
+Lamb_education_Bert,Lamb,Education,Europe/London,False,False,False,False,True,,4173,744,744,27.4,76fedfe073f93334159217e3185250dc8bb500f3a599d50dfc2deb9d59e9f851
+Lamb_education_Maxwell,Lamb,Education,Europe/London,False,False,False,False,True,,4173,744,744,45.4,3da3a39cd382bab327d36ad9e36fb79c1d14e095b4081da0fb7a1b2b3d1c2917
+Lamb_education_Sunny,Lamb,Education,Europe/London,False,False,False,False,True,,4173,744,744,31.820520000000002,42692a7092d1d03b3b209991070fc07d1b467e1891012dbc37b70d66ecd3d919
+Lamb_education_Junior,Lamb,Education,Europe/London,False,False,False,False,True,,4173,744,744,175.26800000000003,badc611b42965a2ac7603e3c438273482390b3668f73750e5061ff3ddf3b76e1
+Lamb_education_Augustine,Lamb,Education,Europe/London,False,False,False,False,True,,4173,744,744,35.8,7cecb12857d9980b8fc50e6362a622e4ca4377dd42c02ed1cf974406dd672e19
+Lamb_education_Terina,Lamb,Education,Europe/London,False,False,False,False,True,,4173,744,744,292.2,38ed62b5468769677d9b00003dcac19d7e0efc3c32aef0de6997c411c305d5aa
+Lamb_education_Camille,Lamb,Education,Europe/London,False,False,False,False,True,,4173,744,744,119.5,179ba3c07b35919a9664e3a91eb215502824269cd56b420c24aa9fc3bba4c041
+Lamb_education_Ira,Lamb,Education,Europe/London,False,False,False,False,True,,4173,744,744,21.5,e4c1e7f57156aa360381eec4c96a15c17a2914e89f5d165a2fb63c5ebbc2fb50
+Lamb_education_Nathan,Lamb,Education,Europe/London,False,False,False,False,True,,4173,744,744,27.36800000000003,d8d337de272fbf33767ec5ea1b8b980c139c21009044cb47ca0ba884c6cc7d0d
+Lamb_education_Lemuel,Lamb,Education,Europe/London,False,False,False,False,True,,4173,744,744,44.2,8a1df6eae62c89819a31e957d87e11f11d94a5249d2012aab0d293add9b2e374
+Lamb_education_Williams,Lamb,Education,Europe/London,False,False,False,False,True,,4173,744,744,146.60200000000006,960f365fbc777fb5ecfc833e7966c8c8f6e2eee8bedadb71a3b718c80dd887e9
+Lamb_education_Hilary,Lamb,Education,Europe/London,False,False,False,False,True,,4173,744,744,28.934000000000015,d6cc57af58612ff386773e666ae88d39080fb9841c06f76a1aa016084aa754f5
+Lamb_education_Armando,Lamb,Education,Europe/London,False,False,False,False,True,,4173,744,744,172.4,2b27d18d05c4be61c09211e2a10258fe66f877f186cd94e1a54228bd67a418dc
+Lamb_education_Ellen,Lamb,Education,Europe/London,False,False,False,False,True,,4173,744,744,26.6,2d67fe67533cedd38b8656fbeb8650784cb0380a74850ce21679a928255d746c
+Lamb_education_Domitila,Lamb,Education,Europe/London,False,False,False,False,True,,4173,744,744,216.76800000000003,8cfd2a93741b88e0e84264877bde7c2098ebf1b5999019f78eaaf37a9a1114db
+Lamb_education_Maritza,Lamb,Education,Europe/London,False,False,False,False,True,,4173,744,744,19.8,59192fb81c5f15e65bcf3350799a16c12388a6300c942cd8e375132bed002809
+Lamb_education_Faith,Lamb,Education,Europe/London,False,False,False,False,True,,4173,744,744,32.5,7dec23931d0aafcb86df3e9de8ff83b5c038861440917da2b63d555031923713
+Lamb_education_Patsy,Lamb,Education,Europe/London,False,False,False,False,True,,4173,744,744,36.4,78591a54d4f4d992edb617f5c8b567c1dd493c524c60033afe7060dc4e828efb
+Lamb_education_Eula,Lamb,Education,Europe/London,False,False,False,False,True,,4173,744,744,6.5001,61e80097fb48b68e7f790f802ad6c3306290ba6a6b9cf60c39bec397733b6ada
+Lamb_education_Nichol,Lamb,Education,Europe/London,False,False,False,False,True,,4173,744,744,14.634000000000015,73df4e2ab0fbaab3570c2e4623c90dd0e58dfdb5c6307084fad7795360afa7de
+Lamb_education_Mckenzie,Lamb,Education,Europe/London,False,False,False,False,True,,4173,744,744,156.60200000000006,4fb6e76e230752ea4ae2247c1599c48058e34d21ca9f0df9ae03fb8e670aca37
+Lamb_education_Wanda,Lamb,Education,Europe/London,False,False,False,False,True,,4173,744,744,20.234000000000016,15a6ae2ab18e3043ef54e400f81bc6db7dfe9cab55cd5d9b4f7a851175bf84b6
+Lamb_education_Debby,Lamb,Education,Europe/London,False,False,False,False,True,,4173,744,744,50.03400000000001,c4efb4a6211dda18ca0b37a5392e12ca73cce16f3bba0f440af73624d64aac47
+Lamb_education_Hillary,Lamb,Education,Europe/London,False,False,False,False,True,,4173,744,744,35.23600000000006,ef3c1ee9508f9d5d7e45f280de1fbfb1739320cd8822ab70443b75777546901b
+Lamb_education_Larissa,Lamb,Education,Europe/London,False,False,False,False,True,,4173,744,744,34.83400000000001,690f221bd5c6e9b9a7fe3a1dfbca7a7dca27a18e6557b3f163830e4944a6ce4d
+Lamb_education_Fred,Lamb,Education,Europe/London,False,False,False,False,True,,4173,744,744,35.8,1c45929b23387e3c5ec614a34745f909f0ac26eb5546497386fd612d045f78f2
+Lamb_education_Carlton,Lamb,Education,Europe/London,False,False,False,False,True,,4173,744,744,55.56800000000003,f1cd86499d306c77667a1ec9fea13a449e94d3f372ff61dd927cf3c4a2d0d5cd
+Lamb_education_Rodrigo,Lamb,Education,Europe/London,False,False,False,False,True,,4173,744,744,103.23400000000001,7d1ff46ffed35549b53ff0dcef500eddf4f02d387f0a710ced2d9abb513f4a0e
+Lamb_education_Marty,Lamb,Education,Europe/London,False,False,False,False,True,,4173,744,744,26.4,35a9b93475ce5a8336e1ebe7ba558f41c15bffb5f04a0ef0b6473a54c4be304b
+Lamb_education_Heidi,Lamb,Education,Europe/London,False,False,False,False,True,,4173,744,744,35.7,9b4fc7ec80cb6b2857848ec3172d1d228f73e6191f9914678b28a052bc91f173
+Lamb_education_Jane,Lamb,Education,Europe/London,False,False,False,False,True,,4173,744,744,48.1,1891227170bea0b816ec6097ea23bc463a0fb521ea9bf2e7a53cc53620f1897d
+Lamb_education_Garry,Lamb,Education,Europe/London,False,False,False,False,True,,4173,744,744,43.83400000000001,e792b6623e2da4f965e202f99d062d79d387cc43af91431479ab422f01344676
+Lamb_education_Alina,Lamb,Education,Europe/London,False,False,False,False,True,,4173,744,744,24.034000000000017,e9a70f16113285c76cdc8098168e3c5c7223e76e35a59826ca2f249c629c3cce
+Lamb_education_Felipe,Lamb,Education,Europe/London,False,False,False,False,True,,4173,744,744,100.93400000000001,740978223583d6d2d56b536d2e61c6d62b2b8d2c24ec3589832eb0975a66e7f8
+Lamb_education_Vaughn,Lamb,Education,Europe/London,False,False,False,False,True,,4173,744,744,37.234000000000016,e2c622f4192b88447ff2c2857ad4c87f96365ddcc9b76fa79e763c5b373fa2cd
+Lamb_education_Luz,Lamb,Education,Europe/London,False,False,False,False,True,,4173,744,744,235.2,481bd25464ef34c3ac877407e415e2f5b3581738663365bfa7c9013bc2f4316a
+Lamb_education_Leopoldo,Lamb,Education,Europe/London,False,False,False,False,True,,4173,744,744,35.53400000000001,933e72ecd6e45505fa6ce3c6eaeafc77b5a747ee1486bb2007a99e5a111dcb14
+Lamb_education_Robin,Lamb,Education,Europe/London,False,False,False,False,True,,4173,744,744,158.93400000000003,303c381c80d751e17d56882a4456c854e5252c4c037ef66b2f01543697d06fb5
+Lamb_education_Kasha,Lamb,Education,Europe/London,False,False,False,False,True,,4173,744,744,39.6,dfd7c186fbebc422e59234336643a66bf0ad43e8846b9725a9e94879c433c088
+Lamb_education_Traci,Lamb,Education,Europe/London,False,False,False,False,True,,4173,744,744,13.3,59adbc59b1d629e9ac8a8dc4b927f70ffb85362aaad74916e3d21dabedb3ca06
+Lamb_education_Lazaro,Lamb,Education,Europe/London,False,False,False,False,True,,4173,744,744,93.16800000000002,a9b13969f4f81666e9729185a4251d350692d511627e5f15b8e7010a353e7ec8
+Lamb_education_Philomena,Lamb,Education,Europe/London,False,False,False,False,True,,4173,744,744,143.2,77a4f2da314e97797e2bffe8138618a222b354fbcb21f5b2e1faef925a023d56
+Lamb_education_Willetta,Lamb,Education,Europe/London,False,False,False,False,True,,4173,744,744,0.0004,5a910b6e497c2604887ae5c2a552c8431a08e9731ba555c5a4eba3e2604d00c7
+Lamb_education_Chet,Lamb,Education,Europe/London,False,False,False,False,True,,4173,744,744,11.1,25e4f00426142f0549ce1bee65c9291387d60f6b5a7e0459ceeb5d0cc4d474f5
+Lamb_education_Emilie,Lamb,Education,Europe/London,False,False,False,False,True,,4173,744,744,17.4,501ad02c29ca937c9db9e6d1bf71434dc1e3121975e8353b5a834ed5322ef30a
+Lamb_education_Felicia,Lamb,Education,Europe/London,False,False,False,False,True,,4173,744,744,21.3,f9be601e10c226b5e78f4d4fd6fc715bf56006d061826941815a146576f605c1
+Lamb_assembly_Librada,Lamb,Entertainment/public assembly,Europe/London,False,False,False,False,True,,4173,744,744,206.51200000000026,cd0a17debcc23b494f6d671a4e67464ea175253bac71881adde85e42985a0fb2
+Lamb_assembly_Rosa,Lamb,Entertainment/public assembly,Europe/London,False,False,False,False,True,,4173,744,744,774.803564,608e9d482db407442b09fc173be312965fa9f70507d2c9826730dca5e3081373
+Lamb_assembly_Katelyn,Lamb,Entertainment/public assembly,Europe/London,False,False,False,False,True,,4173,744,744,95.07000000000008,56600d1e0f06e5fad8a6f2115e680517673f759c81b99f9001f88be1fc998916
+Lamb_warehouse_Allan,Lamb,Warehouse/storage,Europe/London,False,False,False,False,True,,4173,744,744,41.234000000000016,0ddad0b4281caade59df1e3963365db91cd9b5c61fd464a90a2192968872b1e3
+Bobcat_education_Miki,Bobcat,Education,US/Mountain,False,False,False,False,True,,3628,744,744,166.8801000000001,1d757a0c0751b8495e35b57fd8ec06a7b627349f08588257facc61d10e671f65
+Bobcat_education_Barbra,Bobcat,Education,US/Mountain,False,False,False,False,False,training_valid_fraction;nonpositive_scale;training_features;july_evidence;august_evidence,0,0,0,,81a6dff97507a132da36768af9d98891fa0956c3a955b32e396bdff232303ba0
+Bobcat_education_Coleman,Bobcat,Education,US/Mountain,False,False,False,False,True,,3585,744,411,212.75,33ef87678ef80cf9052517c2d33ad359deb9c17b4aba1779990c0123fdf2b3e1
+Bobcat_education_Alissa,Bobcat,Education,US/Mountain,False,False,False,False,True,,4137,738,744,118.00004,a003d155fa0d01352a84912dcb9acd7b44985fa844b762ad09666c8f159f018a
+Bobcat_other_Jovita,Bobcat,Other,US/Mountain,False,False,False,False,True,,4137,738,480,133.0,1175c592c330312d8239bb066c76ec716d9686df598ecfd3e3a310d8fbff7502
+Bobcat_assembly_Franklin,Bobcat,Entertainment/public assembly,US/Mountain,False,False,False,False,True,,3618,744,744,430.000133,dcacd2fa3cdc47aa48a208090567bccd73ddbad81a82a226a3fc9cad370051a4
+Bobcat_education_Angela,Bobcat,Education,US/Mountain,False,False,False,False,True,,4082,665,566,150.75,fff99dc3861b02efc0e897e2a58f4cb29958a0e59914ae9fdb808c56910c851b
+Bobcat_education_Whitney,Bobcat,Education,US/Mountain,False,False,False,False,True,,4173,744,744,728.3400000000001,51bdcaf50eb0a78e8b80e548521cc54f1dce09d147544526e633ec137c80c8a7
+Bobcat_office_Justine,Bobcat,Office,US/Mountain,False,False,False,False,False,training_valid_fraction;training_features,1764,422,717,36.374357,627716b72f16bfa60709c94ea4d86751575b95babf9fb6feafd94b8fa01eb041
+Bobcat_office_Melody,Bobcat,Office,US/Mountain,False,False,False,False,False,training_valid_fraction;training_features,1764,421,744,70.55590000000001,fb5b764352b056c12a75b7b1f3156ae14ca61b2db74bc9c8708d51d39b427579
+Bobcat_office_Nikita,Bobcat,Office,US/Mountain,False,False,False,False,True,,3767,717,673,89.37999999999988,52d0aa78eb5a2690bcc67cd5e993d7a0a4e6bcb872fa2172ecf94ce112bed56a
+Bobcat_education_Marisha,Bobcat,Education,US/Mountain,False,False,False,False,True,,3989,717,690,120.10249999999996,45d1e48d29b829c58b9eefca2209d1af137afb6524f0382a3984fae8eabfc460
+Bobcat_education_Toni,Bobcat,Education,US/Mountain,False,False,False,False,True,,4114,744,744,46.75,27a4599fc1931d64495f3b26cf2bf4f6826f71e85601efc709ddd11c9ba2a67c
+Bobcat_office_Alma,Bobcat,Office,US/Mountain,False,False,False,False,True,,4065,717,717,11.0001,00b113eb3807d7305045ab831a1f2a7eb86bc5d7fbb6d42262c082ac67571e55
+Bobcat_education_Rodrick,Bobcat,Education,US/Mountain,False,False,False,False,False,training_valid_fraction;july_evidence;august_evidence,3700,0,0,111.674529,223bcea13cf700afc38887545a763e0fd98d59ae1b426c520c6943165992e765
+Bobcat_education_Karin,Bobcat,Education,US/Mountain,False,False,False,False,True,,4013,744,576,83.12,7c6b13c82287cfe7b132aaa512941fad608d5907acfcf08ab357d2a8c9153911
+Bobcat_education_Monte,Bobcat,Education,US/Mountain,False,False,False,False,False,july_evidence;august_evidence,4139,2,0,48.625,2d9f8f68e87dafaeca8bfb443bce52d85585140b7fdd4c0ac47038621d6e42a0
+Bobcat_education_Jayne,Bobcat,Education,US/Mountain,False,False,False,False,True,,4146,744,744,144.41203500000006,4d3d235c32faace33cbd21505f32d4a1fc1baaf7ac0f01475686b65523df9da2
+Bobcat_office_Kassandra,Bobcat,Office,US/Mountain,False,False,False,False,False,training_valid_fraction;training_features,2481,661,744,111.94,83a36eef90baa968afe6c36feb2978f3e1be0b088243c265c57821d1537e4649
+Bobcat_other_Howard,Bobcat,Other,US/Mountain,False,False,False,False,True,,3767,691,525,508.00420000000275,8e2bfd71ac4888607b219e39df4a563df2c1d25ae84cdc77d88a377800c96b0b
+Bobcat_other_Timothy,Bobcat,Other,US/Mountain,False,False,False,False,True,,4173,744,744,34.98443400000002,6325c5f7714633f4b6abd488fe4cfbb0e20bea319a5a1b8ee874937fc7be92d0
+Bobcat_warehouse_Charlie,Bobcat,Warehouse/storage,US/Mountain,False,False,False,False,False,nonpositive_scale,4173,744,744,0.0,660d686780c8e709447940a7d720c87e43584c13ca64f154878e945b471595e6
+Bobcat_science_Tammy,Bobcat,Technology/science,US/Mountain,False,False,False,False,False,training_valid_fraction;training_features;july_evidence;august_evidence,2325,0,0,245.38271299999997,d9406474f093469b8710fba7d3094a6344834e16f02548a7d79e100c853af2f5
+Bobcat_education_Dylan,Bobcat,Education,US/Mountain,False,False,False,False,False,training_valid_fraction;training_features,2607,744,744,227.25,b72a3731cbac8f10925d213c5b1bcefcdbdd42a413c46264ad69deb7763df9f5
+Bobcat_public_Angie,Bobcat,Public services,US/Mountain,False,False,False,False,False,training_valid_fraction;training_features;july_evidence;august_evidence,2706,0,0,415.08001999999993,d8fa565923eef29191d82d2ea66d0a33ca0f08df6286f745dc978903b5f74b09
+Bobcat_assembly_Camilla,Bobcat,Entertainment/public assembly,US/Mountain,False,False,False,False,True,,4064,714,744,30.428039999999957,ff7e1e67e28c5533b23362a932ca6f8895c2ddee2154539aa5ce657f2c81e3d2
+Bobcat_assembly_Adam,Bobcat,Entertainment/public assembly,US/Mountain,False,False,False,False,True,,4042,663,716,124.72372200000008,2b7ee5822b566ab2b9ccd7d82a7b75602862f2a82a4d697a27ec4c2ce9c8f817
+Bobcat_assembly_Billy,Bobcat,Entertainment/public assembly,US/Mountain,False,False,False,False,True,,4173,744,717,221.500068,dfbea922210b8fdece472a7ee7a1cec0dccb9dff843086bf141b19a75a712cda
+Bobcat_education_Rosalva,Bobcat,Education,US/Mountain,False,False,False,False,True,,3567,717,744,134.63,9f5fde3592e25fe04c8fdd8b94d64ca93bdacf54dffa069501b317cd29d2e355
+Bobcat_education_Hollis,Bobcat,Education,US/Mountain,False,False,False,False,True,,4173,744,744,201.83503400000004,94c286d20a34a0adc8beaa0a907e6d13f8673a1b23fbda4a01e9bb9817eb32ff
+Bobcat_education_Seth,Bobcat,Education,US/Mountain,False,False,False,False,False,training_valid_fraction;nonpositive_scale;training_features;july_evidence;august_evidence,0,0,0,,d984bd6356cc825c321b14eaf28a9deb0656738c08411d4f7752460c1a47271a
+Bobcat_education_Emile,Bobcat,Education,US/Mountain,False,False,False,False,False,training_valid_fraction;training_features;july_evidence;august_evidence,2750,0,0,29.596239999999987,5a194f27932b1d26f452fa48593fb5c48cc8d98db37240db989d56b2a96605b6
+Bobcat_lodging_Nickolas,Bobcat,Lodging/residential,US/Mountain,False,False,False,False,True,,4134,744,744,69.34256299999997,573d4c12cd971ba59c1612e2add57209f694b0d752d470adc2b0e7b7feb0a476
+Bobcat_lodging_Darin,Bobcat,Lodging/residential,US/Mountain,False,False,False,False,True,,4088,744,744,209.90999999999985,d05e0a8951ab53732c65b355935dedf6cb683281d9002441394a0d4c39e3112a
+Bobcat_lodging_Melaine,Bobcat,Lodging/residential,US/Mountain,False,False,False,False,True,,4173,744,717,65.13,62f6d43459914b7b5e75c6fdbf01dc6b8e961e3d9cbc47b88a44b7a038205714
+Crow_education_Marlin,Crow,Education,US/Eastern,False,False,False,False,True,,3850,744,717,552.0,897fd19215bbe25d6d6048450962068dc4def5b5f200dbb715273c0cf4260b72
+Crow_education_Keisha,Crow,Education,US/Eastern,False,False,False,False,True,,4098,744,744,413.0,ebe00debde294a0ba7ee99d20a936376211f48bb838d2c0b57d290828e6ad82a
+Crow_education_Kate,Crow,Education,US/Eastern,False,False,False,False,True,,4170,717,606,122.0,43377bc1a60b09f1e271272ccbbf03ebbf5219598e41fac9e2837934c83ec1af
+Crow_education_Winston,Crow,Education,US/Eastern,False,False,False,False,True,,4170,744,606,548.3500000000004,42ef1a93dbaff489ba081c041bcbd1cc785fc1dc9230522ab82bb7afeda6e25c
+Crow_education_Omer,Crow,Education,US/Eastern,False,False,False,False,True,,4170,744,744,563.0,6acd71c4dba737841d2cad0f13fe709b818fce3ff7885dc048228792292aa174
+Shrew_office_Katherine,Shrew,Office,Europe/London,False,False,False,False,True,,4173,744,744,80.2,b038561190e2b4338460edab294dfb9f1cf5d9894478304e1463974d51ef6589
+Shrew_office_Doris,Shrew,Office,Europe/London,False,False,False,False,True,,4173,744,744,321.134,6d5ac355ebc70aa31e0868fd7d86d87899bef14da44bcc90aea54cbe25409447
+Shrew_office_Rose,Shrew,Office,Europe/London,False,False,False,False,True,,4173,744,744,19.1,d877dcfecffca79187c5fda5f55060a68d636e04a79f6b63d9ff9fe36798ad2e
+Shrew_office_Lin,Shrew,Office,Europe/London,False,False,False,False,True,,4173,744,744,542.734,73df280aa24d3c1caaab9232bc804f4b989013905b33315d01243b0709c06768
+Shrew_office_Kenneth,Shrew,Office,Europe/London,False,False,False,False,True,,4173,744,744,75.2,0096ca0cd25096ef54fce04a6e00e082491ec2b2f274d4ff9132bc6d103a4eff
+Shrew_office_Nora,Shrew,Office,Europe/London,False,False,False,False,True,,4173,744,744,304.03400000000005,084a14a61652cfc2d7d9996077a749694b21c7435e9f41fea9a4b815d10652ed
+Shrew_office_Ila,Shrew,Office,Europe/London,False,False,False,False,True,,4173,744,744,260.53600000000006,d10cb68abb9f1626d689386075f5e5fbb921a992258a05dbf6e2d61049134782
+Shrew_office_Doug,Shrew,Office,Europe/London,False,False,False,False,True,,4173,744,744,118.6,943fc10a417a3400f49eedafe2620505f71c4e3362f3001233d7f614c294b0c2
+Shrew_office_Sherill,Shrew,Office,Europe/London,False,False,False,False,True,,4173,744,744,551.6700000000001,391889bbbb4e26767e4fb82b2547772fdbb9a7dcdd883be7ae49a5fd59320f45
+Swan_unknown_Reyna,Swan,,US/Pacific,False,False,False,False,False,training_valid_fraction;nonpositive_scale;training_features;july_evidence;august_evidence,0,0,0,,407650dc31ea6f54f3f82ee9b84e08e183d419889fe15dec5e60e8df90b96dbd
+Swan_unknown_Douglas,Swan,,US/Pacific,False,False,False,False,False,training_valid_fraction;nonpositive_scale;training_features;july_evidence;august_evidence,0,0,0,,7611df7e081e0a344a44890b173c69fa5c207fbdcf78e28c32c13e418679ae48
+Swan_unknown_Ike,Swan,,US/Pacific,False,False,False,False,False,training_valid_fraction;nonpositive_scale;training_features;july_evidence;august_evidence,0,0,0,,c6b6b69656ac61245c596f2fb8030234bda98ed94f4a2f057276fe2cfcacaab4
+Swan_unknown_Esteban,Swan,,US/Pacific,False,False,False,False,False,training_valid_fraction;nonpositive_scale;training_features;july_evidence;august_evidence,0,0,0,,72e5e135cb86a96e67c102b1358b40e6d30ca4a7991e3aa1e9b47ff1e3cb6e71
+Swan_unknown_Christoper,Swan,,US/Pacific,False,False,False,False,False,training_valid_fraction;nonpositive_scale;training_features;july_evidence;august_evidence,0,0,0,,bb20e5855650386ef738137c83f003d159ac9db5d0d6c63cd3178f402aefe738
+Swan_unknown_Isaiah,Swan,,US/Pacific,False,False,False,False,False,training_valid_fraction;nonpositive_scale;training_features;july_evidence;august_evidence,0,0,0,,3a5d293d6b27744944bff5b7afdf898ff0b03790c1a487ef04f045d0115bb3fe
+Swan_unknown_Tom,Swan,,US/Pacific,False,False,False,False,False,training_valid_fraction;nonpositive_scale;training_features;july_evidence;august_evidence,0,0,0,,1847336716cdd87d906ca83f96a4674102e40f4952a578603351116004a31a4b
+Swan_unknown_Jan,Swan,,US/Pacific,False,False,False,False,False,training_valid_fraction;nonpositive_scale;training_features;july_evidence;august_evidence,0,0,0,,99dcac7d4e8d7356cc17bbf9fc53b9123c368a48979edd9a1c80078b6218e10e
+Swan_unknown_Andres,Swan,,US/Pacific,False,False,False,False,False,training_valid_fraction;nonpositive_scale;training_features;july_evidence;august_evidence,0,0,0,,ea25c3f35114f9aaa3594b50698985b94f29d7140b3888e214f3b36aa3a75f52
+Swan_unknown_Jerold,Swan,,US/Pacific,False,False,False,False,False,training_valid_fraction;nonpositive_scale;training_features;july_evidence;august_evidence,0,0,0,,d7b1c6b9f4f213d8edc2c1a2971fcf49ba05b7f6bf40266b1b4bfab59ad9df4c
+Swan_unknown_Rocco,Swan,,US/Pacific,False,False,False,False,False,training_valid_fraction;nonpositive_scale;training_features;july_evidence;august_evidence,0,0,0,,b82a53fa6aec9e344ba88c6eac05601fc7aa716f331a382b4ef79db44444583a
+Swan_unknown_Raquel,Swan,,US/Pacific,False,False,False,False,False,training_valid_fraction;nonpositive_scale;training_features;july_evidence;august_evidence,0,0,0,,8ebe6c32691b66a42e5319338eb53591f8912321997eee942f8868380e8eb838
+Swan_unknown_Wendy,Swan,,US/Pacific,False,False,False,False,False,training_valid_fraction;nonpositive_scale;training_features;july_evidence;august_evidence,0,0,0,,3abe233740f496cf3715b4ede4c623b9d0421639c70edfbb88cfb050815e9d63
+Swan_unknown_Allison,Swan,,US/Pacific,False,False,False,False,False,training_valid_fraction;nonpositive_scale;training_features;july_evidence;august_evidence,0,0,0,,f463f4613b729e347caa59f054813b449416a7d38c98d1433738033717250d1a
+Swan_unknown_Valeria,Swan,,US/Pacific,False,False,False,False,False,training_valid_fraction;nonpositive_scale;training_features;july_evidence;august_evidence,0,0,0,,241d3a2b41bdddc67e25c88631797a0526995ea93b3552498651242fb0e2590d
+Swan_unknown_Rudy,Swan,,US/Pacific,False,False,False,False,False,training_valid_fraction;nonpositive_scale;training_features;july_evidence;august_evidence,0,0,0,,1feb429625e9dca2310395a8866f056102b302ec172288d8c2f9f90fc80c8c35
+Swan_unknown_Fabian,Swan,,US/Pacific,False,False,False,False,False,training_valid_fraction;nonpositive_scale;training_features;july_evidence;august_evidence,0,0,0,,e0acdb0187d657dffbf482b6577287036ea04718c7f20a6578852fc5fd230846
+Swan_unknown_Noelia,Swan,,US/Pacific,False,False,False,False,False,training_valid_fraction;nonpositive_scale;training_features;july_evidence;august_evidence,0,0,0,,70a7381152b4fcc24d0f89642eb9352f035015b468cb119156ddb08b91a8c199
+Swan_unknown_Bette,Swan,,US/Pacific,False,False,False,False,False,training_valid_fraction;nonpositive_scale;training_features;july_evidence;august_evidence,0,0,0,,91b0aeb4dfc3f7c6a39ccbbc1593100f587b80618f2ff60a054a3bdb680c2d71
+Eagle_office_Lillian,Eagle,Office,US/Eastern,False,False,False,False,True,,4173,744,744,163.0882,dd9ec16fbec995f333a03fc0992bcebaa386169bc02735aaa7620e25ba1adb14
+Eagle_office_Henriette,Eagle,Office,US/Eastern,False,False,False,False,True,,4173,744,744,48.0,6e33f744b3863e49cd192d45ec05d6e57892432b0b703167bd13f8d07939a927
+Eagle_office_Tia,Eagle,Office,US/Eastern,False,False,False,False,True,,4173,744,744,276.8566,b239260283e3288675710c64b786ff04aaa78824f7235e6aaeea1d30eb2d19d3
+Eagle_education_Eileen,Eagle,Education,US/Eastern,False,False,False,False,True,,4173,744,744,63.1434,73b593839d2a265358a21e7e4f8e7c5a1bafa788c86141de5702410d6841d0f1
+Eagle_education_April,Eagle,Education,US/Eastern,False,False,False,False,True,,4173,744,744,65.0833,c04fa804368e7d254b1fea88da48352fae97eb5fbb575104e93131e60849166f
+Eagle_office_Yadira,Eagle,Office,US/Eastern,False,False,False,False,True,,4173,744,744,240.19222200000002,7621d347ef8308433e1310c4890560dfdf79f65e6fd38110b4442dddd2c4b58a
+Eagle_office_Mable,Eagle,Office,US/Eastern,False,False,False,False,True,,4173,744,744,25.44,13fd39915d79bec569d02f0f72d6653aff2abe74c618cacf7610edf07d3b7c03
+Eagle_office_Ryan,Eagle,Office,US/Eastern,False,False,False,False,True,,4173,744,744,48.0,924d4a5679aee4978124f56cb57f9cd9ec25c9b43820100722b75a2e1a409bb9
+Eagle_education_Maragret,Eagle,Education,US/Eastern,False,False,False,False,True,,4146,744,744,30.0,cd9fd9f32dad961a3b2f544c294327fff132ffbc392742fdc48fd1f27592cb80
+Eagle_education_Jewell,Eagle,Education,US/Eastern,False,False,False,False,True,,4173,718,406,299.999372,c29cc1d59ca602a8c9a803154b0dd56a206b251f93d2f39f9f2584f66d706350
+Eagle_education_Paul,Eagle,Education,US/Eastern,False,False,False,False,True,,4173,744,744,53.03860800000005,6fcb50428574e3ea732a94836a83f2f42b16141bb2662eebb55953c092c96d01
+Eagle_education_Sheena,Eagle,Education,US/Eastern,False,False,False,False,True,,4173,744,744,56.59641400000006,d550ba80bded0071cb88bd78fdcc8139017032a83aead5ff62b77d830e5d55a0
+Eagle_public_Preston,Eagle,Public services,US/Eastern,False,False,False,False,True,,4146,744,744,488.948455,d905508fa9b5d84d993138482889e4d7fefe59d51640bd5d16bf0b4271307c6b
+Eagle_office_Jackie,Eagle,Office,US/Eastern,False,False,False,False,True,,4173,744,744,111.0,3d7240a45950530d820d2129eeda2d5a0d40cb7c0f228decc3fc458dcb90b10f
+Eagle_office_Elvis,Eagle,Office,US/Eastern,False,False,False,False,True,,4173,744,744,92.0,824a6b56d783b05c98661a2b8d0a947dd2cd208be33aa65da7e75a72ef822e1c
+Eagle_office_Patrice,Eagle,Office,US/Eastern,False,False,False,False,True,,4173,744,744,150.1,986a2eb2786c6f2c4d101e9e3f134f46bc1ca174e1b38949288014ab37aee8a5
+Eagle_office_Sheree,Eagle,Office,US/Eastern,False,False,False,False,True,,4173,744,744,72.0,ee3e18e944c3e95e766463d0ac80304394cf9ba30e0b31b7b1a215bfbc507ee4
+Eagle_public_Minnie,Eagle,Public services,US/Eastern,False,False,False,False,True,,4173,744,744,264.0,59eb3c6bdd01b6f864fea115fb98d34e08e741047f4723cee8563a0ce7cb3f77
+Eagle_health_Athena,Eagle,Healthcare,US/Eastern,False,False,False,False,True,,4173,717,744,659.8164,076670f2059cca2fe1e9bae18917e979a91a8951d6982645934241be3735d73e
+Eagle_office_Isidro,Eagle,Office,US/Eastern,False,False,False,False,True,,4173,744,744,55.0,1d5e85382042c0d08ec56dc13a9ea59794f36c82de90d921929eefe6928b6b2b
+Eagle_health_Jodi,Eagle,Healthcare,US/Eastern,False,False,False,False,True,,4173,744,744,280.939676,35f6e570b3db247075ef197afb61c2ff136e9843a3a9cbcb0c3383f5935316d2
+Eagle_public_Ola,Eagle,Public services,US/Eastern,False,False,False,False,True,,3468,685,651,199.80280000000002,e8f136278fa29b92691fa6443320e5f6dd21970f76c4aa028c3d6b051905d2b1
+Eagle_health_Vincenza,Eagle,Healthcare,US/Eastern,False,False,False,False,True,,4173,744,744,89.5,849a1ed2fbadf6990084b517f0a54cde3038809b337df3ccac8ca0fec851047c
+Eagle_office_Lane,Eagle,Office,US/Eastern,False,False,False,False,True,,4173,744,744,73.0,3586781e11ab69095ba53896b18704e54b1a7f006a1abbc9a404502e2e9ffe05
+Eagle_food_Kay,Eagle,Food sales and service,US/Eastern,False,False,False,False,True,,4173,744,744,318.02406000000053,8257556ae53e69c6f0e31fed1976f065bb3d47d1659711842b5d70aaed28dc61
+Eagle_office_Freida,Eagle,Office,US/Eastern,False,False,False,False,True,,4173,744,744,108.0,9effea06c935fe7ff19e8a7d661be024120989832d14c06a97f6436b254d57cd
+Eagle_office_Francis,Eagle,Office,US/Eastern,False,False,False,False,True,,4173,744,744,428.34000000000015,c58716ef922cc2f8b86b8a6078beb07a9b40903f9a6246ab55c3b0ef0c799ec9
+Eagle_education_Shante,Eagle,Education,US/Eastern,False,False,False,False,True,,4173,744,744,728.1528440000001,32667f6df14be4dbecd35aa50616561e8383c6940c2aeeb873b3d13d7293aefe
+Eagle_education_Shanna,Eagle,Education,US/Eastern,False,False,False,False,True,,4173,744,744,481.34000000000015,c126336bf35a16bfe9c7a347b2ba03597b8b29a315369977f1b97a143888a676
+Eagle_education_Luther,Eagle,Education,US/Eastern,False,False,False,False,True,,4173,744,744,517.998,c25b76118f35210414f2c2d79c017e7e08e4d8bb7145993444386fba89fb441a
+Eagle_education_Samantha,Eagle,Education,US/Eastern,False,False,False,False,True,,4173,744,744,345.88626600000003,91ce404e5f9aaff3315e594eec000572e1d462a75b0fe14fcd593b2c11fecc80
+Eagle_education_Petra,Eagle,Education,US/Eastern,False,False,False,False,True,,4173,744,744,94.34000000000015,eb6070e0a2243dc60c9fb0ea98777e61c4932c4832ca9f93cdb09bacb03cf96d
+Eagle_office_Chantelle,Eagle,Office,US/Eastern,False,False,False,False,True,,3991,490,580,57.1016,b30673599744265419aa3cef0458d607e6d9f0dd9a2be09ec768353f824f7b21
+Eagle_office_Dallas,Eagle,Office,US/Eastern,False,False,False,False,True,,4173,744,744,95.82373400000002,74ef21677d6b44d791b67faa61be89be4386a294a9409428c2dad3517b8dafab
+Eagle_office_Bridgett,Eagle,Office,US/Eastern,False,False,False,False,True,,4173,744,744,279.03985,588428ef54b204259d4b27965af553bae74024f0a66dcaa765831a8cce6a801e
+Eagle_education_Brooke,Eagle,Education,US/Eastern,False,False,False,False,True,,4173,744,744,1102.713884,6cac9830a9af7d37bfeab47593dd605017963df1a2a4a95e7bf61aa8ac7d9c04
+Eagle_education_Wesley,Eagle,Education,US/Eastern,False,False,False,False,True,,4173,744,744,203.0,ee3f0be6e3feb208fd455a268578739063d7591e5122b72345b169b784f9b95b
+Eagle_office_Donovan,Eagle,Office,US/Eastern,False,False,False,False,True,,4173,744,744,159.95520000000005,a76d9149a90cc474054df37d510df2348c1064b435778d15d6b5265d4b7834a9
+Eagle_office_Flossie,Eagle,Office,US/Eastern,False,False,False,False,True,,4173,744,744,225.96000000000004,ec09ecbedd95e6280d3bd1d4dcae450fc52282c5e2088b878f9c8483b1f5f584
+Eagle_office_Randolph,Eagle,Office,US/Eastern,False,False,False,False,True,,4173,744,744,190.6668,82e4308cdae964ef38c0ea3f1206d5e20764c09f0def2dd56405b4ef546f6404
+Eagle_education_Norah,Eagle,Education,US/Eastern,False,False,False,False,True,,4173,744,744,563.0,83f43fc525f064618e390d774c8b7f9db12505a1c0fa50ef2ae191bbec55257e
+Eagle_education_Cassie,Eagle,Education,US/Eastern,False,False,False,False,True,,4173,744,744,122.46000000000004,6a827921c85c18a3cac0bc9bbedc00b890a3ec15bda9eefa03c0cd1cc1f7fb51
+Eagle_food_Jennifer,Eagle,Food sales and service,US/Eastern,False,False,False,False,True,,4120,552,555,230.005136,703b33cb6386e54dac9b7a6587d66b6862682afe952a626969a51586953e38bd
+Eagle_public_Henry,Eagle,Public services,US/Eastern,False,False,False,False,True,,4025,717,622,75.0,b16d88ddadae32a5c0e0dd7774345861fe7161fcf6017ae3ba2e1eeb239cfa9b
+Eagle_education_Lino,Eagle,Education,US/Eastern,False,False,False,False,True,,4146,717,705,327.9013350000002,d7870053fbd8d0e05036938e71b812689eeaa4c9d042743d52aa30f4bff42dab
+Eagle_office_Efrain,Eagle,Office,US/Eastern,False,False,False,False,True,,4146,744,744,95.55226500000002,74b4fea4359eabe484240951f944e898e01ec384ef9440131cd4c69b6cd12b29
+Eagle_health_Amy,Eagle,Healthcare,US/Eastern,False,False,False,False,True,,4173,744,744,138.68752800000001,0ac7bd5e1176b4214c14dfb1bf46712a42cde097b2ea5d09b80a98336cebe277
+Eagle_assembly_Estelle,Eagle,Entertainment/public assembly,US/Eastern,False,False,False,False,True,,4173,744,664,25.0,3ee79e1ea97d7de7248a3b706256c906a734a7f999b790412cbc5e6826264465
+Eagle_public_Missy,Eagle,Public services,US/Eastern,False,False,False,False,True,,4173,744,744,79.23186200000002,42524c47af1ba62b269a887567c9b8a18ad9172cfb2c0c5425b5404e1b647bdf
+Eagle_public_Pearle,Eagle,Public services,US/Eastern,False,False,False,False,True,,4173,744,744,539.4412420000001,32d69ec8ac3b7b478c7e07bcaf35e6d100031d5c54a47577c1dfcbec28b35df9
+Eagle_office_Demetra,Eagle,Office,US/Eastern,False,False,False,False,True,,4173,744,744,249.0,ba5ea84d8d24c654345d0b9422a0a246dbc6f0987bd47c661dd68b229cdb9e65
+Eagle_office_Jeff,Eagle,Office,US/Eastern,False,False,False,False,True,,4173,744,744,97.0,734f82df42b8fb55a4347f802306972ac99d760f76996533bd2dafc6e2dc7192
+Eagle_office_Damian,Eagle,Office,US/Eastern,False,False,False,False,True,,4173,744,744,262.9488,c5c48c3e26d52377df2a75cd3b7dfede5b1d916d5472ebdd9da219aa64c24f34
+Eagle_office_Elias,Eagle,Office,US/Eastern,False,False,False,False,True,,4173,744,744,124.0512,42fa478713ebed543b949639a733a53e7c60d8c82ae11914ce66a9bf73a01f04
+Eagle_office_Katheleen,Eagle,Office,US/Eastern,False,False,False,False,True,,4173,744,744,162.50874400000004,85797068c4f0d952eb165aec1d59b0a7001468fcfa27e93b586cc0d31d435faa
+Eagle_education_Edith,Eagle,Education,US/Eastern,False,False,False,False,True,,4173,744,744,287.18863000000005,386fa5329f8014f60f50da6362f5ad2ec1f35341cbbf9861246bd67baf41a616
+Eagle_office_Elia,Eagle,Office,US/Eastern,False,False,False,False,True,,4173,744,744,232.56645600000004,715f72d7ee93aa398fa764c64681d24cdd2f99ea7fca8d3e36ab644652440459
+Eagle_lodging_Terri,Eagle,Lodging/residential,US/Eastern,False,False,False,False,True,,4173,744,744,236.28083800000005,ec126d5a5c478cab3488499e672422af7e0cb346ef96a2e282282348d0074956
+Eagle_office_Amie,Eagle,Office,US/Eastern,False,False,False,False,False,training_valid_fraction;training_features,849,744,744,470.8333,b72fe1959e657fc66939a101ad3b958eb70407b8d430122573192ab55277dc71
+Eagle_health_Lucinda,Eagle,Healthcare,US/Eastern,False,False,False,False,True,,4173,744,744,629.0,337b28c8249dd4eb4764f48f464119ff2d73478e185ec9c1b0e1f6b876477fb1
+Eagle_public_Alvin,Eagle,Public services,US/Eastern,False,False,False,False,True,,4173,744,744,142.074346,d8ca9ffa6b49b64a7c205f0348b47291f86c7e8cfd585bbec00a0b8d403edf66
+Eagle_education_Peter,Eagle,Education,US/Eastern,False,False,False,False,True,,4173,744,744,1929.5264280000001,af0484959e934ad6759a900cc7d1e0cff1546e133246af395add9bd9fe2872e2
+Eagle_health_Reuben,Eagle,Healthcare,US/Eastern,False,False,False,False,True,,4173,744,744,333.0,d70406ab7f7c2f44a379695edad5c711dfc03c9d1ce573bd7d52bebf22ab400a
+Eagle_health_Reba,Eagle,Healthcare,US/Eastern,False,False,False,False,True,,4173,744,744,489.031,b3f5004d4ee56fc916f3309b35445e3a6fa317c7b68ebc1afce7a1e9253ab507
+Eagle_education_Teresa,Eagle,Education,US/Eastern,False,False,False,False,True,,4173,744,744,144.885002,40fc08e390987cdad5ab8d9c72c6c58d94892860f395bdfab5cfb20326bc058f
+Eagle_education_Raul,Eagle,Education,US/Eastern,False,False,False,False,True,,4173,717,744,775.335564,4aa9b25b7a50634726fcc2b5a6d680ac69386923eae1a91db2660f42a82da441
+Eagle_education_Sherrill,Eagle,Education,US/Eastern,False,False,False,False,True,,3971,744,717,847.608502,3f33a79e9f8cbfdf6a01d90c65a7bb213cebcf75a924fd71e6f149cc64ab1fa0
+Eagle_education_Roman,Eagle,Education,US/Eastern,False,False,False,False,True,,4173,744,744,829.3400000000001,d5f9f4f73064ddc599cda4ba653220298bec35011b3142c14dbb2deef8ba8794
+Eagle_office_Chauncey,Eagle,Office,US/Eastern,False,False,False,False,True,,4173,744,744,714.8371840000001,e65155d7309af0b2ed4621fc1dd04b9f2d5fa76f02edd9d883fe1bb7c9580a0f
+Eagle_office_Norbert,Eagle,Office,US/Eastern,False,False,False,False,True,,4173,744,744,172.706842,1ce205b16171ed43e7a0113d9ad18162c42e120af11cf82d1734834059c76bbb
+Eagle_office_Remedios,Eagle,Office,US/Eastern,False,False,False,False,True,,4173,744,744,124.27352800000003,ac4595ca593fef5191791073bd0ef0a11701753b711ead9bf921136a0ba21298
+Eagle_office_Lamont,Eagle,Office,US/Eastern,False,False,False,False,True,,4173,744,744,47.981082,bd63f7b97e77d04f4a0389e53dc74d34eb64bb90c09dcc24089157e4a0cacd72
+Eagle_office_Nereida,Eagle,Office,US/Eastern,False,False,False,False,True,,4173,744,744,231.59991400000004,2f2065e76c34eebe1a7cee015c096b5b164eb01c25493e4c06555f519addcc60
+Eagle_office_Mandi,Eagle,Office,US/Eastern,False,False,False,False,True,,4173,744,744,20.9468,639431677b6f963913c0dc214eb67f635e74a56cb91835efed9f62b12b0cc25f
+Eagle_office_Phyllis,Eagle,Office,US/Eastern,False,False,False,False,True,,4173,744,744,50.8948,7a645cdfdb5a02777f7023871b073a16f42a7b3271281ace15980f7b210b9aaf
+Eagle_education_Alberto,Eagle,Education,US/Eastern,False,False,False,False,True,,4173,744,744,560.1026300000001,589a8b9331166d1cd1f395ae63a8e5857d7f630448567adb1d8f46bc9288e0e4
+Eagle_education_Shana,Eagle,Education,US/Eastern,False,False,False,False,True,,4173,744,744,60.216,79ea36ed6b73b1d584a654a36af22b2a5db14b52ec03e2ce5cbc74361ad753d5
+Eagle_health_Margo,Eagle,Healthcare,US/Eastern,False,False,False,False,True,,4173,744,744,75.15996200000001,59f73f31ed3fe54ae94fbf1574ff95d68547a09a05a59e508a67e77e9a4ddf74
+Eagle_education_Will,Eagle,Education,US/Eastern,False,False,False,False,True,,4173,744,744,140.125,c57712dee29dd834e229fc0f096ee16fd5d47035144bdc4cbe23aaea024df0c5
+Eagle_office_Marisela,Eagle,Office,US/Eastern,False,False,False,False,True,,4146,744,744,216.04773500000007,9d54649d3e19b6d943c3a17939807b524f44e44563bebb08ce88eb8b9010d768
+Eagle_health_Gregoria,Eagle,Healthcare,US/Eastern,False,False,False,False,True,,4173,744,744,706.9073300000001,f71c8863da3baae0dbec9c43a3c45b204aac7ebdef45de3383f903cd3e2688fa
+Eagle_office_Amanda,Eagle,Office,US/Eastern,False,False,False,False,True,,4173,744,744,509.889142,5103d84bc0128be4569203def3ed1fd61418cc123bffc85fec5fd0ed317c7f17
+Eagle_lodging_Garland,Eagle,Lodging/residential,US/Eastern,False,False,False,False,False,training_valid_fraction;nonpositive_scale;training_features;july_evidence;august_evidence,0,0,0,,2a6fedc9c85ff9120057081086bf7e2681a63920abf7930090490c9e56acaa0c
+Eagle_lodging_Blake,Eagle,Lodging/residential,US/Eastern,False,False,False,False,True,,4173,744,744,38.478926000000016,67593796c1d4aad1caa22136ce5ee4b425829a1931fca22de67db39992a7d2e7
+Eagle_lodging_Tressa,Eagle,Lodging/residential,US/Eastern,False,False,False,False,True,,4173,744,744,106.34000000000015,74648b81c8e6458c792b1ccedda4bf86e47f59123cd38e0dd2f7c368a4785778
+Eagle_lodging_Casey,Eagle,Lodging/residential,US/Eastern,False,False,False,False,True,,4173,744,744,115.928978,6b2119b5371f49696d2ff84acf060052743e8fa6693b42ed196b4d0fd5001058
+Eagle_lodging_Dawn,Eagle,Lodging/residential,US/Eastern,False,False,False,False,True,,4173,744,744,109.77213200000004,07d5c68db3757abc28bc5a4c6b2af474279edc8bf72ad3fb18497c85f734655e
+Eagle_lodging_Edgardo,Eagle,Lodging/residential,US/Eastern,False,False,False,False,True,,4173,744,744,82.2202,9bf87f07d1f5d142c3796a668361055351eda016e52729bb83f557e4687f26d7
+Eagle_lodging_Trina,Eagle,Lodging/residential,US/Eastern,False,False,False,False,True,,4173,744,744,78.92720000000001,3b852fb3eb80e02af95dde00b4067d0aacbf6857358593f79f12092644455a71
+Eagle_lodging_Andy,Eagle,Lodging/residential,US/Eastern,False,False,False,False,True,,4173,744,744,90.2386,3105e875568aeb86f07921f165ebb4d2d5a4b6b40caffa1d7130985624d936de
+Eagle_lodging_Stephanie,Eagle,Lodging/residential,US/Eastern,False,False,False,False,True,,4173,744,744,113.0,239f6fd168e55cc42f4c8fc9035791a2da087950b49be947a0ba85af857a00fd
+Eagle_health_Trisha,Eagle,Healthcare,US/Eastern,False,False,False,False,True,,4173,744,744,440.81840000000005,df4a8e80f3f3bd7850de001036a4847d9ce2acb6bb4be2d76c48682495c565c5
+Eagle_office_Joette,Eagle,Office,US/Eastern,False,False,False,False,False,training_valid_fraction;nonpositive_scale;training_features;july_evidence;august_evidence,0,0,0,,fc851310c9f110383ef0f84686cc7fe04caa7981c4d112d0252c905fc70a3fc6
+Eagle_office_Michele,Eagle,Office,US/Eastern,False,False,False,False,False,training_valid_fraction;nonpositive_scale;training_features;july_evidence;august_evidence,0,0,0,,747580450dd09b76c1115554b3132b5afd13c323c59f414d105b05e77b8bad52
+Eagle_education_Brianne,Eagle,Education,US/Eastern,False,False,False,False,True,,4173,744,744,413.362,4de6423b4f9536b70f2713d2ec415260baa292f54238ebd6e7015ed9cfbce1c7
+Eagle_assembly_Herbert,Eagle,Entertainment/public assembly,US/Eastern,False,False,False,False,True,,4173,744,744,128.08200000000005,c583acc90b065ddf86fc50c52f180fb0b60e012703db24caca28efcb9de95bda
+Eagle_assembly_Benny,Eagle,Entertainment/public assembly,US/Eastern,False,False,False,False,True,,4173,744,744,100.99185800000005,0e0a75e92891400882c10a1ad9d2047c3231e448a864c2cbb0f3a8868e5c560f
+Eagle_assembly_Margret,Eagle,Entertainment/public assembly,US/Eastern,False,False,False,False,True,,4173,744,744,539.14625,866c58618561919407b9e5b4c68a630061aa478d5943d5d470bfb809de98a76a
+Eagle_assembly_Josie,Eagle,Entertainment/public assembly,US/Eastern,False,False,False,False,True,,3921,743,381,200.997138,5c6af6b8d70f61c0c8114550f4c4696aff41feb7712e6644ab782dcc41cac683
+Eagle_assembly_Latrina,Eagle,Entertainment/public assembly,US/Eastern,False,False,False,False,True,,4173,744,744,143.9928,1d1cb26f9b282dc03bb6801f58bb44ad057ade1f36c4d18bb8e595381a43a5a8
+Eagle_assembly_Noel,Eagle,Entertainment/public assembly,US/Eastern,False,False,False,False,False,nonpositive_scale,4173,744,744,0.0,8fcf379318c4a9605cc089ab15b1a9bf987e202e7f3f33b165b34c2ba66f8d1d
+Eagle_assembly_Portia,Eagle,Entertainment/public assembly,US/Eastern,False,False,False,False,True,,4173,744,744,233.01466,9f7c58af296a0cae7d9d66afb5e81d2f100036350930b1cbe519db7985c43853
+Eagle_assembly_Ian,Eagle,Entertainment/public assembly,US/Eastern,False,False,False,False,True,,4173,744,744,1089.0200000000004,f3b73d95fb3f011c4db173ed2a381ddb564ccf7ed71dd399fecb8e6405502418
+Eagle_assembly_Lacy,Eagle,Entertainment/public assembly,US/Eastern,False,False,False,False,True,,4134,744,734,180.30660100000003,f91d7e57f5f732d6acb4ecbf91f22a7df57e268471526968fba169edd544ad87
+Eagle_office_Sonya,Eagle,Office,US/Eastern,False,False,False,False,True,,4173,744,744,255.0,e9363a4f23a1175e021e68fda9bd11d6e87894df3870dbbc6e78fc8c84ff9c4c
+Eagle_assembly_Candice,Eagle,Entertainment/public assembly,US/Eastern,False,False,False,False,True,,4173,744,744,184.044402,52dcc15bbb2f8603d09fe143384de8a38860a98f3004e13605be5a824081b876

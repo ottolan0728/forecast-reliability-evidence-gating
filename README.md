@@ -51,7 +51,7 @@ See [REPRODUCIBILITY.md](REPRODUCIBILITY.md) for the evidence-status rules and r
 
 ## Availability status
 
-The manuscript has been accepted. Public reproducibility materials are now being finalized in this repository. Raw data remain governed by their original sources and licenses. A versioned archival release is planned after the publication metadata are finalized.
+The frozen public payload has been extracted and audited. **v1.0.0 recommendation: REVISE** because six accepted-supplement AUPRC cells do not match the frozen artifacts, and full raw-input reconstruction/editorial figure-source coverage remains incomplete. No scientific outputs were changed. See [public release audit](docs/PUBLIC_RELEASE_AUDIT.md), [file register](docs/PUBLIC_FILE_REGISTER.csv), and [executable smoke instructions](REPRODUCE.md). Raw data remain governed by their original sources and licenses. No DOI or release tag has been created.
 
 ## Citation
 

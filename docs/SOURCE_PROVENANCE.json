@@ -1,0 +1,25 @@
+{
+  "accepted_main_source_sha256": "143ba444a9698db10bb737c390912422d8c8df5f7223b2b222da7028b1496d2f",
+  "accepted_supplement_pdf_sha256": "6155040c1188462042f8960319f62f712ec5462c1e4f14fd534f58cd721c6ad6",
+  "frozen_r1_archive_sha256": "b0f0653284bfe2fe0fcbd6feffc097dc8aeea64eb7a641260ccd5d511ade3129",
+  "source_roots": {
+    "R1_FREEZE": "Frozen R1 audit archive, before public redaction",
+    "FROZEN_INPUTS": "Frozen derived-input bundle; observations excluded",
+    "ACCEPTED_SUBMISSION": "Accepted R1 submission materials; manuscripts/correspondence not included",
+    "PUBLIC_BASELINE": "Existing public repository before this release extraction",
+    "V9_DIAGRAM_ARCHIVE": "Frozen V9 diagram archive; included only on matching accepted PDF hash"
+  },
+  "private_absolute_mapping": "Retained offline; never committed",
+  "plot_extraction": {
+    "analyses_source_sha256": "fdb13d5b79d096f291b96f26cfa098134990b9a03adea3dd67692e3f85704a86",
+    "reports_source_sha256": "88ef17ffe9ba13e082a64d631d379f39722d253151aa95b4e52c9a913301d0da",
+    "e1_lines": [
+      84,
+      92
+    ],
+    "report_lines": [
+      15,
+      31
+    ]
+  }
+}

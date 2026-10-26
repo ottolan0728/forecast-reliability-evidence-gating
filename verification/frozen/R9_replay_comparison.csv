@@ -1,0 +1,553 @@
+file,column,expected,obtained,max_abs_difference,pass_
+A1_common_budget_raw.csv,row_count,4416,4416,0.0,True
+A1_common_budget_raw.csv,dataset,same row identifiers/masks,replay,0.0,True
+A1_common_budget_raw.csv,entity,same row identifiers/masks,replay,0.0,True
+A1_common_budget_raw.csv,site,same row identifiers/masks,replay,0.0,True
+A1_common_budget_raw.csv,model,same row identifiers/masks,replay,0.0,True
+A1_common_budget_raw.csv,lag,frozen R9,tape replay,0.0,True
+A1_common_budget_raw.csv,policy,same row identifiers/masks,replay,0.0,True
+A1_common_budget_raw.csv,target_budget,frozen R9,tape replay,0.0,True
+A1_common_budget_raw.csv,threshold,frozen R9,tape replay,0.0,True
+A1_common_budget_raw.csv,calibration_n,frozen R9,tape replay,0.0,True
+A1_common_budget_raw.csv,calibration_switch_n,frozen R9,tape replay,0.0,True
+A1_common_budget_raw.csv,calibration_switch_rate,frozen R9,tape replay,0.0,True
+A1_common_budget_raw.csv,mask_sha256,same row identifiers/masks,replay,0.0,True
+A1_common_budget_raw.csv,issued,frozen R9,tape replay,0.0,True
+A1_common_budget_raw.csv,scored,frozen R9,tape replay,0.0,True
+A1_common_budget_raw.csv,peak_n,frozen R9,tape replay,0.0,True
+A1_common_budget_raw.csv,switch_n,frozen R9,tape replay,0.0,True
+A1_common_budget_raw.csv,switch_rate,frozen R9,tape replay,0.0,True
+A1_common_budget_raw.csv,retained_n,frozen R9,tape replay,0.0,True
+A1_common_budget_raw.csv,nmae,frozen R9,tape replay,0.0,True
+A1_common_budget_raw.csv,peak_nmae,frozen R9,tape replay,0.0,True
+A1_common_budget_raw.csv,delta_avg,frozen R9,tape replay,0.0,True
+A1_common_budget_raw.csv,delta_peak,frozen R9,tape replay,0.0,True
+A1_common_budget_raw.csv,retained_coverage,frozen R9,tape replay,0.0,True
+A1_common_budget_raw.csv,retained_width,frozen R9,tape replay,0.0,True
+A1_common_budget_summary.csv,row_count,48,48,0.0,True
+A1_common_budget_summary.csv,dataset,same row identifiers/masks,replay,0.0,True
+A1_common_budget_summary.csv,model,same row identifiers/masks,replay,0.0,True
+A1_common_budget_summary.csv,lag,frozen R9,tape replay,0.0,True
+A1_common_budget_summary.csv,target_budget,frozen R9,tape replay,0.0,True
+A1_common_budget_summary.csv,policy,same row identifiers/masks,replay,0.0,True
+A1_common_budget_summary.csv,entities,frozen R9,tape replay,0.0,True
+A1_common_budget_summary.csv,peak_entities,frozen R9,tape replay,0.0,True
+A1_common_budget_summary.csv,issued,frozen R9,tape replay,0.0,True
+A1_common_budget_summary.csv,scored,frozen R9,tape replay,0.0,True
+A1_common_budget_summary.csv,switch_n,frozen R9,tape replay,0.0,True
+A1_common_budget_summary.csv,switch_rate_pooled,frozen R9,tape replay,0.0,True
+A1_common_budget_summary.csv,switch_rate_macro,frozen R9,tape replay,0.0,True
+A1_common_budget_summary.csv,retained_n,frozen R9,tape replay,0.0,True
+A1_common_budget_summary.csv,delta_avg,frozen R9,tape replay,0.0,True
+A1_common_budget_summary.csv,delta_peak,frozen R9,tape replay,0.0,True
+A1_common_budget_summary.csv,harm_avg,frozen R9,tape replay,0.0,True
+A1_common_budget_summary.csv,harm_peak,frozen R9,tape replay,0.0,True
+A1_common_budget_summary.csv,calibration_n,frozen R9,tape replay,0.0,True
+A1_common_budget_summary.csv,calibration_switch_n,frozen R9,tape replay,0.0,True
+A1_common_budget_summary.csv,calibration_switch_rate_macro,frozen R9,tape replay,0.0,True
+A2_same_mask_fallback_raw.csv,row_count,8352,8352,0.0,True
+A2_same_mask_fallback_raw.csv,dataset,same row identifiers/masks,replay,0.0,True
+A2_same_mask_fallback_raw.csv,entity,frozen R9,tape replay,0.0,True
+A2_same_mask_fallback_raw.csv,site,same row identifiers/masks,replay,0.0,True
+A2_same_mask_fallback_raw.csv,model,same row identifiers/masks,replay,0.0,True
+A2_same_mask_fallback_raw.csv,source_lag,frozen R9,tape replay,0.0,True
+A2_same_mask_fallback_raw.csv,policy,same row identifiers/masks,replay,0.0,True
+A2_same_mask_fallback_raw.csv,delivered_lag,frozen R9,tape replay,0.0,True
+A2_same_mask_fallback_raw.csv,mask_sha256,same row identifiers/masks,replay,0.0,True
+A2_same_mask_fallback_raw.csv,issued,frozen R9,tape replay,0.0,True
+A2_same_mask_fallback_raw.csv,scored,frozen R9,tape replay,0.0,True
+A2_same_mask_fallback_raw.csv,peak_n,frozen R9,tape replay,0.0,True
+A2_same_mask_fallback_raw.csv,switch_n,frozen R9,tape replay,0.0,True
+A2_same_mask_fallback_raw.csv,switch_rate,frozen R9,tape replay,0.0,True
+A2_same_mask_fallback_raw.csv,retained_n,frozen R9,tape replay,0.0,True
+A2_same_mask_fallback_raw.csv,nmae,frozen R9,tape replay,0.0,True
+A2_same_mask_fallback_raw.csv,peak_nmae,frozen R9,tape replay,0.0,True
+A2_same_mask_fallback_raw.csv,delta_avg,frozen R9,tape replay,0.0,True
+A2_same_mask_fallback_raw.csv,delta_peak,frozen R9,tape replay,0.0,True
+A2_same_mask_fallback_raw.csv,retained_coverage,frozen R9,tape replay,0.0,True
+A2_same_mask_fallback_raw.csv,retained_width,frozen R9,tape replay,0.0,True
+A2_same_mask_fallback_summary.csv,row_count,72,72,0.0,True
+A2_same_mask_fallback_summary.csv,dataset,same row identifiers/masks,replay,0.0,True
+A2_same_mask_fallback_summary.csv,model,same row identifiers/masks,replay,0.0,True
+A2_same_mask_fallback_summary.csv,source_lag,frozen R9,tape replay,0.0,True
+A2_same_mask_fallback_summary.csv,policy,same row identifiers/masks,replay,0.0,True
+A2_same_mask_fallback_summary.csv,delivered_lag,frozen R9,tape replay,0.0,True
+A2_same_mask_fallback_summary.csv,entities,frozen R9,tape replay,0.0,True
+A2_same_mask_fallback_summary.csv,peak_entities,frozen R9,tape replay,0.0,True
+A2_same_mask_fallback_summary.csv,issued,frozen R9,tape replay,0.0,True
+A2_same_mask_fallback_summary.csv,scored,frozen R9,tape replay,0.0,True
+A2_same_mask_fallback_summary.csv,switch_n,frozen R9,tape replay,0.0,True
+A2_same_mask_fallback_summary.csv,switch_rate_pooled,frozen R9,tape replay,0.0,True
+A2_same_mask_fallback_summary.csv,switch_rate_macro,frozen R9,tape replay,0.0,True
+A2_same_mask_fallback_summary.csv,retained_n,frozen R9,tape replay,0.0,True
+A2_same_mask_fallback_summary.csv,delta_avg,frozen R9,tape replay,0.0,True
+A2_same_mask_fallback_summary.csv,delta_peak,frozen R9,tape replay,0.0,True
+A2_same_mask_fallback_summary.csv,harm_avg,frozen R9,tape replay,0.0,True
+A2_same_mask_fallback_summary.csv,harm_peak,frozen R9,tape replay,0.0,True
+A3_admission_stage_raw.csv,row_count,4416,4416,0.0,True
+A3_admission_stage_raw.csv,dataset,same row identifiers/masks,replay,0.0,True
+A3_admission_stage_raw.csv,entity,same row identifiers/masks,replay,0.0,True
+A3_admission_stage_raw.csv,site,same row identifiers/masks,replay,0.0,True
+A3_admission_stage_raw.csv,model,same row identifiers/masks,replay,0.0,True
+A3_admission_stage_raw.csv,lag,frozen R9,tape replay,0.0,True
+A3_admission_stage_raw.csv,variant,same row identifiers/masks,replay,0.0,True
+A3_admission_stage_raw.csv,threshold,frozen R9,tape replay,0.0,True
+A3_admission_stage_raw.csv,calibration_n,frozen R9,tape replay,0.0,True
+A3_admission_stage_raw.csv,calibration_switch_n,frozen R9,tape replay,0.0,True
+A3_admission_stage_raw.csv,calibration_days,frozen R9,tape replay,0.0,True
+A3_admission_stage_raw.csv,calibration_switch_rate,frozen R9,tape replay,0.0,True
+A3_admission_stage_raw.csv,august_lower_bound,frozen R9,tape replay,0.0,True
+A3_admission_stage_raw.csv,issued,frozen R9,tape replay,0.0,True
+A3_admission_stage_raw.csv,scored,frozen R9,tape replay,0.0,True
+A3_admission_stage_raw.csv,peak_n,frozen R9,tape replay,0.0,True
+A3_admission_stage_raw.csv,switch_n,frozen R9,tape replay,0.0,True
+A3_admission_stage_raw.csv,switch_rate,frozen R9,tape replay,0.0,True
+A3_admission_stage_raw.csv,retained_n,frozen R9,tape replay,0.0,True
+A3_admission_stage_raw.csv,nmae,frozen R9,tape replay,0.0,True
+A3_admission_stage_raw.csv,peak_nmae,frozen R9,tape replay,0.0,True
+A3_admission_stage_raw.csv,delta_avg,frozen R9,tape replay,0.0,True
+A3_admission_stage_raw.csv,delta_peak,frozen R9,tape replay,0.0,True
+A3_admission_stage_raw.csv,retained_coverage,frozen R9,tape replay,0.0,True
+A3_admission_stage_raw.csv,retained_width,frozen R9,tape replay,0.0,True
+A3_admission_stage_summary.csv,row_count,48,48,0.0,True
+A3_admission_stage_summary.csv,dataset,same row identifiers/masks,replay,0.0,True
+A3_admission_stage_summary.csv,model,same row identifiers/masks,replay,0.0,True
+A3_admission_stage_summary.csv,lag,frozen R9,tape replay,0.0,True
+A3_admission_stage_summary.csv,variant,same row identifiers/masks,replay,0.0,True
+A3_admission_stage_summary.csv,entities,frozen R9,tape replay,0.0,True
+A3_admission_stage_summary.csv,peak_entities,frozen R9,tape replay,0.0,True
+A3_admission_stage_summary.csv,issued,frozen R9,tape replay,0.0,True
+A3_admission_stage_summary.csv,scored,frozen R9,tape replay,0.0,True
+A3_admission_stage_summary.csv,switch_n,frozen R9,tape replay,0.0,True
+A3_admission_stage_summary.csv,switch_rate_pooled,frozen R9,tape replay,0.0,True
+A3_admission_stage_summary.csv,switch_rate_macro,frozen R9,tape replay,0.0,True
+A3_admission_stage_summary.csv,retained_n,frozen R9,tape replay,0.0,True
+A3_admission_stage_summary.csv,delta_avg,frozen R9,tape replay,0.0,True
+A3_admission_stage_summary.csv,delta_peak,frozen R9,tape replay,0.0,True
+A3_admission_stage_summary.csv,harm_avg,frozen R9,tape replay,0.0,True
+A3_admission_stage_summary.csv,harm_peak,frozen R9,tape replay,0.0,True
+A3_admission_stage_summary.csv,calibration_n,frozen R9,tape replay,0.0,True
+A3_admission_stage_summary.csv,calibration_switch_n,frozen R9,tape replay,0.0,True
+A3_admission_stage_summary.csv,calibration_days,frozen R9,tape replay,0.0,True
+A3_admission_stage_summary.csv,calibration_switch_rate_macro,frozen R9,tape replay,0.0,True
+A3_inference.csv,row_count,96,96,0.0,True
+A3_inference.csv,dataset,same row identifiers/masks,replay,0.0,True
+A3_inference.csv,model,same row identifiers/masks,replay,0.0,True
+A3_inference.csv,lag,frozen R9,tape replay,0.0,True
+A3_inference.csv,variant,same row identifiers/masks,replay,0.0,True
+A3_inference.csv,metric,same row identifiers/masks,replay,0.0,True
+A3_inference.csv,block_days,frozen R9,tape replay,0.0,True
+A3_inference.csv,entities,frozen R9,tape replay,0.0,True
+A3_inference.csv,delta,frozen R9,tape replay,0.0,True
+A3_inference.csv,ci95_lower,frozen R9,tape replay,0.0,True
+A3_inference.csv,ci95_upper,frozen R9,tape replay,0.0,True
+A3_inference.csv,valid_bootstraps,frozen R9,tape replay,0.0,True
+A3_inference.csv,harm_entities,frozen R9,tape replay,0.0,True
+A3_inference.csv,sites,frozen R9,tape replay,0.0,True
+A3_inference.csv,site_mean_delta,frozen R9,tape replay,0.0,True
+A3_inference.csv,ci_low,frozen R9,tape replay,0.0,True
+A3_inference.csv,ci_high,frozen R9,tape replay,0.0,True
+A3_inference.csv,p_raw,frozen R9,tape replay,0.0,True
+A3_inference.csv,better,frozen R9,tape replay,0.0,True
+A3_inference.csv,worse,frozen R9,tape replay,0.0,True
+A3_inference.csv,ties,frozen R9,tape replay,0.0,True
+A3_inference.csv,p_holm,frozen R9,tape replay,0.0,True
+A5_peak_entity_raw.csv,row_count,1512,1512,0.0,True
+A5_peak_entity_raw.csv,dataset,same row identifiers/masks,replay,0.0,True
+A5_peak_entity_raw.csv,entity,same row identifiers/masks,replay,0.0,True
+A5_peak_entity_raw.csv,site,same row identifiers/masks,replay,0.0,True
+A5_peak_entity_raw.csv,model,same row identifiers/masks,replay,0.0,True
+A5_peak_entity_raw.csv,lag,frozen R9,tape replay,0.0,True
+A5_peak_entity_raw.csv,quantile,frozen R9,tape replay,0.0,True
+A5_peak_entity_raw.csv,train_threshold,frozen R9,tape replay,0.0,True
+A5_peak_entity_raw.csv,issued,frozen R9,tape replay,0.0,True
+A5_peak_entity_raw.csv,scored,frozen R9,tape replay,0.0,True
+A5_peak_entity_raw.csv,peak_n,frozen R9,tape replay,0.0,True
+A5_peak_entity_raw.csv,switch_n,frozen R9,tape replay,0.0,True
+A5_peak_entity_raw.csv,switch_rate,frozen R9,tape replay,0.0,True
+A5_peak_entity_raw.csv,retained_n,frozen R9,tape replay,0.0,True
+A5_peak_entity_raw.csv,nmae,frozen R9,tape replay,0.0,True
+A5_peak_entity_raw.csv,peak_nmae,frozen R9,tape replay,0.0,True
+A5_peak_entity_raw.csv,delta_avg,frozen R9,tape replay,0.0,True
+A5_peak_entity_raw.csv,delta_peak,frozen R9,tape replay,0.0,True
+A5_peak_entity_raw.csv,retained_coverage,frozen R9,tape replay,0.0,True
+A5_peak_entity_raw.csv,retained_width,frozen R9,tape replay,0.0,True
+A5_peak_block_robustness.csv,row_count,84,84,0.0,True
+A5_peak_block_robustness.csv,dataset,same row identifiers/masks,replay,0.0,True
+A5_peak_block_robustness.csv,model,same row identifiers/masks,replay,0.0,True
+A5_peak_block_robustness.csv,lag,frozen R9,tape replay,0.0,True
+A5_peak_block_robustness.csv,quantile,frozen R9,tape replay,0.0,True
+A5_peak_block_robustness.csv,metric,same row identifiers/masks,replay,0.0,True
+A5_peak_block_robustness.csv,block_days,frozen R9,tape replay,0.0,True
+A5_peak_block_robustness.csv,entities,frozen R9,tape replay,0.0,True
+A5_peak_block_robustness.csv,delta,frozen R9,tape replay,0.0,True
+A5_peak_block_robustness.csv,ci95_lower,frozen R9,tape replay,0.0,True
+A5_peak_block_robustness.csv,ci95_upper,frozen R9,tape replay,0.0,True
+A5_peak_block_robustness.csv,family_lower,frozen R9,tape replay,0.0,True
+A5_peak_block_robustness.csv,family_upper,frozen R9,tape replay,0.0,True
+A5_peak_block_robustness.csv,valid_bootstraps,frozen R9,tape replay,0.0,True
+A5_peak_block_robustness.csv,harm_entities,frozen R9,tape replay,0.0,True
+A5_peak_block_robustness.csv,entity_macro_delta,frozen R9,tape replay,0.0,True
+A5_peak_block_robustness.csv,sites,frozen R9,tape replay,0.0,True
+A5_peak_block_robustness.csv,site_mean_delta,frozen R9,tape replay,0.0,True
+A5_peak_block_robustness.csv,ci_low,frozen R9,tape replay,0.0,True
+A5_peak_block_robustness.csv,ci_high,frozen R9,tape replay,0.0,True
+A5_peak_block_robustness.csv,p_raw,frozen R9,tape replay,0.0,True
+A5_peak_block_robustness.csv,better,frozen R9,tape replay,0.0,True
+A5_peak_block_robustness.csv,worse,frozen R9,tape replay,0.0,True
+A5_peak_block_robustness.csv,ties,frozen R9,tape replay,0.0,True
+A5_peak_block_robustness.csv,p_holm,frozen R9,tape replay,0.0,True
+R9R_retained_reliability_bridge.csv,row_count,3,3,0.0,True
+R9R_retained_reliability_bridge.csv,dataset,same row identifiers/masks,replay,0.0,True
+R9R_retained_reliability_bridge.csv,model,same row identifiers/masks,replay,0.0,True
+R9R_retained_reliability_bridge.csv,fallback,same row identifiers/masks,replay,0.0,True
+R9R_retained_reliability_bridge.csv,policy,same row identifiers/masks,replay,0.0,True
+R9R_retained_reliability_bridge.csv,nominal_coverage,frozen R9,tape replay,0.0,True
+R9R_retained_reliability_bridge.csv,retained_coverage,frozen R9,tape replay,0.0,True
+R9R_retained_reliability_bridge.csv,keep_coverage,frozen R9,tape replay,0.0,True
+R9R_retained_reliability_bridge.csv,retained_n,frozen R9,tape replay,0.0,True
+R9R_retained_reliability_bridge.csv,switch_n,frozen R9,tape replay,0.0,True
+R9R_retained_reliability_bridge.csv,switch_rate,frozen R9,tape replay,0.0,True
+R9R_retained_reliability_bridge.csv,mean_width,frozen R9,tape replay,0.0,True
+R9R_retained_reliability_bridge.csv,keep_avg_nmae,frozen R9,tape replay,0.0,True
+R9R_retained_reliability_bridge.csv,delivered_avg_nmae,frozen R9,tape replay,0.0,True
+R9R_retained_reliability_bridge.csv,delta_avg,frozen R9,tape replay,0.0,True
+R9R_retained_reliability_bridge.csv,keep_peak_nmae,frozen R9,tape replay,0.0,True
+R9R_retained_reliability_bridge.csv,delivered_peak_nmae,frozen R9,tape replay,0.0,True
+R9R_retained_reliability_bridge.csv,delta_peak,frozen R9,tape replay,0.0,True
+A1_common_budget,independent_sum_count/0/delta_avg,0.0002047746689194381,0.0002047746689194381,0.0,True
+A1_common_budget,independent_sum_count/0/delta_peak,0.00015164410473557908,0.00015164410473557908,0.0,True
+A1_common_budget,independent_sum_count/1/delta_avg,0.005220954224838142,0.005220954224838142,0.0,True
+A1_common_budget,independent_sum_count/1/delta_peak,0.009166318224841269,0.009166318224841269,0.0,True
+A1_common_budget,independent_sum_count/2/delta_avg,0.0003482770044789682,0.0003482770044789682,0.0,True
+A1_common_budget,independent_sum_count/2/delta_peak,0.00031070765607000444,0.00031070765607000444,0.0,True
+A1_common_budget,independent_sum_count/3/delta_avg,0.008842298761220838,0.008842298761220838,0.0,True
+A1_common_budget,independent_sum_count/3/delta_peak,0.013713256164637816,0.013713256164637816,0.0,True
+A1_common_budget,independent_sum_count/4/delta_avg,0.0005161599587647057,0.0005161599587647057,0.0,True
+A1_common_budget,independent_sum_count/4/delta_peak,0.0004174649984624049,0.0004174649984624049,0.0,True
+A1_common_budget,independent_sum_count/5/delta_avg,0.012374901556581682,0.012374901556581682,0.0,True
+A1_common_budget,independent_sum_count/5/delta_peak,0.0195058885904529,0.0195058885904529,0.0,True
+A1_common_budget,independent_sum_count/6/delta_avg,0.0007830323204623331,0.0007830323204623331,0.0,True
+A1_common_budget,independent_sum_count/6/delta_peak,0.0017270926527199009,0.0017270926527199009,0.0,True
+A1_common_budget,independent_sum_count/7/delta_avg,0.0032487865877475607,0.0032487865877475607,0.0,True
+A1_common_budget,independent_sum_count/7/delta_peak,0.004330625564518105,0.004330625564518105,0.0,True
+A1_common_budget,independent_sum_count/8/delta_avg,0.001128853992813678,0.001128853992813678,0.0,True
+A1_common_budget,independent_sum_count/8/delta_peak,0.0022247032552322995,0.0022247032552322995,0.0,True
+A1_common_budget,independent_sum_count/9/delta_avg,0.0054126431767265734,0.0054126431767265734,0.0,True
+A1_common_budget,independent_sum_count/9/delta_peak,0.006980298932073881,0.006980298932073881,0.0,True
+A1_common_budget,independent_sum_count/10/delta_avg,0.001370844244177291,0.001370844244177291,0.0,True
+A1_common_budget,independent_sum_count/10/delta_peak,0.0025467254098685216,0.0025467254098685216,0.0,True
+A1_common_budget,independent_sum_count/11/delta_avg,0.007417828336425013,0.007417828336425013,0.0,True
+A1_common_budget,independent_sum_count/11/delta_peak,0.00913405478601438,0.00913405478601438,0.0,True
+A1_common_budget,independent_sum_count/12/delta_avg,0.0008569842815339228,0.0008569842815339228,0.0,True
+A1_common_budget,independent_sum_count/12/delta_peak,0.002580844460745691,0.002580844460745691,0.0,True
+A1_common_budget,independent_sum_count/13/delta_avg,0.007175043555751259,0.007175043555751259,0.0,True
+A1_common_budget,independent_sum_count/13/delta_peak,0.0168919599097805,0.0168919599097805,0.0,True
+A1_common_budget,independent_sum_count/14/delta_avg,0.0012735925843811934,0.0012735925843811934,0.0,True
+A1_common_budget,independent_sum_count/14/delta_peak,0.0032267703066682324,0.0032267703066682324,0.0,True
+A1_common_budget,independent_sum_count/15/delta_avg,0.011826848366991011,0.011826848366991011,0.0,True
+A1_common_budget,independent_sum_count/15/delta_peak,0.027028315735917383,0.027028315735917383,0.0,True
+A1_common_budget,independent_sum_count/16/delta_avg,0.0015565539636306102,0.0015565539636306102,0.0,True
+A1_common_budget,independent_sum_count/16/delta_peak,0.003755562982852664,0.003755562982852664,0.0,True
+A1_common_budget,independent_sum_count/17/delta_avg,0.0163770153094643,0.0163770153094643,0.0,True
+A1_common_budget,independent_sum_count/17/delta_peak,0.03703214964082621,0.03703214964082621,0.0,True
+A1_common_budget,independent_sum_count/18/delta_avg,-4.9114647492320676e-05,-4.9114647492320676e-05,0.0,True
+A1_common_budget,independent_sum_count/18/delta_peak,-7.671167887021451e-05,-7.671167887021451e-05,0.0,True
+A1_common_budget,independent_sum_count/19/delta_avg,0.003353487700712778,0.003353487700712778,0.0,True
+A1_common_budget,independent_sum_count/19/delta_peak,0.006775716359768704,0.006775716359768704,0.0,True
+A1_common_budget,independent_sum_count/20/delta_avg,-0.00025919772265801765,-0.00025919772265801765,0.0,True
+A1_common_budget,independent_sum_count/20/delta_peak,-0.0001470305878486712,-0.0001470305878486712,0.0,True
+A1_common_budget,independent_sum_count/21/delta_avg,0.005774276531464674,0.005774276531464674,0.0,True
+A1_common_budget,independent_sum_count/21/delta_peak,0.010011526094381785,0.010011526094381785,0.0,True
+A1_common_budget,independent_sum_count/22/delta_avg,-0.00040863813920221937,-0.00040863813920221937,0.0,True
+A1_common_budget,independent_sum_count/22/delta_peak,-8.481050004008385e-05,-8.481050004008385e-05,0.0,True
+A1_common_budget,independent_sum_count/23/delta_avg,0.007970671252057084,0.007970671252057084,0.0,True
+A1_common_budget,independent_sum_count/23/delta_peak,0.013177914895568955,0.013177914895568955,0.0,True
+A1_common_budget,independent_sum_count/24/delta_avg,-8.016194833364597e-05,-8.016194833364597e-05,0.0,True
+A1_common_budget,independent_sum_count/24/delta_peak,-0.0003023644704225215,-0.0003023644704225215,0.0,True
+A1_common_budget,independent_sum_count/25/delta_avg,0.0009913940407615149,0.0009913940407615149,0.0,True
+A1_common_budget,independent_sum_count/25/delta_peak,0.0005815184419081461,0.0005815184419081461,0.0,True
+A1_common_budget,independent_sum_count/26/delta_avg,-0.0004122616694445056,-0.0004122616694445056,0.0,True
+A1_common_budget,independent_sum_count/26/delta_peak,-0.00011210784654120595,-0.00011210784654120595,0.0,True
+A1_common_budget,independent_sum_count/27/delta_avg,0.001995200243112015,0.001995200243112015,0.0,True
+A1_common_budget,independent_sum_count/27/delta_peak,0.0014920188195050362,0.0014920188195050362,0.0,True
+A1_common_budget,independent_sum_count/28/delta_avg,-0.0005208887333930578,-0.0005208887333930578,0.0,True
+A1_common_budget,independent_sum_count/28/delta_peak,-0.0001663504069608563,-0.0001663504069608563,0.0,True
+A1_common_budget,independent_sum_count/29/delta_avg,0.0030263640319905276,0.0030263640319905276,0.0,True
+A1_common_budget,independent_sum_count/29/delta_peak,0.0021072358283278463,0.0021072358283278463,0.0,True
+A1_common_budget,independent_sum_count/30/delta_avg,0.0009731009715745205,0.0009731009715745205,0.0,True
+A1_common_budget,independent_sum_count/30/delta_peak,0.0018946875363324582,0.0018946875363324582,0.0,True
+A1_common_budget,independent_sum_count/31/delta_avg,0.004217199467468649,0.004217199467468649,0.0,True
+A1_common_budget,independent_sum_count/31/delta_peak,0.011980110086391983,0.011980110086391983,0.0,True
+A1_common_budget,independent_sum_count/32/delta_avg,0.0015460834764177585,0.0015460834764177585,0.0,True
+A1_common_budget,independent_sum_count/32/delta_peak,0.0039062216545767796,0.0039062216545767796,0.0,True
+A1_common_budget,independent_sum_count/33/delta_avg,0.00794817507933921,0.00794817507933921,0.0,True
+A1_common_budget,independent_sum_count/33/delta_peak,0.020982115545074752,0.020982115545074752,0.0,True
+A1_common_budget,independent_sum_count/34/delta_avg,0.0020623673483721743,0.0020623673483721743,0.0,True
+A1_common_budget,independent_sum_count/34/delta_peak,0.005260526783134407,0.005260526783134407,0.0,True
+A1_common_budget,independent_sum_count/35/delta_avg,0.011793394779001164,0.011793394779001164,0.0,True
+A1_common_budget,independent_sum_count/35/delta_peak,0.02984299090918515,0.02984299090918515,0.0,True
+A1_common_budget,independent_sum_count/36/delta_avg,-0.004060918188225624,-0.004060918188225624,0.0,True
+A1_common_budget,independent_sum_count/36/delta_peak,-0.008181072316929773,-0.008181072316929773,0.0,True
+A1_common_budget,independent_sum_count/37/delta_avg,0.0011754837004310278,0.0011754837004310278,0.0,True
+A1_common_budget,independent_sum_count/37/delta_peak,0.006696786989780681,0.006696786989780679,1.734723475976807e-18,True
+A1_common_budget,independent_sum_count/38/delta_avg,-0.004781292319561658,-0.004781292319561658,0.0,True
+A1_common_budget,independent_sum_count/38/delta_peak,-0.0075798999507243545,-0.0075798999507243545,0.0,True
+A1_common_budget,independent_sum_count/39/delta_avg,0.004601846397792299,0.004601846397792299,0.0,True
+A1_common_budget,independent_sum_count/39/delta_peak,0.03339179563723073,0.03339179563723072,6.938893903907228e-18,True
+A1_common_budget,independent_sum_count/40/delta_avg,-0.005276884849467873,-0.005276884849467873,0.0,True
+A1_common_budget,independent_sum_count/40/delta_peak,-0.007204792097395625,-0.007204792097395628,2.6020852139652106e-18,True
+A1_common_budget,independent_sum_count/41/delta_avg,0.00791734075843196,0.00791734075843196,0.0,True
+A1_common_budget,independent_sum_count/41/delta_peak,0.04404034835619214,0.04404034835619214,0.0,True
+A1_common_budget,independent_sum_count/42/delta_avg,-0.001791249780607711,-0.001791249780607711,0.0,True
+A1_common_budget,independent_sum_count/42/delta_peak,0.00011762826519250983,0.00011762826519250983,0.0,True
+A1_common_budget,independent_sum_count/43/delta_avg,0.004380075548990809,0.004380075548990809,0.0,True
+A1_common_budget,independent_sum_count/43/delta_peak,0.00912671335270833,0.00912671335270833,0.0,True
+A1_common_budget,independent_sum_count/44/delta_avg,-0.002349236363913735,-0.002349236363913735,0.0,True
+A1_common_budget,independent_sum_count/44/delta_peak,0.0009065303906610994,0.0009065303906610995,1.0842021724855044e-19,True
+A1_common_budget,independent_sum_count/45/delta_avg,0.008229535802168775,0.008229535802168775,0.0,True
+A1_common_budget,independent_sum_count/45/delta_peak,0.0190660665000335,0.0190660665000335,0.0,True
+A1_common_budget,independent_sum_count/46/delta_avg,-0.0027534445506132836,-0.0027534445506132836,0.0,True
+A1_common_budget,independent_sum_count/46/delta_peak,0.0011109887110066542,0.0011109887110066544,2.168404344971009e-19,True
+A1_common_budget,independent_sum_count/47/delta_avg,0.01201146740472727,0.01201146740472727,0.0,True
+A1_common_budget,independent_sum_count/47/delta_peak,0.030481278498693844,0.030481278498693844,0.0,True
+A2_same_mask_fallback,independent_sum_count/0/delta_avg,0.0,0.0,0.0,True
+A2_same_mask_fallback,independent_sum_count/0/delta_peak,0.0,0.0,0.0,True
+A2_same_mask_fallback,independent_sum_count/1/delta_avg,4.586226568144176e-05,4.586226568144176e-05,0.0,True
+A2_same_mask_fallback,independent_sum_count/1/delta_peak,4.8235086718149597e-05,4.8235086718149597e-05,0.0,True
+A2_same_mask_fallback,independent_sum_count/2/delta_avg,0.0001232303198645849,0.0001232303198645849,0.0,True
+A2_same_mask_fallback,independent_sum_count/2/delta_peak,0.00010524627673390074,0.00010524627673390074,0.0,True
+A2_same_mask_fallback,independent_sum_count/3/delta_avg,0.00028613734751213745,0.00028613734751213745,0.0,True
+A2_same_mask_fallback,independent_sum_count/3/delta_peak,0.0005033447569044616,0.0005033447569044616,0.0,True
+A2_same_mask_fallback,independent_sum_count/4/delta_avg,0.0,0.0,0.0,True
+A2_same_mask_fallback,independent_sum_count/4/delta_peak,0.0,0.0,0.0,True
+A2_same_mask_fallback,independent_sum_count/5/delta_avg,0.00035892377542209755,0.00035892377542209755,0.0,True
+A2_same_mask_fallback,independent_sum_count/5/delta_peak,0.00037781159284356176,0.00037781159284356176,0.0,True
+A2_same_mask_fallback,independent_sum_count/6/delta_avg,0.0016943736959585598,0.0016943736959585598,0.0,True
+A2_same_mask_fallback,independent_sum_count/6/delta_peak,0.0011403554017443945,0.0011403554017443945,0.0,True
+A2_same_mask_fallback,independent_sum_count/7/delta_avg,0.0032068267807888557,0.0032068267807888557,0.0,True
+A2_same_mask_fallback,independent_sum_count/7/delta_peak,0.004085787423683798,0.004085787423683798,0.0,True
+A2_same_mask_fallback,independent_sum_count/8/delta_avg,0.0,0.0,0.0,True
+A2_same_mask_fallback,independent_sum_count/8/delta_peak,0.0,0.0,0.0,True
+A2_same_mask_fallback,independent_sum_count/9/delta_avg,0.008842298761220838,0.008842298761220838,0.0,True
+A2_same_mask_fallback,independent_sum_count/9/delta_peak,0.013713256164637816,0.013713256164637816,0.0,True
+A2_same_mask_fallback,independent_sum_count/10/delta_avg,0.0054126431767265734,0.0054126431767265734,0.0,True
+A2_same_mask_fallback,independent_sum_count/10/delta_peak,0.006980298932073881,0.006980298932073881,0.0,True
+A2_same_mask_fallback,independent_sum_count/11/delta_avg,0.011826848366991011,0.011826848366991011,0.0,True
+A2_same_mask_fallback,independent_sum_count/11/delta_peak,0.027028315735917383,0.027028315735917383,0.0,True
+A2_same_mask_fallback,independent_sum_count/12/delta_avg,0.0,0.0,0.0,True
+A2_same_mask_fallback,independent_sum_count/12/delta_peak,0.0,0.0,0.0,True
+A2_same_mask_fallback,independent_sum_count/13/delta_avg,0.0014353256524494687,0.0014353256524494687,0.0,True
+A2_same_mask_fallback,independent_sum_count/13/delta_peak,0.0025257680721250285,0.0025257680721250285,0.0,True
+A2_same_mask_fallback,independent_sum_count/14/delta_avg,0.00020704911322727657,0.00020704911322727657,0.0,True
+A2_same_mask_fallback,independent_sum_count/14/delta_peak,0.0003720553285385179,0.0003720553285385179,0.0,True
+A2_same_mask_fallback,independent_sum_count/15/delta_avg,0.0011818070862841701,0.0011818070862841701,0.0,True
+A2_same_mask_fallback,independent_sum_count/15/delta_peak,0.002580435382705758,0.002580435382705758,0.0,True
+A2_same_mask_fallback,independent_sum_count/16/delta_avg,0.0,0.0,0.0,True
+A2_same_mask_fallback,independent_sum_count/16/delta_peak,0.0,0.0,0.0,True
+A2_same_mask_fallback,independent_sum_count/17/delta_avg,0.008268796571811074,0.008268796571811074,0.0,True
+A2_same_mask_fallback,independent_sum_count/17/delta_peak,0.012817630795718028,0.012817630795718028,0.0,True
+A2_same_mask_fallback,independent_sum_count/18/delta_avg,0.0012700579091640578,0.0012700579091640578,0.0,True
+A2_same_mask_fallback,independent_sum_count/18/delta_peak,0.002415959196805874,0.002415959196805874,0.0,True
+A2_same_mask_fallback,independent_sum_count/19/delta_avg,0.008610246535088626,0.008610246535088626,0.0,True
+A2_same_mask_fallback,independent_sum_count/19/delta_peak,0.020236006310019775,0.020236006310019775,0.0,True
+A2_same_mask_fallback,independent_sum_count/20/delta_avg,0.0,0.0,0.0,True
+A2_same_mask_fallback,independent_sum_count/20/delta_peak,0.0,0.0,0.0,True
+A2_same_mask_fallback,independent_sum_count/21/delta_avg,0.008842298761220838,0.008842298761220838,0.0,True
+A2_same_mask_fallback,independent_sum_count/21/delta_peak,0.013713256164637816,0.013713256164637816,0.0,True
+A2_same_mask_fallback,independent_sum_count/22/delta_avg,0.0054126431767265734,0.0054126431767265734,0.0,True
+A2_same_mask_fallback,independent_sum_count/22/delta_peak,0.006980298932073881,0.006980298932073881,0.0,True
+A2_same_mask_fallback,independent_sum_count/23/delta_avg,0.011826848366991011,0.011826848366991011,0.0,True
+A2_same_mask_fallback,independent_sum_count/23/delta_peak,0.027028315735917383,0.027028315735917383,0.0,True
+A2_same_mask_fallback,independent_sum_count/24/delta_avg,0.0,0.0,0.0,True
+A2_same_mask_fallback,independent_sum_count/24/delta_peak,0.0,0.0,0.0,True
+A2_same_mask_fallback,independent_sum_count/25/delta_avg,0.0002660506144856339,0.0002660506144856339,0.0,True
+A2_same_mask_fallback,independent_sum_count/25/delta_peak,0.00038115030209023626,0.00038115030209023626,0.0,True
+A2_same_mask_fallback,independent_sum_count/26/delta_avg,0.00013366445427501032,0.00013366445427501032,0.0,True
+A2_same_mask_fallback,independent_sum_count/26/delta_peak,0.00014690872951079515,0.00014690872951079515,0.0,True
+A2_same_mask_fallback,independent_sum_count/27/delta_avg,7.22678684285933e-05,7.22678684285933e-05,0.0,True
+A2_same_mask_fallback,independent_sum_count/27/delta_peak,0.00018856314491137776,0.00018856314491137776,0.0,True
+A2_same_mask_fallback,independent_sum_count/28/delta_avg,0.0,0.0,0.0,True
+A2_same_mask_fallback,independent_sum_count/28/delta_peak,0.0,0.0,0.0,True
+A2_same_mask_fallback,independent_sum_count/29/delta_avg,0.004216879507145833,0.004216879507145833,0.0,True
+A2_same_mask_fallback,independent_sum_count/29/delta_peak,0.0060726273390258375,0.0060726273390258375,0.0,True
+A2_same_mask_fallback,independent_sum_count/30/delta_avg,0.0022036562050830183,0.0022036562050830183,0.0,True
+A2_same_mask_fallback,independent_sum_count/30/delta_peak,0.0021826160810069833,0.0021826160810069833,0.0,True
+A2_same_mask_fallback,independent_sum_count/31/delta_avg,0.0013724343511946748,0.0013724343511946748,0.0,True
+A2_same_mask_fallback,independent_sum_count/31/delta_peak,0.0033085044156554305,0.0033085044156554305,0.0,True
+A2_same_mask_fallback,independent_sum_count/32/delta_avg,0.0,0.0,0.0,True
+A2_same_mask_fallback,independent_sum_count/32/delta_peak,0.0,0.0,0.0,True
+A2_same_mask_fallback,independent_sum_count/33/delta_avg,0.008842298761220838,0.008842298761220838,0.0,True
+A2_same_mask_fallback,independent_sum_count/33/delta_peak,0.013713256164637816,0.013713256164637816,0.0,True
+A2_same_mask_fallback,independent_sum_count/34/delta_avg,0.0054126431767265734,0.0054126431767265734,0.0,True
+A2_same_mask_fallback,independent_sum_count/34/delta_peak,0.006980298932073881,0.006980298932073881,0.0,True
+A2_same_mask_fallback,independent_sum_count/35/delta_avg,0.011826848366991011,0.011826848366991011,0.0,True
+A2_same_mask_fallback,independent_sum_count/35/delta_peak,0.027028315735917383,0.027028315735917383,0.0,True
+A2_same_mask_fallback,independent_sum_count/36/delta_avg,0.0,0.0,0.0,True
+A2_same_mask_fallback,independent_sum_count/36/delta_peak,0.0,0.0,0.0,True
+A2_same_mask_fallback,independent_sum_count/37/delta_avg,-0.0005602634568687862,-0.0005602634568687862,0.0,True
+A2_same_mask_fallback,independent_sum_count/37/delta_peak,-0.00013380329083203325,-0.00013380329083203325,0.0,True
+A2_same_mask_fallback,independent_sum_count/38/delta_avg,0.00012402517072842282,0.00012402517072842282,0.0,True
+A2_same_mask_fallback,independent_sum_count/38/delta_peak,0.0006993898510839985,0.0006993898510839985,0.0,True
+A2_same_mask_fallback,independent_sum_count/39/delta_avg,0.002332459944009865,0.002332459944009865,0.0,True
+A2_same_mask_fallback,independent_sum_count/39/delta_peak,0.005112113291332893,0.005112113291332893,0.0,True
+A2_same_mask_fallback,independent_sum_count/40/delta_avg,0.0,0.0,0.0,True
+A2_same_mask_fallback,independent_sum_count/40/delta_peak,0.0,0.0,0.0,True
+A2_same_mask_fallback,independent_sum_count/41/delta_avg,-0.0004884755648709344,-0.0004884755648709344,0.0,True
+A2_same_mask_fallback,independent_sum_count/41/delta_peak,-0.00014587145726698472,-0.00014587145726698472,0.0,True
+A2_same_mask_fallback,independent_sum_count/42/delta_avg,0.0006840618521370862,0.0006840618521370862,0.0,True
+A2_same_mask_fallback,independent_sum_count/42/delta_peak,0.0011390592144375543,0.0011390592144375543,0.0,True
+A2_same_mask_fallback,independent_sum_count/43/delta_avg,0.003176292378217639,0.003176292378217639,0.0,True
+A2_same_mask_fallback,independent_sum_count/43/delta_peak,0.006245788320783519,0.006245788320783519,0.0,True
+A2_same_mask_fallback,independent_sum_count/44/delta_avg,0.0,0.0,0.0,True
+A2_same_mask_fallback,independent_sum_count/44/delta_peak,0.0,0.0,0.0,True
+A2_same_mask_fallback,independent_sum_count/45/delta_avg,0.005774276531464674,0.005774276531464674,0.0,True
+A2_same_mask_fallback,independent_sum_count/45/delta_peak,0.010011526094381785,0.010011526094381785,0.0,True
+A2_same_mask_fallback,independent_sum_count/46/delta_avg,0.001995200243112015,0.001995200243112015,0.0,True
+A2_same_mask_fallback,independent_sum_count/46/delta_peak,0.0014920188195050362,0.0014920188195050362,0.0,True
+A2_same_mask_fallback,independent_sum_count/47/delta_avg,0.00794817507933921,0.00794817507933921,0.0,True
+A2_same_mask_fallback,independent_sum_count/47/delta_peak,0.020982115545074752,0.020982115545074752,0.0,True
+A2_same_mask_fallback,independent_sum_count/48/delta_avg,0.0,0.0,0.0,True
+A2_same_mask_fallback,independent_sum_count/48/delta_peak,0.0,0.0,0.0,True
+A2_same_mask_fallback,independent_sum_count/49/delta_avg,0.006018236686629119,0.006018236686629119,0.0,True
+A2_same_mask_fallback,independent_sum_count/49/delta_peak,0.009027931462753934,0.009027931462753934,0.0,True
+A2_same_mask_fallback,independent_sum_count/50/delta_avg,-0.0009184726208304786,-0.0009184726208304786,0.0,True
+A2_same_mask_fallback,independent_sum_count/50/delta_peak,-0.0004232756243670647,-0.0004232756243670647,0.0,True
+A2_same_mask_fallback,independent_sum_count/51/delta_avg,0.00723882545527699,0.00723882545527699,0.0,True
+A2_same_mask_fallback,independent_sum_count/51/delta_peak,0.018114372251726827,0.018114372251726827,0.0,True
+A2_same_mask_fallback,independent_sum_count/52/delta_avg,0.0,0.0,0.0,True
+A2_same_mask_fallback,independent_sum_count/52/delta_peak,0.0,0.0,0.0,True
+A2_same_mask_fallback,independent_sum_count/53/delta_avg,0.0074550981245186405,0.0074550981245186405,0.0,True
+A2_same_mask_fallback,independent_sum_count/53/delta_peak,0.012851570158983383,0.012851570158983383,0.0,True
+A2_same_mask_fallback,independent_sum_count/54/delta_avg,-0.0007055686935296801,-0.0007055686935296801,0.0,True
+A2_same_mask_fallback,independent_sum_count/54/delta_peak,-8.394107989178508e-05,-8.394107989178508e-05,0.0,True
+A2_same_mask_fallback,independent_sum_count/55/delta_avg,0.008908951368314188,0.008908951368314188,0.0,True
+A2_same_mask_fallback,independent_sum_count/55/delta_peak,0.022163590642427167,0.022163590642427167,0.0,True
+A2_same_mask_fallback,independent_sum_count/56/delta_avg,0.0,0.0,0.0,True
+A2_same_mask_fallback,independent_sum_count/56/delta_peak,0.0,0.0,0.0,True
+A2_same_mask_fallback,independent_sum_count/57/delta_avg,0.005774276531464674,0.005774276531464674,0.0,True
+A2_same_mask_fallback,independent_sum_count/57/delta_peak,0.010011526094381785,0.010011526094381785,0.0,True
+A2_same_mask_fallback,independent_sum_count/58/delta_avg,0.001995200243112015,0.001995200243112015,0.0,True
+A2_same_mask_fallback,independent_sum_count/58/delta_peak,0.0014920188195050362,0.0014920188195050362,0.0,True
+A2_same_mask_fallback,independent_sum_count/59/delta_avg,0.00794817507933921,0.00794817507933921,0.0,True
+A2_same_mask_fallback,independent_sum_count/59/delta_peak,0.020982115545074752,0.020982115545074752,0.0,True
+A2_same_mask_fallback,independent_sum_count/60/delta_avg,0.0,0.0,0.0,True
+A2_same_mask_fallback,independent_sum_count/60/delta_peak,0.0,0.0,0.0,True
+A2_same_mask_fallback,independent_sum_count/61/delta_avg,0.003186522920680569,0.003186522920680569,0.0,True
+A2_same_mask_fallback,independent_sum_count/61/delta_peak,0.006339821567930551,0.006339821567930551,0.0,True
+A2_same_mask_fallback,independent_sum_count/62/delta_avg,-7.737364177227584e-05,-7.737364177227584e-05,0.0,True
+A2_same_mask_fallback,independent_sum_count/62/delta_peak,-0.0002272977549155946,-0.0002272977549155946,0.0,True
+A2_same_mask_fallback,independent_sum_count/63/delta_avg,0.0018639194053022834,0.0018639194053022834,0.0,True
+A2_same_mask_fallback,independent_sum_count/63/delta_peak,0.004936209711827729,0.004936209711827729,0.0,True
+A2_same_mask_fallback,independent_sum_count/64/delta_avg,0.0,0.0,0.0,True
+A2_same_mask_fallback,independent_sum_count/64/delta_peak,0.0,0.0,0.0,True
+A2_same_mask_fallback,independent_sum_count/65/delta_avg,0.005223573848590676,0.005223573848590676,0.0,True
+A2_same_mask_fallback,independent_sum_count/65/delta_peak,0.009724184769261032,0.009724184769261032,0.0,True
+A2_same_mask_fallback,independent_sum_count/66/delta_avg,0.0007991180733370851,0.0007991180733370851,0.0,True
+A2_same_mask_fallback,independent_sum_count/66/delta_peak,2.698751551142607e-05,2.698751551142607e-05,0.0,True
+A2_same_mask_fallback,independent_sum_count/67/delta_avg,0.0028390108405490955,0.0028390108405490955,0.0,True
+A2_same_mask_fallback,independent_sum_count/67/delta_peak,0.007297578827195198,0.007297578827195198,0.0,True
+A2_same_mask_fallback,independent_sum_count/68/delta_avg,0.0,0.0,0.0,True
+A2_same_mask_fallback,independent_sum_count/68/delta_peak,0.0,0.0,0.0,True
+A2_same_mask_fallback,independent_sum_count/69/delta_avg,0.005774276531464674,0.005774276531464674,0.0,True
+A2_same_mask_fallback,independent_sum_count/69/delta_peak,0.010011526094381785,0.010011526094381785,0.0,True
+A2_same_mask_fallback,independent_sum_count/70/delta_avg,0.001995200243112015,0.001995200243112015,0.0,True
+A2_same_mask_fallback,independent_sum_count/70/delta_peak,0.0014920188195050362,0.0014920188195050362,0.0,True
+A2_same_mask_fallback,independent_sum_count/71/delta_avg,0.00794817507933921,0.00794817507933921,0.0,True
+A2_same_mask_fallback,independent_sum_count/71/delta_peak,0.020982115545074752,0.020982115545074752,0.0,True
+A3_admission_stage,independent_sum_count/0/delta_avg,0.0003053698891326523,0.0003053698891326523,0.0,True
+A3_admission_stage,independent_sum_count/0/delta_peak,0.0002794451780625104,0.0002794451780625104,0.0,True
+A3_admission_stage,independent_sum_count/1/delta_avg,0.00016151300443134227,0.00016151300443134227,0.0,True
+A3_admission_stage,independent_sum_count/1/delta_peak,0.00014448370209002302,0.00014448370209002302,0.0,True
+A3_admission_stage,independent_sum_count/2/delta_avg,8.018420058151646e-05,8.018420058151646e-05,0.0,True
+A3_admission_stage,independent_sum_count/2/delta_peak,4.538340691850249e-05,4.538340691850249e-05,0.0,True
+A3_admission_stage,independent_sum_count/3/delta_avg,3.433931950921023e-05,3.433931950921023e-05,0.0,True
+A3_admission_stage,independent_sum_count/3/delta_peak,-2.625345196044017e-05,-2.625345196044017e-05,0.0,True
+A3_admission_stage,independent_sum_count/4/delta_avg,4.586226568144176e-05,4.586226568144176e-05,0.0,True
+A3_admission_stage,independent_sum_count/4/delta_peak,4.8235086718149597e-05,4.8235086718149597e-05,0.0,True
+A3_admission_stage,independent_sum_count/5/delta_avg,0.00035892377542209755,0.00035892377542209755,0.0,True
+A3_admission_stage,independent_sum_count/5/delta_peak,0.00037781159284356176,0.00037781159284356176,0.0,True
+A3_admission_stage,independent_sum_count/6/delta_avg,0.0011449883692680597,0.0011449883692680597,0.0,True
+A3_admission_stage,independent_sum_count/6/delta_peak,0.0022373333503768324,0.0022373333503768324,0.0,True
+A3_admission_stage,independent_sum_count/7/delta_avg,0.0007281443347217488,0.0007281443347217488,0.0,True
+A3_admission_stage,independent_sum_count/7/delta_peak,0.001644642722041062,0.001644642722041062,0.0,True
+A3_admission_stage,independent_sum_count/8/delta_avg,0.00037424398868489406,0.00037424398868489406,0.0,True
+A3_admission_stage,independent_sum_count/8/delta_peak,0.0011499010295761651,0.0011499010295761651,0.0,True
+A3_admission_stage,independent_sum_count/9/delta_avg,0.00012021161567325374,0.00012021161567325374,0.0,True
+A3_admission_stage,independent_sum_count/9/delta_peak,0.0005873180371112744,0.0005873180371112744,0.0,True
+A3_admission_stage,independent_sum_count/10/delta_avg,0.00020704911322727657,0.00020704911322727657,0.0,True
+A3_admission_stage,independent_sum_count/10/delta_peak,0.0003720553285385179,0.0003720553285385179,0.0,True
+A3_admission_stage,independent_sum_count/11/delta_avg,0.0012700579091640578,0.0012700579091640578,0.0,True
+A3_admission_stage,independent_sum_count/11/delta_peak,0.002415959196805874,0.002415959196805874,0.0,True
+A3_admission_stage,independent_sum_count/12/delta_avg,0.001251073835607885,0.001251073835607885,0.0,True
+A3_admission_stage,independent_sum_count/12/delta_peak,0.003149127845280375,0.003149127845280375,0.0,True
+A3_admission_stage,independent_sum_count/13/delta_avg,0.0008327881521237043,0.0008327881521237043,0.0,True
+A3_admission_stage,independent_sum_count/13/delta_peak,0.0025385367590311384,0.0025385367590311384,0.0,True
+A3_admission_stage,independent_sum_count/14/delta_avg,0.000536112782262216,0.000536112782262216,0.0,True
+A3_admission_stage,independent_sum_count/14/delta_peak,0.002041052034395687,0.002041052034395687,0.0,True
+A3_admission_stage,independent_sum_count/15/delta_avg,0.00011320686460180234,0.00011320686460180234,0.0,True
+A3_admission_stage,independent_sum_count/15/delta_peak,0.0006532493804460965,0.0006532493804460965,0.0,True
+A3_admission_stage,independent_sum_count/16/delta_avg,7.22678684285933e-05,7.22678684285933e-05,0.0,True
+A3_admission_stage,independent_sum_count/16/delta_peak,0.00018856314491137776,0.00018856314491137776,0.0,True
+A3_admission_stage,independent_sum_count/17/delta_avg,0.0013724343511946748,0.0013724343511946748,0.0,True
+A3_admission_stage,independent_sum_count/17/delta_peak,0.0033085044156554305,0.0033085044156554305,0.0,True
+A3_admission_stage,independent_sum_count/18/delta_avg,-0.0005085879074131175,-0.0005085879074131175,0.0,True
+A3_admission_stage,independent_sum_count/18/delta_peak,-0.00013488827606172678,-0.00013488827606172678,0.0,True
+A3_admission_stage,independent_sum_count/19/delta_avg,-0.0004818620443412898,-0.0004818620443412898,0.0,True
+A3_admission_stage,independent_sum_count/19/delta_peak,-0.00010853955787366965,-0.00010853955787366965,0.0,True
+A3_admission_stage,independent_sum_count/20/delta_avg,-0.0004409628231278402,-0.0004409628231278402,0.0,True
+A3_admission_stage,independent_sum_count/20/delta_peak,-0.0001458713739724176,-0.0001458713739724176,0.0,True
+A3_admission_stage,independent_sum_count/21/delta_avg,-0.00036461645805070653,-0.00036461645805070653,0.0,True
+A3_admission_stage,independent_sum_count/21/delta_peak,-4.402814154161152e-05,-4.402814154161152e-05,0.0,True
+A3_admission_stage,independent_sum_count/22/delta_avg,-0.0005602634568687862,-0.0005602634568687862,0.0,True
+A3_admission_stage,independent_sum_count/22/delta_peak,-0.00013380329083203325,-0.00013380329083203325,0.0,True
+A3_admission_stage,independent_sum_count/23/delta_avg,-0.0004884755648709344,-0.0004884755648709344,0.0,True
+A3_admission_stage,independent_sum_count/23/delta_peak,-0.00014587145726698472,-0.00014587145726698472,0.0,True
+A3_admission_stage,independent_sum_count/24/delta_avg,-0.0007044936719176273,-0.0007044936719176273,0.0,True
+A3_admission_stage,independent_sum_count/24/delta_peak,-6.188778379523448e-05,-6.188778379523448e-05,0.0,True
+A3_admission_stage,independent_sum_count/25/delta_avg,-0.0006584476445753222,-0.0006584476445753222,0.0,True
+A3_admission_stage,independent_sum_count/25/delta_peak,-9.094856805154627e-05,-9.094856805154627e-05,0.0,True
+A3_admission_stage,independent_sum_count/26/delta_avg,-0.0005980253837672945,-0.0005980253837672945,0.0,True
+A3_admission_stage,independent_sum_count/26/delta_peak,-0.0003341860522940139,-0.0003341860522940139,0.0,True
+A3_admission_stage,independent_sum_count/27/delta_avg,-0.00047888327287747115,-0.00047888327287747115,0.0,True
+A3_admission_stage,independent_sum_count/27/delta_peak,-6.295983284645247e-05,-6.295983284645247e-05,0.0,True
+A3_admission_stage,independent_sum_count/28/delta_avg,-0.0009184726208304786,-0.0009184726208304786,0.0,True
+A3_admission_stage,independent_sum_count/28/delta_peak,-0.0004232756243670647,-0.0004232756243670647,0.0,True
+A3_admission_stage,independent_sum_count/29/delta_avg,-0.0007055686935296801,-0.0007055686935296801,0.0,True
+A3_admission_stage,independent_sum_count/29/delta_peak,-8.394107989178508e-05,-8.394107989178508e-05,0.0,True
+A3_admission_stage,independent_sum_count/30/delta_avg,0.002591536681863944,0.002591536681863944,0.0,True
+A3_admission_stage,independent_sum_count/30/delta_peak,0.006683946815347201,0.006683946815347201,0.0,True
+A3_admission_stage,independent_sum_count/31/delta_avg,0.0017975673819333458,0.0017975673819333458,0.0,True
+A3_admission_stage,independent_sum_count/31/delta_peak,0.004878256229211791,0.004878256229211791,0.0,True
+A3_admission_stage,independent_sum_count/32/delta_avg,0.0010335167562943144,0.0010335167562943144,0.0,True
+A3_admission_stage,independent_sum_count/32/delta_peak,0.003172447264706529,0.003172447264706529,0.0,True
+A3_admission_stage,independent_sum_count/33/delta_avg,0.00032724775476060446,0.00032724775476060446,0.0,True
+A3_admission_stage,independent_sum_count/33/delta_peak,0.0016758665110572092,0.0016758665110572092,0.0,True
+A3_admission_stage,independent_sum_count/34/delta_avg,0.0018639194053022834,0.0018639194053022834,0.0,True
+A3_admission_stage,independent_sum_count/34/delta_peak,0.004936209711827729,0.004936209711827729,0.0,True
+A3_admission_stage,independent_sum_count/35/delta_avg,0.0028390108405490955,0.0028390108405490955,0.0,True
+A3_admission_stage,independent_sum_count/35/delta_peak,0.007297578827195198,0.007297578827195198,0.0,True
+A3_admission_stage,independent_sum_count/36/delta_avg,-0.012422910940430456,-0.012422910940430456,0.0,True
+A3_admission_stage,independent_sum_count/36/delta_peak,-0.007939653356304803,-0.007939653356304803,0.0,True
+A3_admission_stage,independent_sum_count/37/delta_avg,-0.01252863417090892,-0.01252863417090892,0.0,True
+A3_admission_stage,independent_sum_count/37/delta_peak,-0.007865141268987429,-0.007865141268987427,1.734723475976807e-18,True
+A3_admission_stage,independent_sum_count/38/delta_avg,-0.01251869034902745,-0.01251869034902745,0.0,True
+A3_admission_stage,independent_sum_count/38/delta_peak,-0.00791246431961008,-0.007912464319610082,1.734723475976807e-18,True
+A3_admission_stage,independent_sum_count/39/delta_avg,-0.012459003834846827,-0.012459003834846827,0.0,True
+A3_admission_stage,independent_sum_count/39/delta_peak,-0.00825256436034725,-0.008252564360347252,1.734723475976807e-18,True
+A3_admission_stage,independent_sum_count/40/delta_avg,-0.01098409426162688,-0.01098409426162688,0.0,True
+A3_admission_stage,independent_sum_count/40/delta_peak,0.0006234980056582351,0.0006234980056582351,0.0,True
+A3_admission_stage,independent_sum_count/41/delta_avg,-0.012412189970401725,-0.012412189970401725,0.0,True
+A3_admission_stage,independent_sum_count/41/delta_peak,-0.0077679768642639315,-0.00776797686426393,1.734723475976807e-18,True
+A3_admission_stage,independent_sum_count/42/delta_avg,-0.003229781224451999,-0.003229781224451999,0.0,True
+A3_admission_stage,independent_sum_count/42/delta_peak,0.0013810485424000222,0.001381048542400022,2.168404344971009e-19,True
+A3_admission_stage,independent_sum_count/43/delta_avg,-0.0031232448477523348,-0.0031232448477523348,0.0,True
+A3_admission_stage,independent_sum_count/43/delta_peak,0.0007000964959263006,0.0007000964959263006,0.0,True
+A3_admission_stage,independent_sum_count/44/delta_avg,-0.002885505951778112,-0.002885505951778112,0.0,True
+A3_admission_stage,independent_sum_count/44/delta_peak,0.00039127576934193837,0.00039127576934193815,2.168404344971009e-19,True
+A3_admission_stage,independent_sum_count/45/delta_avg,-0.002301742845430154,-0.002301742845430154,0.0,True
+A3_admission_stage,independent_sum_count/45/delta_peak,0.0006216025723961491,0.0006216025723961492,1.0842021724855044e-19,True
+A3_admission_stage,independent_sum_count/46/delta_avg,-0.002269989606298598,-0.002269989606298598,0.0,True
+A3_admission_stage,independent_sum_count/46/delta_peak,0.002582605251461463,0.0025826052514614636,4.336808689942018e-19,True
+A3_admission_stage,independent_sum_count/47/delta_avg,-0.0032139929103718683,-0.0032139929103718683,0.0,True
+A3_admission_stage,independent_sum_count/47/delta_peak,0.001872956699018978,0.001872956699018978,0.0,True

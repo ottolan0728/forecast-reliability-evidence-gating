@@ -1,0 +1,5 @@
+{
+  "pass_": true,
+  "checks": 312,
+  "mode": "all completed scientific diagnostics; excludes infeasible E0X/E5 and machine-specific engineering timings"
+}

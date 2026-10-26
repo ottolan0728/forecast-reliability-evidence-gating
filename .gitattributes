@@ -1,0 +1,2 @@
+# Preserve frozen CSV/source bytes across platform checkouts and hash verification.
+* -text

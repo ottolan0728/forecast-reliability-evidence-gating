@@ -1,0 +1,32 @@
+{
+  "pass_": true,
+  "entities": [
+    [
+      "E1",
+      "Bobcat_education_Miki"
+    ],
+    [
+      "E1",
+      "Bobcat_education_Toni"
+    ],
+    [
+      "C1",
+      "4806"
+    ],
+    [
+      "C1",
+      "4915"
+    ],
+    [
+      "C1",
+      "5735"
+    ],
+    [
+      "C1",
+      "6005"
+    ]
+  ],
+  "fits": 12,
+  "max_fit_seconds": 11.630808199988678,
+  "scientific_aggregate_outcomes_accessed": false
+}

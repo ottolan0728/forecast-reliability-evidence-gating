@@ -1,0 +1,30 @@
+[
+  {
+    "figure": "E1_avg_matched_rate.pdf",
+    "extracted_text_matches_frozen": true
+  },
+  {
+    "figure": "E1_peak_matched_rate.pdf",
+    "extracted_text_matches_frozen": true
+  },
+  {
+    "figure": "E2_calibration.pdf",
+    "extracted_text_matches_frozen": true
+  },
+  {
+    "figure": "E2_harmful_positive.pdf",
+    "extracted_text_matches_frozen": true
+  },
+  {
+    "figure": "E2_positive_fraction.pdf",
+    "extracted_text_matches_frozen": true
+  },
+  {
+    "figure": "E4_fixed_mask_fallback.pdf",
+    "extracted_text_matches_frozen": true
+  },
+  {
+    "figure": "E4_fixed_mask_fallback_peak.pdf",
+    "extracted_text_matches_frozen": true
+  }
+]

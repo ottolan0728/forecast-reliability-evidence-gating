@@ -1,0 +1,21 @@
+building_id,site_id,primaryspaceusage,timezone,prior_rsdg_qc_registry,prior_rsdg_pilot_selected,prior_rsdg_split_registry,no_other_exposure_verified,eligible,reason,train_n,july_n,august_n,train_q99,selection_hash
+Bobcat_office_Alma,Bobcat,Office,US/Mountain,False,False,False,False,True,,4065,717,717,11.0001,00b113eb3807d7305045ab831a1f2a7eb86bc5d7fbb6d42262c082ac67571e55
+Bobcat_other_Jovita,Bobcat,Other,US/Mountain,False,False,False,False,True,,4137,738,480,133.0,1175c592c330312d8239bb066c76ec716d9686df598ecfd3e3a310d8fbff7502
+Bobcat_education_Miki,Bobcat,Education,US/Mountain,False,False,False,False,True,,3628,744,744,166.8801000000001,1d757a0c0751b8495e35b57fd8ec06a7b627349f08588257facc61d10e671f65
+Bobcat_education_Toni,Bobcat,Education,US/Mountain,False,False,False,False,True,,4114,744,744,46.75,27a4599fc1931d64495f3b26cf2bf4f6826f71e85601efc709ddd11c9ba2a67c
+Crow_education_Winston,Crow,Education,US/Eastern,False,False,False,False,True,,4170,744,606,548.3500000000004,42ef1a93dbaff489ba081c041bcbd1cc785fc1dc9230522ab82bb7afeda6e25c
+Crow_education_Kate,Crow,Education,US/Eastern,False,False,False,False,True,,4170,717,606,122.0,43377bc1a60b09f1e271272ccbbf03ebbf5219598e41fac9e2837934c83ec1af
+Crow_education_Omer,Crow,Education,US/Eastern,False,False,False,False,True,,4170,744,744,563.0,6acd71c4dba737841d2cad0f13fe709b818fce3ff7885dc048228792292aa174
+Crow_education_Marlin,Crow,Education,US/Eastern,False,False,False,False,True,,3850,744,717,552.0,897fd19215bbe25d6d6048450962068dc4def5b5f200dbb715273c0cf4260b72
+Eagle_health_Athena,Eagle,Healthcare,US/Eastern,False,False,False,False,True,,4173,717,744,659.8164,076670f2059cca2fe1e9bae18917e979a91a8951d6982645934241be3735d73e
+Eagle_lodging_Dawn,Eagle,Lodging/residential,US/Eastern,False,False,False,False,True,,4173,744,744,109.77213200000004,07d5c68db3757abc28bc5a4c6b2af474279edc8bf72ad3fb18497c85f734655e
+Eagle_health_Amy,Eagle,Healthcare,US/Eastern,False,False,False,False,True,,4173,744,744,138.68752800000001,0ac7bd5e1176b4214c14dfb1bf46712a42cde097b2ea5d09b80a98336cebe277
+Eagle_assembly_Benny,Eagle,Entertainment/public assembly,US/Eastern,False,False,False,False,True,,4173,744,744,100.99185800000005,0e0a75e92891400882c10a1ad9d2047c3231e448a864c2cbb0f3a8868e5c560f
+Lamb_education_Harold,Lamb,Education,Europe/London,False,False,False,False,True,,4173,744,744,33.0,02c87df5d31a6068a3240a93e8b62024c9616c5d8e41b4090ffbe9afb5d5cbe0
+Lamb_assembly_Elinor,Lamb,Entertainment/public assembly,Europe/London,False,False,False,False,True,,4173,744,744,71.34600000000027,02eabd03613c5586361345b85d68d4516b63495741e19b5432738d7321664004
+Lamb_office_Maggie,Lamb,Office,Europe/London,False,False,False,False,True,,4173,744,744,21.9,0308fbd1c1fea06341795a204d2e2d284723081f07f136f140f1838da465f4f4
+Lamb_public_Grace,Lamb,Public services,Europe/London,False,False,False,False,True,,4173,744,744,138.33400000000003,043bc96b4baa1cb8d6003aaf76bf2e5276ff296ba2e47c6046aa74867731a5ca
+Shrew_office_Kenneth,Shrew,Office,Europe/London,False,False,False,False,True,,4173,744,744,75.2,0096ca0cd25096ef54fce04a6e00e082491ec2b2f274d4ff9132bc6d103a4eff
+Shrew_office_Nora,Shrew,Office,Europe/London,False,False,False,False,True,,4173,744,744,304.03400000000005,084a14a61652cfc2d7d9996077a749694b21c7435e9f41fea9a4b815d10652ed
+Shrew_office_Sherill,Shrew,Office,Europe/London,False,False,False,False,True,,4173,744,744,551.6700000000001,391889bbbb4e26767e4fb82b2547772fdbb9a7dcdd883be7ae49a5fd59320f45
+Shrew_office_Doris,Shrew,Office,Europe/London,False,False,False,False,True,,4173,744,744,321.134,6d5ac355ebc70aa31e0868fd7d86d87899bef14da44bcc90aea54cbe25409447

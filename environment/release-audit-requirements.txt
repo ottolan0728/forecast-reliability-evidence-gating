@@ -1,0 +1,2 @@
+-r frozen-full-requirements.txt
+pypdf==6.10.0  # release PDF auditing only; not a scientific dependency

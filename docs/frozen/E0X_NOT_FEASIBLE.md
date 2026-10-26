@@ -1,0 +1,3 @@
+# E0X not feasible
+
+Header-only inventory: 1578 electricity entities, 19 sites. Prior E1 20, pilot 24. No untouched cohort certified. The historical reserved registry explicitly has no_other_exposure_verified=False; the later MTL exposure specification documents extensive additional screening (1578 support-screen entities, 48 noneligibility-artifact-exposed entities, 23 unclassified entities). It does not certify the remaining entities as never outcome-inspected through R1. No new outcome values were read for cohort selection. Unknown exposure is not an independent cohort. See results/E0X/cohort_inventory.csv and hashed provenance copies. New cohort execution stopped; opened-cohort diagnostics continue.

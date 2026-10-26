@@ -1,0 +1,97 @@
+dataset,model,lag,variant,metric,block_days,inference_status,entities,delta,ci95_lower,ci95_upper,valid_bootstraps,harm_entities,sites,site_mean_delta,ci_low,ci_high,p_raw,better,worse,ties,p_holm
+C1,HGB,1,naive,average,7.0,exploratory ordinary intervals; no global secondary multiplicity adjustment,116,0.00035892377542209755,0.00030826240383712104,0.00040911470181494364,2000.0,106.0,,,,,,,,,
+C1,HGB,1,naive,peak,7.0,exploratory ordinary intervals; no global secondary multiplicity adjustment,116,0.00037781159284356176,0.00026747388932895743,0.0004974695437736227,1996.0,44.0,,,,,,,,,
+C1,HGB,1,fixed_0.001,average,7.0,exploratory ordinary intervals; no global secondary multiplicity adjustment,116,0.0003053698891326523,0.000262588325876147,0.00034768297758196436,2000.0,101.0,,,,,,,,,
+C1,HGB,1,fixed_0.001,peak,7.0,exploratory ordinary intervals; no global secondary multiplicity adjustment,116,0.0002794451780625104,0.00018692039242449948,0.00038883541380251523,1996.0,39.0,,,,,,,,,
+C1,HGB,1,fixed_0.005,average,7.0,exploratory ordinary intervals; no global secondary multiplicity adjustment,116,0.00016151300443134227,0.00014078991107926292,0.0001807400051595261,2000.0,78.0,,,,,,,,,
+C1,HGB,1,fixed_0.005,peak,7.0,exploratory ordinary intervals; no global secondary multiplicity adjustment,116,0.00014448370209002302,2.532400613968207e-05,0.0002720215764244727,1996.0,23.0,,,,,,,,,
+C1,HGB,1,fixed_0.01,average,7.0,exploratory ordinary intervals; no global secondary multiplicity adjustment,116,8.018420058151647e-05,6.565870303180184e-05,9.419837213585984e-05,2000.0,45.0,,,,,,,,,
+C1,HGB,1,fixed_0.01,peak,7.0,exploratory ordinary intervals; no global secondary multiplicity adjustment,116,4.538340691850249e-05,-5.8022713492233836e-05,0.00012537441268843,1996.0,15.0,,,,,,,,,
+C1,HGB,1,fixed_0.02,average,7.0,exploratory ordinary intervals; no global secondary multiplicity adjustment,116,3.4339319509210225e-05,2.6970788516537473e-05,4.221419528840509e-05,2000.0,11.0,,,,,,,,,
+C1,HGB,1,fixed_0.02,peak,7.0,exploratory ordinary intervals; no global secondary multiplicity adjustment,116,-2.625345196044017e-05,-8.335206658978097e-05,2.859420555273116e-05,1996.0,4.0,,,,,,,,,
+C1,HGB,1,frozen_admitted,average,7.0,exploratory ordinary intervals; no global secondary multiplicity adjustment,116,4.5862265681441774e-05,3.4912235373195476e-05,5.640920323589354e-05,2000.0,11.0,,,,,,,,,
+C1,HGB,1,frozen_admitted,peak,7.0,exploratory ordinary intervals; no global secondary multiplicity adjustment,116,4.823508671814959e-05,-3.3707535595951416e-06,0.00013818292331302647,1996.0,5.0,,,,,,,,,
+C1,HGB,168,naive,average,7.0,exploratory ordinary intervals; no global secondary multiplicity adjustment,116,0.0013724343511946745,0.0010825162967078744,0.0017154801319765294,2000.0,103.0,,,,,,,,,
+C1,HGB,168,naive,peak,7.0,exploratory ordinary intervals; no global secondary multiplicity adjustment,116,0.0033085044156554305,0.0022467923821562663,0.004165508061088977,1996.0,62.0,,,,,,,,,
+C1,HGB,168,fixed_0.001,average,7.0,exploratory ordinary intervals; no global secondary multiplicity adjustment,116,0.001251073835607885,0.0009775692880580283,0.001582048523199811,2000.0,103.0,,,,,,,,,
+C1,HGB,168,fixed_0.001,peak,7.0,exploratory ordinary intervals; no global secondary multiplicity adjustment,116,0.0031491278452803746,0.0021685256721609403,0.003915776170107659,1996.0,59.0,,,,,,,,,
+C1,HGB,168,fixed_0.005,average,7.0,exploratory ordinary intervals; no global secondary multiplicity adjustment,116,0.0008327881521237043,0.0006215421616800461,0.0010818466202293768,2000.0,86.0,,,,,,,,,
+C1,HGB,168,fixed_0.005,peak,7.0,exploratory ordinary intervals; no global secondary multiplicity adjustment,116,0.002538536759031138,0.0017369265816390715,0.0031664869183369213,1996.0,39.0,,,,,,,,,
+C1,HGB,168,fixed_0.01,average,7.0,exploratory ordinary intervals; no global secondary multiplicity adjustment,116,0.0005361127822622161,0.00037951598073943603,0.0007216772701967352,2000.0,60.0,,,,,,,,,
+C1,HGB,168,fixed_0.01,peak,7.0,exploratory ordinary intervals; no global secondary multiplicity adjustment,116,0.002041052034395687,0.0013368402382250596,0.002637954452568551,1996.0,24.0,,,,,,,,,
+C1,HGB,168,fixed_0.02,average,7.0,exploratory ordinary intervals; no global secondary multiplicity adjustment,116,0.00011320686460180234,7.444574987934426e-05,0.00015465711941035998,2000.0,24.0,,,,,,,,,
+C1,HGB,168,fixed_0.02,peak,7.0,exploratory ordinary intervals; no global secondary multiplicity adjustment,116,0.0006532493804460962,0.00029012535626906115,0.0009917628664219073,1996.0,6.0,,,,,,,,,
+C1,HGB,168,frozen_admitted,average,7.0,exploratory ordinary intervals; no global secondary multiplicity adjustment,116,7.22678684285933e-05,5.260546867863301e-05,9.502977695569817e-05,2000.0,11.0,,,,,,,,,
+C1,HGB,168,frozen_admitted,peak,7.0,exploratory ordinary intervals; no global secondary multiplicity adjustment,116,0.00018856314491137767,0.0001024168194323355,0.00027983509619027176,1996.0,5.0,,,,,,,,,
+C1,HGB,24,naive,average,7.0,exploratory ordinary intervals; no global secondary multiplicity adjustment,116,0.0012700579091640578,0.0011064259663659914,0.0014385020024700599,2000.0,109.0,,,,,,,,,
+C1,HGB,24,naive,peak,7.0,exploratory ordinary intervals; no global secondary multiplicity adjustment,116,0.002415959196805874,0.0018911697214487166,0.003071347142293327,1996.0,86.0,,,,,,,,,
+C1,HGB,24,fixed_0.001,average,7.0,exploratory ordinary intervals; no global secondary multiplicity adjustment,116,0.0011449883692680595,0.00098948503281916,0.0013109095766782857,2000.0,104.0,,,,,,,,,
+C1,HGB,24,fixed_0.001,peak,7.0,exploratory ordinary intervals; no global secondary multiplicity adjustment,116,0.0022373333503768324,0.0017406673307477987,0.002861344248563251,1996.0,82.0,,,,,,,,,
+C1,HGB,24,fixed_0.005,average,7.0,exploratory ordinary intervals; no global secondary multiplicity adjustment,116,0.0007281443347217487,0.0006139225733098213,0.0008567464877135972,2000.0,102.0,,,,,,,,,
+C1,HGB,24,fixed_0.005,peak,7.0,exploratory ordinary intervals; no global secondary multiplicity adjustment,116,0.001644642722041062,0.0012502897485131145,0.0021031560664801266,1996.0,67.0,,,,,,,,,
+C1,HGB,24,fixed_0.01,average,7.0,exploratory ordinary intervals; no global secondary multiplicity adjustment,116,0.00037424398868489406,0.0003049598626460045,0.0004517089618350003,2000.0,76.0,,,,,,,,,
+C1,HGB,24,fixed_0.01,peak,7.0,exploratory ordinary intervals; no global secondary multiplicity adjustment,116,0.0011499010295761653,0.0007959000353098115,0.0015169373106423837,1996.0,42.0,,,,,,,,,
+C1,HGB,24,fixed_0.02,average,7.0,exploratory ordinary intervals; no global secondary multiplicity adjustment,116,0.00012021161567325374,9.157569574360719e-05,0.00015081762318650034,2000.0,30.0,,,,,,,,,
+C1,HGB,24,fixed_0.02,peak,7.0,exploratory ordinary intervals; no global secondary multiplicity adjustment,116,0.0005873180371112744,0.00022968326737434554,0.0008816752963840114,1996.0,15.0,,,,,,,,,
+C1,HGB,24,frozen_admitted,average,7.0,exploratory ordinary intervals; no global secondary multiplicity adjustment,116,0.00020704911322727657,0.00016491623176731634,0.0002519233215102161,2000.0,31.0,,,,,,,,,
+C1,HGB,24,frozen_admitted,peak,7.0,exploratory ordinary intervals; no global secondary multiplicity adjustment,116,0.0003720553285385179,0.00029454617422744456,0.00047032284065821965,1996.0,21.0,,,,,,,,,
+C1,Ridge,1,naive,average,7.0,exploratory ordinary intervals; no global secondary multiplicity adjustment,116,-0.0004884755648709345,-0.0008533033131714748,-0.00014975985575793754,2000.0,43.0,,,,,,,,,
+C1,Ridge,1,naive,peak,7.0,exploratory ordinary intervals; no global secondary multiplicity adjustment,116,-0.00014587145726698472,-0.0006994018006666401,0.00034938921570473643,1996.0,37.0,,,,,,,,,
+C1,Ridge,1,fixed_0.001,average,7.0,exploratory ordinary intervals; no global secondary multiplicity adjustment,116,-0.0005085879074131174,-0.0008546223716034815,-0.00019130886767986107,2000.0,37.0,,,,,,,,,
+C1,Ridge,1,fixed_0.001,peak,7.0,exploratory ordinary intervals; no global secondary multiplicity adjustment,116,-0.00013488827606172678,-0.000648316527651522,0.0003172458963904757,1996.0,37.0,,,,,,,,,
+C1,Ridge,1,fixed_0.005,average,7.0,exploratory ordinary intervals; no global secondary multiplicity adjustment,116,-0.00048186204434129003,-0.0007415882024851705,-0.00024052068133955057,2000.0,36.0,,,,,,,,,
+C1,Ridge,1,fixed_0.005,peak,7.0,exploratory ordinary intervals; no global secondary multiplicity adjustment,116,-0.00010853955787366966,-0.00047997744716472,0.00018938287971239777,1996.0,24.0,,,,,,,,,
+C1,Ridge,1,fixed_0.01,average,7.0,exploratory ordinary intervals; no global secondary multiplicity adjustment,116,-0.00044096282312784023,-0.000625204849965406,-0.00027629081652500283,2000.0,33.0,,,,,,,,,
+C1,Ridge,1,fixed_0.01,peak,7.0,exploratory ordinary intervals; no global secondary multiplicity adjustment,116,-0.0001458713739724176,-0.0004027964381193904,3.927851036950241e-05,1996.0,8.0,,,,,,,,,
+C1,Ridge,1,fixed_0.02,average,7.0,exploratory ordinary intervals; no global secondary multiplicity adjustment,116,-0.00036461645805070653,-0.00045535043259763093,-0.0002776762032826545,2000.0,11.0,,,,,,,,,
+C1,Ridge,1,fixed_0.02,peak,7.0,exploratory ordinary intervals; no global secondary multiplicity adjustment,116,-4.402814154161152e-05,-0.00014948250533649738,3.008769444712639e-05,1996.0,5.0,,,,,,,,,
+C1,Ridge,1,frozen_admitted,average,7.0,exploratory ordinary intervals; no global secondary multiplicity adjustment,116,-0.0005602634568687862,-0.0009195094644202562,-0.00023483654399562625,2000.0,27.0,,,,,,,,,
+C1,Ridge,1,frozen_admitted,peak,7.0,exploratory ordinary intervals; no global secondary multiplicity adjustment,116,-0.00013380329083203325,-0.0005791641568227517,0.0002729752356899336,1996.0,29.0,,,,,,,,,
+C1,Ridge,168,naive,average,7.0,exploratory ordinary intervals; no global secondary multiplicity adjustment,116,0.0028390108405490955,0.0007386044845944526,0.005003263133999705,2000.0,77.0,,,,,,,,,
+C1,Ridge,168,naive,peak,7.0,exploratory ordinary intervals; no global secondary multiplicity adjustment,116,0.007297578827195197,0.0028503219800634196,0.010698630148876734,1996.0,70.0,,,,,,,,,
+C1,Ridge,168,fixed_0.001,average,7.0,exploratory ordinary intervals; no global secondary multiplicity adjustment,116,0.002591536681863943,0.0006299175694282743,0.0045880325118328215,2000.0,77.0,,,,,,,,,
+C1,Ridge,168,fixed_0.001,peak,7.0,exploratory ordinary intervals; no global secondary multiplicity adjustment,116,0.006683946815347202,0.002641806975174938,0.009706303998598953,1996.0,69.0,,,,,,,,,
+C1,Ridge,168,fixed_0.005,average,7.0,exploratory ordinary intervals; no global secondary multiplicity adjustment,116,0.001797567381933346,0.0003061262729452452,0.0032976455066765866,2000.0,75.0,,,,,,,,,
+C1,Ridge,168,fixed_0.005,peak,7.0,exploratory ordinary intervals; no global secondary multiplicity adjustment,116,0.004878256229211792,0.0018734745029879226,0.007253535957837265,1996.0,53.0,,,,,,,,,
+C1,Ridge,168,fixed_0.01,average,7.0,exploratory ordinary intervals; no global secondary multiplicity adjustment,116,0.0010335167562943147,-8.123275149430844e-06,0.0020506498478567226,2000.0,63.0,,,,,,,,,
+C1,Ridge,168,fixed_0.01,peak,7.0,exploratory ordinary intervals; no global secondary multiplicity adjustment,116,0.003172447264706529,0.0011569453342479235,0.005041255877375288,1996.0,40.0,,,,,,,,,
+C1,Ridge,168,fixed_0.02,average,7.0,exploratory ordinary intervals; no global secondary multiplicity adjustment,116,0.00032724775476060435,-0.00023539389462775442,0.0008818901080333154,2000.0,52.0,,,,,,,,,
+C1,Ridge,168,fixed_0.02,peak,7.0,exploratory ordinary intervals; no global secondary multiplicity adjustment,116,0.0016758665110572094,0.0006352007215111489,0.00271889867450273,1996.0,27.0,,,,,,,,,
+C1,Ridge,168,frozen_admitted,average,7.0,exploratory ordinary intervals; no global secondary multiplicity adjustment,116,0.001863919405302283,0.00015150620185556659,0.0035821164482137224,2000.0,60.0,,,,,,,,,
+C1,Ridge,168,frozen_admitted,peak,7.0,exploratory ordinary intervals; no global secondary multiplicity adjustment,116,0.00493620971182773,0.0014930668851555948,0.00789550072254873,1996.0,57.0,,,,,,,,,
+C1,Ridge,24,naive,average,7.0,exploratory ordinary intervals; no global secondary multiplicity adjustment,116,-0.0007055686935296801,-0.0018022030571829147,0.000381658515723707,2000.0,36.0,,,,,,,,,
+C1,Ridge,24,naive,peak,7.0,exploratory ordinary intervals; no global secondary multiplicity adjustment,116,-8.394107989178527e-05,-0.002060031156615586,0.0014724959111236395,1996.0,39.0,,,,,,,,,
+C1,Ridge,24,fixed_0.001,average,7.0,exploratory ordinary intervals; no global secondary multiplicity adjustment,116,-0.0007044936719176273,-0.0017465241569583779,0.00033306144021891536,2000.0,37.0,,,,,,,,,
+C1,Ridge,24,fixed_0.001,peak,7.0,exploratory ordinary intervals; no global secondary multiplicity adjustment,116,-6.188778379523463e-05,-0.0019571543825099274,0.001432009532757498,1996.0,38.0,,,,,,,,,
+C1,Ridge,24,fixed_0.005,average,7.0,exploratory ordinary intervals; no global secondary multiplicity adjustment,116,-0.0006584476445753224,-0.0014715837048432255,0.00015001507884649818,2000.0,38.0,,,,,,,,,
+C1,Ridge,24,fixed_0.005,peak,7.0,exploratory ordinary intervals; no global secondary multiplicity adjustment,116,-9.094856805154638e-05,-0.0017378072787127422,0.0012253876456142453,1996.0,39.0,,,,,,,,,
+C1,Ridge,24,fixed_0.01,average,7.0,exploratory ordinary intervals; no global secondary multiplicity adjustment,116,-0.0005980253837672945,-0.0011793408509044765,-3.53084954831522e-06,2000.0,34.0,,,,,,,,,
+C1,Ridge,24,fixed_0.01,peak,7.0,exploratory ordinary intervals; no global secondary multiplicity adjustment,116,-0.00033418605229401416,-0.001708412169534514,0.0007268994644623793,1996.0,26.0,,,,,,,,,
+C1,Ridge,24,fixed_0.02,average,7.0,exploratory ordinary intervals; no global secondary multiplicity adjustment,116,-0.0004788832728774712,-0.0007917391211950461,-0.00016345096214584324,2000.0,32.0,,,,,,,,,
+C1,Ridge,24,fixed_0.02,peak,7.0,exploratory ordinary intervals; no global secondary multiplicity adjustment,116,-6.295983284645259e-05,-0.0010246920931365618,0.0007040149499681719,1996.0,15.0,,,,,,,,,
+C1,Ridge,24,frozen_admitted,average,7.0,exploratory ordinary intervals; no global secondary multiplicity adjustment,116,-0.0009184726208304785,-0.0019615612551996797,0.00011657516852942128,2000.0,32.0,,,,,,,,,
+C1,Ridge,24,frozen_admitted,peak,7.0,exploratory ordinary intervals; no global secondary multiplicity adjustment,116,-0.00042327562436706475,-0.002208786985464258,0.0008960806115926835,1996.0,31.0,,,,,,,,,
+E1,HGB,24,fixed_0.001,average,,Holm four contrasts within variant only; not across variants,20,,,,,,5.0,-0.012422910940430458,-0.03360744926350449,0.00014090604794058374,0.25,9.0,11.0,0.0,1.0
+E1,HGB,24,fixed_0.001,peak,,Holm four contrasts within variant only; not across variants,17,,,,,,5.0,-0.006652520823631375,-0.02346325065800044,0.003237001031733776,0.875,5.0,5.0,7.0,1.0
+E1,Ridge,24,fixed_0.001,average,,Holm four contrasts within variant only; not across variants,20,,,,,,5.0,-0.0032297812244519984,-0.0064682643790232985,-0.00012948111415335555,0.25,15.0,5.0,0.0,1.0
+E1,Ridge,24,fixed_0.001,peak,,Holm four contrasts within variant only; not across variants,17,,,,,,5.0,0.0016221210842783807,-0.0019664029715344544,0.004530186659298432,0.4375,3.0,10.0,4.0,1.0
+E1,HGB,24,fixed_0.005,average,,Holm four contrasts within variant only; not across variants,20,,,,,,5.0,-0.012528634170908923,-0.03370878094137095,-3.4654899771794245e-06,0.25,8.0,12.0,0.0,1.0
+E1,HGB,24,fixed_0.005,peak,,Holm four contrasts within variant only; not across variants,17,,,,,,5.0,-0.006649149351673244,-0.023121987141032675,0.0032914350195412017,0.875,4.0,5.0,8.0,1.0
+E1,Ridge,24,fixed_0.005,average,,Holm four contrasts within variant only; not across variants,20,,,,,,5.0,-0.0031232448477523348,-0.006245303618137412,-0.0001843195831935153,0.25,15.0,5.0,0.0,1.0
+E1,Ridge,24,fixed_0.005,peak,,Holm four contrasts within variant only; not across variants,17,,,,,,5.0,0.000905788266452392,-0.002020549013078062,0.0034451064687534777,0.6875,3.0,10.0,4.0,1.0
+E1,HGB,24,fixed_0.01,average,,Holm four contrasts within variant only; not across variants,20,,,,,,5.0,-0.01251869034902745,-0.03362742305600149,-8.879408837385856e-05,0.25,10.0,8.0,2.0,1.0
+E1,HGB,24,fixed_0.01,peak,,Holm four contrasts within variant only; not across variants,17,,,,,,5.0,-0.006732585452964299,-0.02305756863841447,0.003188138134063017,0.75,4.0,3.0,10.0,1.0
+E1,Ridge,24,fixed_0.01,average,,Holm four contrasts within variant only; not across variants,20,,,,,,5.0,-0.002885505951778112,-0.005930301993464827,-0.00011905177460086068,0.25,16.0,4.0,0.0,1.0
+E1,Ridge,24,fixed_0.01,peak,,Holm four contrasts within variant only; not across variants,17,,,,,,5.0,0.0006150541891193488,-0.002134280234437469,0.002884750813267392,0.6875,3.0,9.0,5.0,1.0
+E1,HGB,24,fixed_0.02,average,,Holm four contrasts within variant only; not across variants,20,,,,,,5.0,-0.012459003834846825,-0.033223452362488026,-0.0002712181244137582,0.25,7.0,8.0,5.0,1.0
+E1,HGB,24,fixed_0.02,peak,,Holm four contrasts within variant only; not across variants,17,,,,,,5.0,-0.007030376435641058,-0.023528498499891207,0.0025702429944446043,0.75,3.0,2.0,12.0,1.0
+E1,Ridge,24,fixed_0.02,average,,Holm four contrasts within variant only; not across variants,20,,,,,,5.0,-0.0023017428454301533,-0.005155333766397431,0.00010682950433437482,0.25,13.0,6.0,1.0,1.0
+E1,Ridge,24,fixed_0.02,peak,,Holm four contrasts within variant only; not across variants,17,,,,,,5.0,0.0008177359668008505,-0.0011479106787474589,0.002549802582913778,0.375,2.0,8.0,7.0,1.0
+E1,HGB,24,frozen_admitted,average,,Holm four contrasts within variant only; not across variants,20,,,,,,5.0,-0.010984094261626878,-0.032221413195557484,0.0001534565110894349,0.3125,7.0,5.0,8.0,0.625
+E1,HGB,24,frozen_admitted,peak,,Holm four contrasts within variant only; not across variants,17,,,,,,5.0,0.0004361408804599835,-0.001125989092194194,0.0026468812383386867,1.0,3.0,1.0,13.0,1.0
+E1,Ridge,24,frozen_admitted,average,,Holm four contrasts within variant only; not across variants,20,,,,,,5.0,-0.0022699896062985977,-0.004870676284423166,-0.0003594844526278161,0.125,11.0,3.0,6.0,0.375
+E1,Ridge,24,frozen_admitted,peak,,Holm four contrasts within variant only; not across variants,17,,,,,,5.0,0.0024085421951761366,0.00018223718315945426,0.005169595554301659,0.0625,1.0,8.0,8.0,0.25
+E1,HGB,24,naive,average,,Holm four contrasts within variant only; not across variants,20,,,,,,5.0,-0.012412189970401727,-0.03359452785929064,0.00016792684007138986,0.25,9.0,11.0,0.0,1.0
+E1,HGB,24,naive,peak,,Holm four contrasts within variant only; not across variants,17,,,,,,5.0,-0.006457633899428254,-0.023434401523434827,0.0034778812623563428,0.9375,5.0,6.0,6.0,1.0
+E1,Ridge,24,naive,average,,Holm four contrasts within variant only; not across variants,20,,,,,,5.0,-0.003213992910371867,-0.006471510008202427,-8.673942224308229e-05,0.25,15.0,5.0,0.0,1.0
+E1,Ridge,24,naive,peak,,Holm four contrasts within variant only; not across variants,17,,,,,,5.0,0.0020247726442863545,-0.0017316925539322277,0.0052721682779835605,0.3125,3.0,10.0,4.0,1.0
