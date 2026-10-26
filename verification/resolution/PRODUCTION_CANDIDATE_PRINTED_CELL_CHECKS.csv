@@ -1,0 +1,247 @@
+claim,printed,source_value,display_digits,exact_display_match,comparison_rule,pass_
+readout E2 E1/HGB/24/spearman,0.543304864,0.5433048643606637,9,True,printed decimal rounding,True
+readout E2 E1/HGB/24/auroc,0.719258505,0.7192585046796451,9,True,printed decimal rounding,True
+readout E2 E1/HGB/24/harmful_positive_rate,0.393281132,0.3932811315988886,9,True,printed decimal rounding,True
+readout E2 E1/HGB/24/frozen_switch_harm_rate,0.336133277,0.3361332773344533,9,True,printed decimal rounding,True
+readout E2 E1/Ridge/24/spearman,0.490313786,0.4903137857814536,9,True,printed decimal rounding,True
+readout E2 E1/Ridge/24/auroc,0.709493955,0.7094939554242277,9,True,printed decimal rounding,True
+readout E2 E1/Ridge/24/harmful_positive_rate,0.364050633,0.3640506329113924,9,True,printed decimal rounding,True
+readout E2 E1/Ridge/24/frozen_switch_harm_rate,0.326330532,0.32633053221288516,9,True,printed decimal rounding,True
+readout E2 C1/HGB/1/spearman,0.484230394,0.48423039382398575,9,True,printed decimal rounding,True
+readout E2 C1/HGB/1/auroc,0.634345348,0.6343453480971931,9,True,printed decimal rounding,True
+readout E2 C1/HGB/1/harmful_positive_rate,0.566276724,0.5662767244856797,9,True,printed decimal rounding,True
+readout E2 C1/HGB/1/frozen_switch_harm_rate,0.548857560,0.5488575595527467,9,True,printed decimal rounding,True
+readout E2 C1/HGB/168/spearman,0.450785951,0.4507859514767637,9,True,printed decimal rounding,True
+readout E2 C1/HGB/168/auroc,0.640024593,0.6400245929468263,9,True,printed decimal rounding,True
+readout E2 C1/HGB/168/harmful_positive_rate,0.603105246,0.6031052462932215,9,True,printed decimal rounding,True
+readout E2 C1/HGB/168/frozen_switch_harm_rate,0.613437196,0.6134371957156767,9,True,printed decimal rounding,True
+readout E2 C1/HGB/24/spearman,0.355860537,0.3558605371423168,9,True,printed decimal rounding,True
+readout E2 C1/HGB/24/auroc,0.602303138,0.6023031375419919,9,True,printed decimal rounding,True
+readout E2 C1/HGB/24/harmful_positive_rate,0.580077354,0.5800773541716,9,True,printed decimal rounding,True
+readout E2 C1/HGB/24/frozen_switch_harm_rate,0.586910286,0.5869102861562259,9,True,printed decimal rounding,True
+readout E2 C1/Ridge/1/spearman,0.338682262,0.33868226225192355,9,True,printed decimal rounding,True
+readout E2 C1/Ridge/1/auroc,0.617426866,0.6174268661456529,9,True,printed decimal rounding,True
+readout E2 C1/Ridge/1/harmful_positive_rate,0.468729633,0.46872963320211686,9,True,printed decimal rounding,True
+readout E2 C1/Ridge/1/frozen_switch_harm_rate,0.456532638,0.45653263812293193,9,True,printed decimal rounding,True
+readout E2 C1/Ridge/168/spearman,0.285564235,0.2855642351981284,9,True,printed decimal rounding,True
+readout E2 C1/Ridge/168/auroc,0.611502973,0.6115029729226291,9,True,printed decimal rounding,True
+readout E2 C1/Ridge/168/harmful_positive_rate,0.536022224,0.5360222239693896,9,True,printed decimal rounding,True
+readout E2 C1/Ridge/168/frozen_switch_harm_rate,0.529334626,0.5293346256913165,9,True,printed decimal rounding,True
+readout E2 C1/Ridge/24/spearman,0.199134305,0.1991343047156143,9,True,printed decimal rounding,True
+readout E2 C1/Ridge/24/auroc,0.584537077,0.5845370771522448,9,True,printed decimal rounding,True
+readout E2 C1/Ridge/24/harmful_positive_rate,0.462771349,0.4627713491434249,9,True,printed decimal rounding,True
+readout E2 C1/Ridge/24/frozen_switch_harm_rate,0.451135638,0.4511356384864456,9,True,printed decimal rounding,True
+readout E4 C1/Ridge/lag24/delta_avg,-0.000918472621,-0.0009184726208304786,12,True,printed decimal rounding,True
+readout E4 C1/Ridge/lag24/delta_peak,-0.000423275624,-0.00042327562436706464,12,True,printed decimal rounding,True
+readout E4 C1/Ridge/lag24/switch_rate,0.330580803,0.33058080334832585,9,True,printed decimal rounding,True
+readout E4 C1/Ridge/learned_HGB/delta_avg,-0.004244625230,-0.0042446252293117485,12,False,nine-significant-digit source then zero padding,True
+readout E4 C1/Ridge/learned_HGB/delta_peak,-0.003660457440,-0.003660457443108038,12,False,nine-significant-digit source then zero padding,True
+readout E4 C1/Ridge/learned_HGB/switch_rate,0.330580803,0.33058080334832585,9,True,printed decimal rounding,True
+readout E4 E1/HGB/lag24/delta_avg,-0.010984094300,-0.01098409426162688,12,False,nine-significant-digit source then zero padding,True
+readout E4 E1/HGB/lag24/delta_peak,0.000623498006,0.0006234980056582351,12,True,printed decimal rounding,True
+readout E4 E1/HGB/lag24/switch_rate,0.168777709,0.16877770888263888,9,True,printed decimal rounding,True
+readout E4 E1/HGB/learned_Ridge/delta_avg,-0.010111058600,-0.01011105860104152,12,False,nine-significant-digit source then zero padding,True
+readout E4 E1/HGB/learned_Ridge/delta_peak,-0.0000887471263,-8.874712630119186e-05,13,True,printed decimal rounding,True
+readout E4 E1/HGB/learned_Ridge/switch_rate,0.168777709,0.16877770888263888,9,True,printed decimal rounding,True
+readout E4 E1/Ridge/lag24/delta_avg,-0.002269989610,-0.0022699896062985977,12,False,nine-significant-digit source then zero padding,True
+readout E4 E1/Ridge/lag24/delta_peak,0.002582605250,0.002582605251461463,12,False,nine-significant-digit source then zero padding,True
+readout E4 E1/Ridge/lag24/switch_rate,0.217045367,0.21704536651735346,9,True,printed decimal rounding,True
+readout E4 E1/Ridge/learned_HGB/delta_avg,0.007726626930,0.007726626929799428,12,True,printed decimal rounding,True
+readout E4 E1/Ridge/learned_HGB/delta_peak,-0.001317708940,-0.0013177089388270616,12,False,nine-significant-digit source then zero padding,True
+readout E4 E1/Ridge/learned_HGB/switch_rate,0.217045367,0.21704536651735346,9,True,printed decimal rounding,True
+readout E8 C1/HGB/1/change_recall,-0.000329806688,-0.000329806687565308,12,True,printed decimal rounding,True
+readout E8 C1/HGB/1/change_false_alarm_rate,0.00000406948617,4.069486170767902e-06,14,True,printed decimal rounding,True
+readout E8 C1/HGB/1/change_f1,-0.000217911189,-0.0002179111892629665,12,True,printed decimal rounding,True
+readout E8 C1/HGB/24/change_recall,-0.003928650240,-0.003928650240170337,12,True,printed decimal rounding,True
+readout E8 C1/HGB/24/change_false_alarm_rate,-0.000222671481,-0.00022267148087304263,12,True,printed decimal rounding,True
+readout E8 C1/HGB/24/change_f1,-0.001134952380,-0.001134952378449209,12,False,nine-significant-digit source then zero padding,True
+readout E8 C1/HGB/168/change_recall,-0.001608535590,-0.0016085355869394262,12,False,nine-significant-digit source then zero padding,True
+readout E8 C1/HGB/168/change_false_alarm_rate,-0.0000329368484,-3.293684839588151e-05,13,True,printed decimal rounding,True
+readout E8 C1/HGB/168/change_f1,-0.000850696427,-0.0008506964271547641,12,True,printed decimal rounding,True
+readout E8 C1/Ridge/1/change_recall,0.007947548320,0.007947548322249903,12,False,nine-significant-digit source then zero padding,True
+readout E8 C1/Ridge/1/change_false_alarm_rate,0.000732468265,0.0007324682648754998,12,True,printed decimal rounding,True
+readout E8 C1/Ridge/1/change_f1,0.001704093140,0.001704093138300516,12,False,nine-significant-digit source then zero padding,True
+readout E8 C1/Ridge/24/change_recall,0.016653879900,0.016653879894366806,12,False,nine-significant-digit source then zero padding,True
+readout E8 C1/Ridge/24/change_false_alarm_rate,0.001510533600,0.0015105336008302058,12,False,nine-significant-digit source then zero padding,True
+readout E8 C1/Ridge/24/change_f1,0.002206245200,0.00220624520410788,12,False,nine-significant-digit source then zero padding,True
+readout E8 C1/Ridge/168/change_recall,-0.013185429700,-0.013185429669029679,12,False,nine-significant-digit source then zero padding,True
+readout E8 C1/Ridge/168/change_false_alarm_rate,0.001401028980,0.001401028976552916,12,False,nine-significant-digit source then zero padding,True
+readout E8 C1/Ridge/168/change_f1,-0.021318208400,-0.021318208427569395,12,False,nine-significant-digit source then zero padding,True
+readout E8 E1/HGB/24/change_recall,-0.015944036400,-0.015944036407213803,12,False,nine-significant-digit source then zero padding,True
+readout E8 E1/HGB/24/change_false_alarm_rate,-0.003596622970,-0.003596622973710689,12,False,nine-significant-digit source then zero padding,True
+readout E8 E1/HGB/24/change_f1,0.000412608967,0.0004126089673231565,12,True,printed decimal rounding,True
+readout E8 E1/Ridge/24/change_recall,-0.021785489000,-0.02178548901747208,12,False,nine-significant-digit source then zero padding,True
+readout E8 E1/Ridge/24/change_false_alarm_rate,-0.001404239070,-0.0014042390745908687,12,False,nine-significant-digit source then zero padding,True
+readout E8 E1/Ridge/24/change_f1,-0.006361699660,-0.006361699658159212,12,False,nine-significant-digit source then zero padding,True
+main BDG2 Ridge/Average/keep_model,0.042439,0.042439341927279495,6,True,printed decimal rounding,True
+main BDG2 Ridge/Average/gain_calibrated,0.040169,0.0401693523209809,6,True,printed decimal rounding,True
+main BDG2 site Ridge/Average,-0.002270,-0.0022699896062985977,6,True,printed decimal rounding,True
+main BDG2 CI lower,-0.004871,-0.004870676284423166,6,True,printed decimal rounding,True
+main BDG2 CI upper,-0.000359,-0.0003594844526278161,6,True,printed decimal rounding,True
+main BDG2 p,0.1250,0.125,4,True,printed decimal rounding,True
+main BDG2 Holm p,0.375,0.375,3,True,printed decimal rounding,True
+main BDG2 Ridge/Peak/keep_model,0.081863,0.08186329768314915,6,True,printed decimal rounding,True
+main BDG2 Ridge/Peak/gain_calibrated,0.084446,0.08444590293461061,6,True,printed decimal rounding,True
+main BDG2 site Ridge/Peak,0.002409,0.0024085421951761366,6,True,printed decimal rounding,True
+main BDG2 CI lower,0.000182,0.00018223718315945426,6,True,printed decimal rounding,True
+main BDG2 CI upper,0.005170,0.005169595554301659,6,True,printed decimal rounding,True
+main BDG2 p,0.0625,0.0625,4,True,printed decimal rounding,True
+main BDG2 Holm p,0.250,0.25,3,True,printed decimal rounding,True
+main BDG2 HGB/Average/keep_model,0.048411,0.048411018634723996,6,True,printed decimal rounding,True
+main BDG2 HGB/Average/gain_calibrated,0.037427,0.037426924373097116,6,True,printed decimal rounding,True
+main BDG2 site HGB/Average,-0.010984,-0.010984094261626878,6,True,printed decimal rounding,True
+main BDG2 CI lower,-0.032221,-0.032221413195557484,6,True,printed decimal rounding,True
+main BDG2 CI upper,0.000153,0.0001534565110894349,6,True,printed decimal rounding,True
+main BDG2 p,0.3125,0.3125,4,True,printed decimal rounding,True
+main BDG2 Holm p,0.625,0.625,3,True,printed decimal rounding,True
+main BDG2 HGB/Peak/keep_model,0.086855,0.0868553414537444,6,True,printed decimal rounding,True
+main BDG2 HGB/Peak/gain_calibrated,0.087479,0.08747883945940266,6,True,printed decimal rounding,True
+main BDG2 site HGB/Peak,0.000436,0.0004361408804599835,6,True,printed decimal rounding,True
+main BDG2 CI lower,-0.001126,-0.001125989092194194,6,True,printed decimal rounding,True
+main BDG2 CI upper,0.002647,0.0026468812383386867,6,True,printed decimal rounding,True
+main BDG2 p,1.0000,1.0,4,True,printed decimal rounding,True
+main BDG2 Holm p,1.000,1.0,3,True,printed decimal rounding,True
+main CKW HGB/lag-1/Average,0.0000459,4.5862265681441774e-05,7,True,printed decimal rounding,True
+main CKW adjusted lower,0.0000303,3.0256131149878538e-05,7,True,printed decimal rounding,True
+main CKW adjusted upper,0.0000602,6.021591920929146e-05,7,True,printed decimal rounding,True
+main CKW harm count,11,11.0,0,True,printed decimal rounding,True
+main CKW HGB/lag-1/Peak,0.0000482,4.823508671814959e-05,7,True,printed decimal rounding,True
+main CKW adjusted lower,-0.0000349,-3.488677175486135e-05,7,True,printed decimal rounding,True
+main CKW adjusted upper,0.0001870,0.00018704492884355614,7,True,printed decimal rounding,True
+main CKW harm count,5,5.0,0,True,printed decimal rounding,True
+main CKW HGB/lag-24/Average,0.0002070,0.00020704911322727657,7,True,printed decimal rounding,True
+main CKW adjusted lower,0.0001523,0.00015226147066044014,7,True,printed decimal rounding,True
+main CKW adjusted upper,0.0002766,0.000276586294476951,7,True,printed decimal rounding,True
+main CKW harm count,31,31.0,0,True,printed decimal rounding,True
+main CKW HGB/lag-24/Peak,0.0003721,0.0003720553285385179,7,True,printed decimal rounding,True
+main CKW adjusted lower,0.0002583,0.00025827591684168767,7,True,printed decimal rounding,True
+main CKW adjusted upper,0.0005552,0.0005552189315011801,7,True,printed decimal rounding,True
+main CKW harm count,21,21.0,0,True,printed decimal rounding,True
+main CKW Ridge/lag-1/Average,-0.0005603,-0.0005602634568687862,7,True,printed decimal rounding,True
+main CKW adjusted lower,-0.0010674,-0.0010674435361182782,7,True,printed decimal rounding,True
+main CKW adjusted upper,-0.0001401,-0.00014005605643583284,7,True,printed decimal rounding,True
+main CKW harm count,27,27.0,0,True,printed decimal rounding,True
+main CKW Ridge/lag-1/Peak,-0.0001338,-0.00013380329083203325,7,True,printed decimal rounding,True
+main CKW adjusted lower,-0.0008109,-0.0008109449044965158,7,True,printed decimal rounding,True
+main CKW adjusted upper,0.0004044,0.0004044028769269497,7,True,printed decimal rounding,True
+main CKW harm count,29,29.0,0,True,printed decimal rounding,True
+main CKW Ridge/lag-24/Average,-0.0009185,-0.0009184726208304785,7,True,printed decimal rounding,True
+main CKW adjusted lower,-0.0023516,-0.002351574846065994,7,True,printed decimal rounding,True
+main CKW adjusted upper,0.0005920,0.0005919936836073118,7,True,printed decimal rounding,True
+main CKW harm count,32,32.0,0,True,printed decimal rounding,True
+main CKW Ridge/lag-24/Peak,-0.0004233,-0.00042327562436706475,7,True,printed decimal rounding,True
+main CKW adjusted lower,-0.0030915,-0.003091515079005658,7,True,printed decimal rounding,True
+main CKW adjusted upper,0.0014078,0.0014077902741584842,7,True,printed decimal rounding,True
+main CKW harm count,31,31.0,0,True,printed decimal rounding,True
+supp peak HGB/q90/entities,20,20.0,0,True,printed decimal rounding,True
+supp peak HGB/q90/entity_macro_delta,-0.001647,-0.0016467123387586397,6,True,printed decimal rounding,True
+supp peak HGB/q90/site_mean_delta,-0.001647,-0.0016467123387586395,6,True,printed decimal rounding,True
+supp peak HGB/q90/p_holm,0.9375,0.9375,4,True,printed decimal rounding,True
+supp peak HGB/q95/entities,17,17.0,0,True,printed decimal rounding,True
+supp peak HGB/q95/entity_macro_delta,0.000623,0.0006234980056582351,6,True,printed decimal rounding,True
+supp peak HGB/q95/site_mean_delta,0.000436,0.0004361408804599835,6,True,printed decimal rounding,True
+supp peak HGB/q95/p_holm,1.0000,1.0,4,True,printed decimal rounding,True
+supp peak HGB/q99/entities,14,14.0,0,True,printed decimal rounding,True
+supp peak HGB/q99/entity_macro_delta,0.001566,0.001565938131647041,6,True,printed decimal rounding,True
+supp peak HGB/q99/site_mean_delta,0.000738,0.0007378641788362444,6,True,printed decimal rounding,True
+supp peak HGB/q99/p_holm,1.0000,1.0,4,True,printed decimal rounding,True
+supp peak Ridge/q90/entities,20,20.0,0,True,printed decimal rounding,True
+supp peak Ridge/q90/entity_macro_delta,0.001104,0.0011037327683954769,6,True,printed decimal rounding,True
+supp peak Ridge/q90/site_mean_delta,0.001104,0.001103732768395477,6,True,printed decimal rounding,True
+supp peak Ridge/q90/p_holm,0.9375,0.9375,4,True,printed decimal rounding,True
+supp peak Ridge/q95/entities,17,17.0,0,True,printed decimal rounding,True
+supp peak Ridge/q95/entity_macro_delta,0.002583,0.002582605251461463,6,True,printed decimal rounding,True
+supp peak Ridge/q95/site_mean_delta,0.002409,0.0024085421951761366,6,True,printed decimal rounding,True
+supp peak Ridge/q95/p_holm,0.2500,0.25,4,True,printed decimal rounding,True
+supp peak Ridge/q99/entities,14,14.0,0,True,printed decimal rounding,True
+supp peak Ridge/q99/entity_macro_delta,0.002436,0.002435920198615373,6,True,printed decimal rounding,True
+supp peak Ridge/q99/site_mean_delta,0.002298,0.0022984865877967763,6,True,printed decimal rounding,True
+supp peak Ridge/q99/p_holm,1.0000,1.0,4,True,printed decimal rounding,True
+"supp E2 E1/HGB, lag-24/spearman",0.543,0.5433048643606637,3,True,printed decimal rounding,True
+"supp E2 E1/HGB, lag-24/auroc",0.719,0.7192585046796451,3,True,printed decimal rounding,True
+"supp E2 E1/HGB, lag-24/auprc",0.626,0.6258905779145386,3,True,printed decimal rounding,True
+"supp E2 E1/HGB, lag-24/harmful_positive_rate",0.393,0.3932811315988886,3,True,printed decimal rounding,True
+"supp E2 E1/HGB, lag-24/frozen_switch_harm_rate",0.336,0.3361332773344533,3,True,printed decimal rounding,True
+"supp E2 E1/Ridge, lag-24/spearman",0.490,0.4903137857814536,3,True,printed decimal rounding,True
+"supp E2 E1/Ridge, lag-24/auroc",0.709,0.7094939554242277,3,True,printed decimal rounding,True
+"supp E2 E1/Ridge, lag-24/auprc",0.621,0.6213116257460867,3,True,printed decimal rounding,True
+"supp E2 E1/Ridge, lag-24/harmful_positive_rate",0.364,0.3640506329113924,3,True,printed decimal rounding,True
+"supp E2 E1/Ridge, lag-24/frozen_switch_harm_rate",0.326,0.32633053221288516,3,True,printed decimal rounding,True
+"supp E2 C1/HGB, lag-1/spearman",0.484,0.48423039382398575,3,True,printed decimal rounding,True
+"supp E2 C1/HGB, lag-1/auroc",0.634,0.6343453480971931,3,True,printed decimal rounding,True
+"supp E2 C1/HGB, lag-1/auprc",0.398,0.39774556777837006,3,True,printed decimal rounding,True
+"supp E2 C1/HGB, lag-1/harmful_positive_rate",0.566,0.5662767244856797,3,True,printed decimal rounding,True
+"supp E2 C1/HGB, lag-1/frozen_switch_harm_rate",0.549,0.5488575595527467,3,True,printed decimal rounding,True
+"supp E2 C1/HGB, lag-24/spearman",0.356,0.3558605371423168,3,True,printed decimal rounding,True
+"supp E2 C1/HGB, lag-24/auroc",0.602,0.6023031375419919,3,True,printed decimal rounding,True
+"supp E2 C1/HGB, lag-24/auprc",0.405,0.40533889506702114,3,True,printed decimal rounding,True
+"supp E2 C1/HGB, lag-24/harmful_positive_rate",0.580,0.5800773541716,3,True,printed decimal rounding,True
+"supp E2 C1/HGB, lag-24/frozen_switch_harm_rate",0.587,0.5869102861562259,3,True,printed decimal rounding,True
+"supp E2 C1/HGB, lag-168/spearman",0.451,0.4507859514767637,3,True,printed decimal rounding,True
+"supp E2 C1/HGB, lag-168/auroc",0.640,0.6400245929468263,3,True,printed decimal rounding,True
+"supp E2 C1/HGB, lag-168/auprc",0.371,0.3708170329067485,3,True,printed decimal rounding,True
+"supp E2 C1/HGB, lag-168/harmful_positive_rate",0.603,0.6031052462932215,3,True,printed decimal rounding,True
+"supp E2 C1/HGB, lag-168/frozen_switch_harm_rate",0.613,0.6134371957156767,3,True,printed decimal rounding,True
+"supp E2 C1/Ridge, lag-1/spearman",0.339,0.33868226225192355,3,True,printed decimal rounding,True
+"supp E2 C1/Ridge, lag-1/auroc",0.617,0.6174268661456529,3,True,printed decimal rounding,True
+"supp E2 C1/Ridge, lag-1/auprc",0.496,0.49591204911342096,3,True,printed decimal rounding,True
+"supp E2 C1/Ridge, lag-1/harmful_positive_rate",0.469,0.46872963320211686,3,True,printed decimal rounding,True
+"supp E2 C1/Ridge, lag-1/frozen_switch_harm_rate",0.457,0.45653263812293193,3,True,printed decimal rounding,True
+"supp E2 C1/Ridge, lag-24/spearman",0.199,0.1991343047156143,3,True,printed decimal rounding,True
+"supp E2 C1/Ridge, lag-24/auroc",0.585,0.5845370771522448,3,True,printed decimal rounding,True
+"supp E2 C1/Ridge, lag-24/auprc",0.530,0.5301756044522346,3,True,printed decimal rounding,True
+"supp E2 C1/Ridge, lag-24/harmful_positive_rate",0.463,0.4627713491434249,3,True,printed decimal rounding,True
+"supp E2 C1/Ridge, lag-24/frozen_switch_harm_rate",0.451,0.4511356384864456,3,True,printed decimal rounding,True
+"supp E2 C1/Ridge, lag-168/spearman",0.286,0.2855642351981284,3,True,printed decimal rounding,True
+"supp E2 C1/Ridge, lag-168/auroc",0.612,0.6115029729226291,3,True,printed decimal rounding,True
+"supp E2 C1/Ridge, lag-168/auprc",0.448,0.4483061492782083,3,True,printed decimal rounding,True
+"supp E2 C1/Ridge, lag-168/harmful_positive_rate",0.536,0.5360222239693896,3,True,printed decimal rounding,True
+"supp E2 C1/Ridge, lag-168/frozen_switch_harm_rate",0.529,0.5293346256913165,3,True,printed decimal rounding,True
+supp E4 C1/Ridge / lag-1/lag1/delta_avg,-0.000560,-0.0005602634568687862,6,True,printed decimal rounding,True
+supp E4 C1/Ridge / lag-1/lag1/delta_peak,-0.000134,-0.00013380329083203323,6,True,printed decimal rounding,True
+supp E4 C1/Ridge / lag-1/lag1/switch_rate,0.1168,0.1168361131934033,4,True,printed decimal rounding,True
+supp E4 C1/Ridge / lag-1/learned_HGB/delta_avg,-0.001555,-0.0015552836059456372,6,True,printed decimal rounding,True
+supp E4 C1/Ridge / lag-1/learned_HGB/delta_peak,-0.000508,-0.0005080891841459435,6,True,printed decimal rounding,True
+supp E4 C1/Ridge / lag-1/learned_HGB/switch_rate,0.1168,0.1168361131934033,4,True,printed decimal rounding,True
+supp E4 C1/Ridge / lag-24/lag24/delta_avg,-0.000918,-0.0009184726208304786,6,True,printed decimal rounding,True
+supp E4 C1/Ridge / lag-24/lag24/delta_peak,-0.000423,-0.00042327562436706464,6,True,printed decimal rounding,True
+supp E4 C1/Ridge / lag-24/lag24/switch_rate,0.3306,0.33058080334832585,4,True,printed decimal rounding,True
+supp E4 C1/Ridge / lag-24/learned_HGB/delta_avg,-0.004245,-0.0042446252293117485,6,True,printed decimal rounding,True
+supp E4 C1/Ridge / lag-24/learned_HGB/delta_peak,-0.003660,-0.003660457443108038,6,True,printed decimal rounding,True
+supp E4 C1/Ridge / lag-24/learned_HGB/switch_rate,0.3306,0.33058080334832585,4,True,printed decimal rounding,True
+supp E4 E1/HGB / lag-24/lag24/delta_avg,-0.010984,-0.01098409426162688,6,True,printed decimal rounding,True
+supp E4 E1/HGB / lag-24/lag24/delta_peak,0.000623,0.0006234980056582351,6,True,printed decimal rounding,True
+supp E4 E1/HGB / lag-24/lag24/switch_rate,0.1688,0.16877770888263888,4,True,printed decimal rounding,True
+supp E4 E1/HGB / lag-24/learned_Ridge/delta_avg,-0.010111,-0.01011105860104152,6,True,printed decimal rounding,True
+supp E4 E1/HGB / lag-24/learned_Ridge/delta_peak,-0.000089,-8.874712630119186e-05,6,True,printed decimal rounding,True
+supp E4 E1/HGB / lag-24/learned_Ridge/switch_rate,0.1688,0.16877770888263888,4,True,printed decimal rounding,True
+supp E4 E1/Ridge / lag-24/lag24/delta_avg,-0.002270,-0.0022699896062985977,6,True,printed decimal rounding,True
+supp E4 E1/Ridge / lag-24/lag24/delta_peak,0.002583,0.002582605251461463,6,True,printed decimal rounding,True
+supp E4 E1/Ridge / lag-24/lag24/switch_rate,0.2170,0.21704536651735346,4,True,printed decimal rounding,True
+supp E4 E1/Ridge / lag-24/learned_HGB/delta_avg,0.007727,0.007726626929799428,6,True,printed decimal rounding,True
+supp E4 E1/Ridge / lag-24/learned_HGB/delta_peak,-0.001318,-0.0013177089388270616,6,True,printed decimal rounding,True
+supp E4 E1/Ridge / lag-24/learned_HGB/switch_rate,0.2170,0.21704536651735346,4,True,printed decimal rounding,True
+"supp E8 C1/HGB, lag-1/change_recall",-0.00033,-0.000329806687565308,5,True,printed decimal rounding,True
+"supp E8 C1/HGB, lag-1/change_false_alarm_rate",0.00000,4.069486170767902e-06,5,True,printed decimal rounding,True
+"supp E8 C1/HGB, lag-1/change_f1",-0.00022,-0.0002179111892629665,5,True,printed decimal rounding,True
+"supp E8 C1/HGB, lag-24/change_recall",-0.00393,-0.003928650240170337,5,True,printed decimal rounding,True
+"supp E8 C1/HGB, lag-24/change_false_alarm_rate",-0.00022,-0.00022267148087304263,5,True,printed decimal rounding,True
+"supp E8 C1/HGB, lag-24/change_f1",-0.00113,-0.001134952378449209,5,True,printed decimal rounding,True
+"supp E8 C1/HGB, lag-168/change_recall",-0.00161,-0.0016085355869394262,5,True,printed decimal rounding,True
+"supp E8 C1/HGB, lag-168/change_false_alarm_rate",-0.00003,-3.293684839588151e-05,5,True,printed decimal rounding,True
+"supp E8 C1/HGB, lag-168/change_f1",-0.00085,-0.0008506964271547641,5,True,printed decimal rounding,True
+"supp E8 C1/Ridge, lag-1/change_recall",0.00795,0.007947548322249903,5,True,printed decimal rounding,True
+"supp E8 C1/Ridge, lag-1/change_false_alarm_rate",0.00073,0.0007324682648754998,5,True,printed decimal rounding,True
+"supp E8 C1/Ridge, lag-1/change_f1",0.00170,0.001704093138300516,5,True,printed decimal rounding,True
+"supp E8 C1/Ridge, lag-24/change_recall",0.01665,0.016653879894366806,5,True,printed decimal rounding,True
+"supp E8 C1/Ridge, lag-24/change_false_alarm_rate",0.00151,0.0015105336008302058,5,True,printed decimal rounding,True
+"supp E8 C1/Ridge, lag-24/change_f1",0.00221,0.00220624520410788,5,True,printed decimal rounding,True
+"supp E8 C1/Ridge, lag-168/change_recall",-0.01319,-0.013185429669029679,5,True,printed decimal rounding,True
+"supp E8 C1/Ridge, lag-168/change_false_alarm_rate",0.00140,0.001401028976552916,5,True,printed decimal rounding,True
+"supp E8 C1/Ridge, lag-168/change_f1",-0.02132,-0.021318208427569395,5,True,printed decimal rounding,True
+"supp E8 E1/HGB, lag-24/change_recall",-0.01594,-0.015944036407213803,5,True,printed decimal rounding,True
+"supp E8 E1/HGB, lag-24/change_false_alarm_rate",-0.00360,-0.003596622973710689,5,True,printed decimal rounding,True
+"supp E8 E1/HGB, lag-24/change_f1",0.00041,0.0004126089673231565,5,True,printed decimal rounding,True
+"supp E8 E1/Ridge, lag-24/change_recall",-0.02179,-0.02178548901747208,5,True,printed decimal rounding,True
+"supp E8 E1/Ridge, lag-24/change_false_alarm_rate",-0.00140,-0.0014042390745908687,5,True,printed decimal rounding,True
+"supp E8 E1/Ridge, lag-24/change_f1",-0.00636,-0.006361699658159212,5,True,printed decimal rounding,True

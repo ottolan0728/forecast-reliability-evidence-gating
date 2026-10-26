@@ -30,6 +30,12 @@ This repository will contain only derived or non-restricted artifacts needed to 
 
 These roles are frozen before evaluation in the accepted study.
 
-## Retrieval and local placement
+## Exact source contract and reconstruction
 
-BDG2: use the official repository https://github.com/buds-lab/building-data-genome-project-2 and its raw electricity meter file `data/meters/raw/electricity.csv`; retain original source checksums locally. CKW: follow Aggregate Data at https://www.ckw.ch/landingpages/open-data and obtain the frozen 2025 monthly UTC releases. Do not silently replace a missing historical release with a newer one. Local placement is `data/raw/bdg2/` and `data/raw/ckw/`, both excluded by Git. See REPRODUCE.md for the currently unimplemented portable raw-input reconstruction boundary and docs/RIGHTS_AND_ATTRIBUTION.md for source terms.
+`configs/RAW_INPUT_CONTRACT.json` locks 13 inputs by size and SHA-256, the 20-building and 116-area frozen registries, temporal roles and feature extraction identity. The BDG2 electricity file is pinned to commit d08f5d010392979e5c24a4c18967d5014c495709 and Git LFS SHA-256 039d909d8981e2d69eaeb366144e6ab7e84fa5e7e216aee42bddd95384a66418. The contract gives its immutable media URL.
+
+CKW uses 12 original 2025 monthly Dataset B files. **Public acquisition is blocked for September–December:** current official URLs return different compressed and uncompressed CSV bytes. Required historical hashes and observed current hashes are recorded; no newer source may be substituted. Obtain hash-matching historical versions from the provider or an authorized original copy. We do not redistribute raw files.
+
+Input layout is an external directory containing `bdg2/electricity.csv` and the exact `ckw/` filenames in the contract. REPRODUCE.md gives complete download, dry-run, validation and reconstruction commands. Outputs contain observations and stay outside the public repository.
+
+Preprocessing preserves the frozen cohort, training q99 normalization and q95 peak thresholds, missing-value/DST rules, lag/history requirements and calendar features. CKW development months retain their original August boundary and CSV serialization interface; September does not backfill August. The accepted fixed point predictions and admission masks are restored from audited label-free components, without refitting. Local full reconstruction is verified; this does not resolve unavailable public historical CKW versions.

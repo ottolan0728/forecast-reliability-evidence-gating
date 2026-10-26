@@ -1,0 +1,12 @@
+{
+  "status": "RESTORED_FROM_FROZEN_COMPONENTS_AND_HASH_VERIFIED_RAW_INPUTS",
+  "model_fits": 0,
+  "inference": 0,
+  "calibration_refits": 0,
+  "component_rows": {
+    "bdg2_evaluation": 86034,
+    "ckw_evaluation": 1536768,
+    "calibration": 545004
+  },
+  "scientific_settings_changed": false
+}

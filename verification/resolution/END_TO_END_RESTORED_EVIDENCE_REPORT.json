@@ -1,0 +1,9 @@
+{
+  "pass_": true,
+  "configurations": 736,
+  "checks": 44648,
+  "model_fits": 0,
+  "inference": 0,
+  "calibration_refits": 0,
+  "scope": "All frozen policy metric rows and all eight pooled E2 AP values from reconstructed evaluation tapes; post-outcome diagnostic labels unchanged"
+}

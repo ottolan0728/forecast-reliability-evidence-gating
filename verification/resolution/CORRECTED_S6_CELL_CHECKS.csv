@@ -1,0 +1,7 @@
+model,lag,old,new,line,pdf_page,corrected_pdf_text,pass_
+HGB,1,0.459,0.398,208,5,0.398,True
+HGB,24,0.510,0.405,209,5,0.405,True
+HGB,168,0.444,0.371,210,5,0.371,True
+Ridge,1,0.616,0.496,211,5,0.496,True
+Ridge,24,0.626,0.530,212,5,0.530,True
+Ridge,168,0.539,0.448,213,5,0.448,True

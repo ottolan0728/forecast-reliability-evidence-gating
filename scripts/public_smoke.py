@@ -1,6 +1,6 @@
 """Public-package verification and archived-table reconstruction; no model fits."""
 from pathlib import Path
-import argparse,ast,hashlib,json,os,re,subprocess,sys
+import argparse,ast,gzip,hashlib,json,os,re,subprocess,sys
 import numpy as np
 import pandas as pd
 
@@ -23,6 +23,10 @@ def main():
         if p.suffix in ['.md','.json','.csv','.py','.txt','.tex','.cff']:
             t=b.decode('utf-8-sig')
             ck('secret_and_private_path_scan/'+r.destination_path,not re.search(r'(?:(?<![A-Za-z])[A-Za-z]:[/\\]|/[U]sers/|/[h]ome/|gh[pousr]_[A-Za-z0-9]{30,}|github_pat_[A-Za-z0-9_]{30,}|AKIA[A-Z0-9]{16}|-----BEGIN (?:RSA |OPENSSH )?PRIVATE KEY)',t))
+        if p.name.endswith('.csv.gz'):
+            payload=gzip.decompress(b);header=payload.splitlines()[0].decode().split(',')
+            ck('no_observations_in_components/'+r.destination_path,not(set(header)&{'y','y_true','value_kwh','p24','p1','p168','actual','target_value','fallback','gain','residual'}))
+            ck('compressed_payload_no_private_paths/'+r.destination_path,not re.search(rb'[A-Za-z]:[/\\]|github_pat_|-----BEGIN .*PRIVATE KEY',payload))
         if p.suffix=='.py':ast.parse(b);ck('syntax/'+r.destination_path,True)
         if p.suffix=='.csv' and r.destination_path.startswith('results/'):
             h=pd.read_csv(p,nrows=0).columns
@@ -45,7 +49,8 @@ def main():
     subprocess.run([sys.executable,str(root/'scripts/regenerate_frozen_figures.py'),'--output',str(out/'figures')],check=True,env=env)
     ck('seven_frozen_plot_blocks_execute',len(list((out/'figures').glob('*.pdf')))==7)
     printed=pd.read_csv(root/'verification/ACCEPTED_PRINTED_CELL_CHECKS.csv');unresolved=int((~printed.pass_).sum())
-    result=dict(smoke_pass=True,checks=len(checks),scientific_experiments_executed=False,model_fits=0,raw_observations_loaded=False,manuscript_discrepancies=unresolved,publication_recommendation='REVISE' if unresolved else 'SEE_PUBLIC_RELEASE_AUDIT')
+    candidate=pd.read_csv(root/'verification/resolution/PRODUCTION_CANDIDATE_PRINTED_CELL_CHECKS.csv');ck('corrected_candidate_all_printed_cells',candidate.pass_.all());ck('original_six_errors_preserved',unresolved==6)
+    result=dict(corrected_candidate_printed_failures=0,public_ckw_historical_source_gate='BLOCKED',smoke_pass=True,checks=len(checks),scientific_experiments_executed=False,model_fits=0,raw_observations_loaded=False,manuscript_discrepancies=unresolved,publication_recommendation='REVISE' if unresolved else 'SEE_PUBLIC_RELEASE_AUDIT')
     pd.DataFrame(checks).to_csv(out/'checks.csv',index=False);(out/'SMOKE_TEST_REPORT.json').write_text(json.dumps(result,indent=2))
     print(json.dumps(result,indent=2))
     if args.require_publication_ready and unresolved:sys.exit(2)

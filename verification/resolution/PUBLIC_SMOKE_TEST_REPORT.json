@@ -1,0 +1,11 @@
+{
+  "corrected_candidate_printed_failures": 0,
+  "public_ckw_historical_source_gate": "BLOCKED",
+  "smoke_pass": true,
+  "checks": 476,
+  "scientific_experiments_executed": false,
+  "model_fits": 0,
+  "raw_observations_loaded": false,
+  "manuscript_discrepancies": 6,
+  "publication_recommendation": "REVISE"
+}

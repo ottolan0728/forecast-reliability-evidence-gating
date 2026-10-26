@@ -1,0 +1,123 @@
+{
+  "components": [
+    {
+      "file": "bdg2_evaluation.csv.gz",
+      "sha256": "933a7e3a637d469d05336fdd470de616abdecc1463396668c626f12850c6bd16",
+      "rows": 86034,
+      "columns": [
+        "target_time",
+        "pred",
+        "label_available_at",
+        "risk",
+        "gain_score",
+        "lower",
+        "upper",
+        "switch_keep_model",
+        "switch_uncertainty_scale20",
+        "switch_gain_naive",
+        "switch_gain_calibrated",
+        "switch_static_relative",
+        "switch_weekly_relative",
+        "entity",
+        "model",
+        "scale"
+      ]
+    },
+    {
+      "file": "ckw_evaluation.csv.gz",
+      "sha256": "f5104854b770a85d4f49350309ab92130d88a23110ba1912510720e25eeea544",
+      "rows": 1536768,
+      "columns": [
+        "target_time",
+        "pred",
+        "risk",
+        "gain_score",
+        "scale",
+        "peakcut",
+        "lower",
+        "upper",
+        "switch_keep",
+        "switch_always_fallback",
+        "switch_uncertainty_scale20",
+        "switch_gain_naive",
+        "switch_gain_calibrated",
+        "entity",
+        "model",
+        "lag"
+      ]
+    },
+    {
+      "file": "calibration.csv.gz",
+      "sha256": "e5fbc34d6754186c281d48e61cfae3e562470fdc7f5be7c45702f83cd4b42392",
+      "rows": 545004,
+      "columns": [
+        "target_time",
+        "pred",
+        "risk",
+        "gain_score",
+        "dataset",
+        "entity",
+        "model",
+        "lag"
+      ]
+    }
+  ],
+  "original_schemas": {
+    "bdg2_evaluation": [
+      "target_time",
+      "y",
+      "pred",
+      "p24",
+      "label_available_at",
+      "gain",
+      "residual",
+      "risk",
+      "gain_score",
+      "lower",
+      "upper",
+      "scoreable",
+      "covered",
+      "peak",
+      "switch_keep_model",
+      "switch_uncertainty_scale20",
+      "switch_gain_naive",
+      "switch_gain_calibrated",
+      "switch_static_relative",
+      "switch_weekly_relative",
+      "entity",
+      "model",
+      "scale"
+    ],
+    "ckw_evaluation": [
+      "target_time",
+      "y",
+      "pred",
+      "risk",
+      "fallback",
+      "gain_score",
+      "scale",
+      "peakcut",
+      "lower",
+      "upper",
+      "switch_keep",
+      "switch_always_fallback",
+      "switch_uncertainty_scale20",
+      "switch_gain_naive",
+      "switch_gain_calibrated"
+    ],
+    "calibration": [
+      "target_time",
+      "y",
+      "pred",
+      "fallback",
+      "risk",
+      "gain_score"
+    ]
+  },
+  "source_register_sha256": "2b9d088632f7c949e7d3fd00f78930ddaf38a7d921787a320b3a277d55ae9269",
+  "evidence": "Exact frozen model outputs. No observation, persistence fallback, residual, realized gain, scoreability or realized coverage is redistributed. Reconstruct those fields only from hash-verified separately obtained source data.",
+  "licenses": {
+    "bdg2": "CC BY-SA 4.0 derived material; see RIGHTS_AND_ATTRIBUTION.md",
+    "ckw": "CC BY 4.0 derived material; see RIGHTS_AND_ATTRIBUTION.md"
+  }
+}

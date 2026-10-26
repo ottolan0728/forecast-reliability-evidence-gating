@@ -1,14 +1,8 @@
-# Reproduce the public derived-output audit
+# Reproduce the frozen public evidence
 
-## Status and limits
+Recommendation: **REVISE** pending exact public CKW September–December 2025 source availability. The six S6 errors are resolved as presentation/transcription errors; a corrected production candidate is prepared but not submitted. Original accepted and candidate checks remain separate. See docs/AUPRC_PROVENANCE_RESOLUTION.md and docs/CKW_SOURCE_IDENTITY_BLOCKER.md.
 
-Release recommendation: **REVISE**. Six accepted-supplement AUPRC cells remain inconsistent with the frozen results; see docs/ACCEPTED_NUMERICAL_DISCREPANCIES.md. A passing software smoke test is not a passing scientific-publication consistency gate.
-
-This package preserves exact frozen numeric outputs. It supports table reconstruction from frozen entity-level statistics and seven original diagnostic plot blocks without reading source observations, fitting models, or rerunning experiments. Do not describe that limited command as an end-to-end raw-data reproduction of the paper.
-
-## Clean environment and one smoke command
-
-Install uv, then from the repository root:
+## Clean environment
 
 ```sh
 uv venv .venv --python 3.11.13
@@ -16,24 +10,26 @@ uv pip install --python .venv/Scripts/python.exe -r environment/release-audit-re
 uv run --no-project --python .venv/Scripts/python.exe python scripts/public_smoke.py --output ../public-smoke-new
 ```
 
-On Linux/macOS replace `.venv/Scripts/python.exe` with `.venv/bin/python`. The output directory must be new and outside the repository. The command checks file hashes, scans public text, parses frozen code without executing it, rebuilds existing macro tables, verifies the 40/40 and 39/40 descriptive counts, and regenerates seven figures from exact frozen plotting statements. Counts are exact; reconstructed floating summaries use absolute tolerance 1e-12 and rtol=0.
+On Linux/macOS use `.venv/bin/python`. Outputs must be new directories outside the repository. Smoke verification checks the file register, privacy and syntax, reconstructs four frozen macro summaries and executes seven plotting blocks. No model fitting occurs. `--require-publication-ready` exits 2 while the CKW availability gate remains blocked. Historical 146964-check verification is preserved, not claimed as rerun by this command.
 
-Use `--require-publication-ready` to make the command exit with code 2 while the printed-cell discrepancy remains. That flag is a publication guard, not a request to change scientific results. The stored 146,964-check verification is historical; this release smoke test does not rerun those row-level checks.
+## Exact raw-input reconstruction, without fitting
 
-Standalone plotting command:
+Obtain original sources separately; DATA.md and configs/RAW_INPUT_CONTRACT.json specify every filename, size, SHA-256 and frozen role. Set the example `../private-inputs` to your input directory outside the repository. BDG2 has a verified immutable source. CKW September–December current public files have changed and automatic acquisition is refused; supply only separately obtained matching historical bytes.
 
 ```sh
-uv run --no-project --python .venv/Scripts/python.exe python scripts/regenerate_frozen_figures.py --output ../frozen-plots-new
+uv run --no-project --python .venv/Scripts/python.exe python scripts/reconstruct_inputs.py --input-root ../private-inputs --dataset bdg2 --download --dry-run
+uv run --no-project --python .venv/Scripts/python.exe python scripts/reconstruct_inputs.py --input-root ../private-inputs --dry-run
+uv run --no-project --python .venv/Scripts/python.exe python scripts/reconstruct_inputs.py --input-root ../private-inputs --validate-only
+uv run --no-project --python .venv/Scripts/python.exe python scripts/reconstruct_inputs.py --input-root ../private-inputs --output ../reconstructed-new
+uv run --no-project --python .venv/Scripts/python.exe python scripts/verify_reconstructed_evidence.py --reconstruction ../reconstructed-new
 ```
 
-## Code and data boundary
+Dry-run validates all selected source bytes and frozen feature/registry hashes. Validate-only performs preprocessing and frozen training-summary checks without writing observations. Full reconstruction creates hourly series, causal feature tables, temporal-role/peak fields, evaluation tapes and August calibration tapes outside the repository. Those outputs contain observations: keep them private and do not upload them.
 
-`src/frozen/primary/`, `src/frozen/r9/`, and `src/frozen/r1/` preserve the actual scientific algorithms. Private default paths were redacted, not numerical settings. These are archival reference sources, not drop-in entry points: they retain historical directory contracts and inventory/hash guards. **Do not bypass their guards or execute their fitting functions as part of this release.**
+The label-free frozen components contain predictions, risk/gain scores, intervals and masks, never observations or persistence values. Reconstruction joins them with exact separately obtained observations. It does not fit, infer, recalibrate, select thresholds or optimize anything. All 1433 restored tapes match the original frozen fields (14879 column checks, max difference 0); all 736 configuration-policy families pass 44648 numerical checks, tolerance 1e-12. This is accepted frozen-evidence reconstruction, not a claim of retraining reproduction. Source-trained artifacts remain archival reference code; do not bypass their historical guards.
 
-Obtain BDG2 and CKW separately as described in DATA.md. Place local inputs under gitignored `data/raw/bdg2/` and `data/raw/ckw/`. Raw data and hourly tapes containing true or lagged loads are deliberately absent. A portable raw-data-to-frozen-tape reconstruction path is not yet supplied or validated. The original private-path inventory cannot safely be committed, and merely placing raw data in those folders does not make the archival scripts executable. This is an explicit remaining v1.0.0 requirement.
+## Figures and evidence tiers
 
-Frozen diagnostic plotting code is included. Some accepted editorial re-layouts have only PDFs in the available accepted archive; these are preserved without inventing replacement source code. Figure aliases map identical archived and accepted PDFs. Exact figure bytes may depend on PDF timestamps, fonts, and backend versions; numeric inputs and plotting statements are the reproducible targets.
+`python scripts/regenerate_frozen_figures.py --output ../plots-new` reproduces scientific plot logic through extracted plotting statements and portable I/O. These new PDFs are RECREATED_SOURCE_ONLY. Accepted static layouts and certified paired TeX sources are separately mapped in docs/FIGURE_ALIASES.csv; no recreated PDF is called an accepted original.
 
-## Evidence tiers
-
-Original q95/7-day primary comparisons remain primary. R9 and R1 completed diagnostics are post-outcome secondary. Feasibility artifacts are not architecture validation; the new-cohort extension remains unresolved. Within mixed tables, CKW lag-168 and robustness settings other than q95/7-day remain secondary. See LINEAGE.md and configs/PLAN_LOCK.md. No entity, configuration, or unfavorable result was removed from the included scientific tables.
+Original q95/7-day admitted-policy analyses remain primary. Opened-cohort R9/R1 diagnostics, lag-168 and alternative robustness settings remain secondary. Engineering feasibility and unresolved extensions are separate. LINEAGE.md governs identifiers. No entity, threshold, unfavorable configuration or scientific output was changed.

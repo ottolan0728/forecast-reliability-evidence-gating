@@ -1,36 +1,13 @@
-# Accepted-paper public release checklist
+# Accepted release checklist
 
-Article accepted by **Energy & Buildings** on **26 October 2026**.
+- PASS: frozen results and original accepted sources preserved.
+- PASS: six AUPRC discrepancies resolved from frozen tapes; presentation errors documented.
+- PASS: corrected production candidate 246/246 printed cells and 897/897 extraction checks; original six failures preserved.
+- PASS: all accepted figure references mapped; static and recreated source distinctions explicit.
+- PASS: portable preprocessing, source-hash validation and frozen-tape restoration with original local data.
+- BLOCKED: exact public CKW September–December source versions; current CSV contents changed.
+- PREPARED ONLY: six-cell production correction; no submission performed.
+- PASS: public smoke and file-register privacy checks; final clean-copy confirmation is recorded in the delivery smoke report.
+- NOT CREATED: v1.0.0 tag or Zenodo DOI.
 
-## Completed
-
-- [x] Public repository created
-- [x] README with accepted-paper scope
-- [x] Data provenance and no-redistribution policy
-- [x] Reproducibility/evidence-status contract
-- [x] Citation metadata placeholder
-- [x] Public release manifest
-- [x] Git ignore rules for raw/private material
-- [x] Internal-to-reader-facing lineage map
-- [x] Final numerical verification summary
-- [x] Accepted R1 derived-result readout
-
-## Pending before v1.0.0 archival release
-
-- [x] Public analysis code copied from the frozen accepted-paper archive
-- [x] Deterministic evaluation utilities copied from the frozen archive
-- [ ] Figure-generation code copied from the frozen archive
-- [x] Environment/dependency specification copied from the frozen archive
-- [x] Complete public derived CSV tables copied from the frozen archive
-- [x] Non-restricted prediction/diagnostic artifacts reviewed and copied
-- [ ] One clean end-to-end reproduction command documented
-- [ ] Repository smoke test from a clean environment
-- [ ] Final article DOI and bibliographic metadata added after production
-- [ ] GitHub v1.0.0 release created
-- [ ] Zenodo archival DOI minted and cross-linked
-
-No raw BDG2 or CKW source data, private reviewer correspondence, or redistribution-uncertain artifacts should be added.
-
-## Release audit status
-
-**REVISE**: six Supplementary Table S6 AUPRC cells remain unreconciled. Frozen CSVs are retained unchanged. The derived-output smoke test is documented in verification/SMOKE_TEST_REPORT.md; full raw-data end-to-end reconstruction and all accepted editorial figure sources are not yet complete. Raw/prediction tapes containing source observations were reviewed and excluded, not copied. Figure utilities cover seven frozen diagnostics and recovered primary diagram sources, not every editorial re-layout. No tag, Zenodo DOI, manuscript edit or new scientific analysis was made.
+Final recommendation: REVISE until the source-availability blocker is resolved. See PUBLIC_RELEASE_AUDIT.md.

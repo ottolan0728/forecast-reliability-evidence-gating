@@ -1,0 +1,25 @@
+{
+  "pass_": true,
+  "checks": 1611,
+  "all_comparisons_bitwise_equal": true,
+  "max_abs_difference": 0,
+  "entities": 136,
+  "validated_raw_files": 13,
+  "model_fits": 0,
+  "prediction_inference": 0,
+  "threshold_changes": 0,
+  "source_substitution": false,
+  "service_denominators": {
+    "bdg2": {
+      "evaluation_issued": 43017,
+      "evaluation_scoreable": 42981
+    },
+    "ckw": {
+      "evaluation_issued": 256128,
+      "evaluation_scoreable": 256012
+    }
+  },
+  "comparison_scope": "All hourly values and causal features; all 736 model/fallback tape configurations have identical truth and persistence fallback at the frozen issued indices; no new forecasts generated",
+  "wrong_source_rejected": true,
+  "stop_before": "model fitting, prediction inference, residual/gain fitting, calibration and routing"
+}

@@ -1,0 +1,13 @@
+page,changed_pixels,changed_pixels_outside_six_cells,pass_
+1,0,0,True
+2,0,0,True
+3,0,0,True
+4,0,0,True
+5,1005,0,True
+6,0,0,True
+7,0,0,True
+8,0,0,True
+9,0,0,True
+10,0,0,True
+11,0,0,True
+12,0,0,True

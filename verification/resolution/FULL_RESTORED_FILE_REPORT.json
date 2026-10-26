@@ -1,0 +1,8 @@
+{
+  "pass_": true,
+  "files": 1433,
+  "column_checks": 14879,
+  "source_hashes_match_frozen_manifests": true,
+  "max_abs_difference": 0,
+  "scope": "Every field, row count and column order in all frozen evaluation and August calibration tapes; source equality, not a new experiment"
+}

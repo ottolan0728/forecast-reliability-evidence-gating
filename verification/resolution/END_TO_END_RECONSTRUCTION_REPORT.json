@@ -1,0 +1,10 @@
+{
+  "mode": "preprocessing reconstruction",
+  "pass_": true,
+  "entities": 136,
+  "inputs": 13,
+  "fits": 0,
+  "optimization": 0,
+  "cohort_changed": false,
+  "stop_boundary": "hourly observations, frozen causal features and temporal masks; before any model fitting/inference or policy recalibration"
+}

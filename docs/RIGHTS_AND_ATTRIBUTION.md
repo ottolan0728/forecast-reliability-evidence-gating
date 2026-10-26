@@ -5,3 +5,5 @@ BDG2 source: Miller et al. (2020), Scientific Data 7, 368, https://doi.org/10.10
 CKW AG aggregate electricity data: https://www.ckw.ch/landingpages/open-data . Archived source terms identify CC BY 4.0: https://creativecommons.org/licenses/by/4.0/ . Preserve attribution for CKW-derived tables. Modifications comprise aggregation, selection according to the frozen cohort, and calculation of forecast diagnostics. Neither dataset provider endorses this work.
 
 No raw source dataset or hourly truth/lagged-load tape is redistributed. Public observations must be acquired separately. Study-owned code and figures are supplied for reproducibility; this extraction does not invent an additional blanket software license or override source-data terms. No third-party article PDFs or uncertain-rights assets are included.
+
+The new frozen_forecast_components bundles are derived model outputs under the same dataset-specific attribution boundary above. Observations, persistence values and realized-error fields were removed; source-file hashes and removed/retained columns are enumerated in verification/FORECAST_COMPONENT_SOURCE_REGISTER.csv.

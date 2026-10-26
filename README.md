@@ -51,7 +51,7 @@ See [REPRODUCIBILITY.md](REPRODUCIBILITY.md) for the evidence-status rules and r
 
 ## Availability status
 
-The frozen public payload has been extracted and audited. **v1.0.0 recommendation: REVISE** because six accepted-supplement AUPRC cells do not match the frozen artifacts, and full raw-input reconstruction/editorial figure-source coverage remains incomplete. No scientific outputs were changed. See [public release audit](docs/PUBLIC_RELEASE_AUDIT.md), [file register](docs/PUBLIC_FILE_REGISTER.csv), and [executable smoke instructions](REPRODUCE.md). Raw data remain governed by their original sources and licenses. No DOI or release tag has been created.
+The frozen public payload has been extracted and audited. **v1.0.0 recommendation: REVISE** because exact historical CKW September–December source files are unavailable at current official URLs. Six S6 presentation errors are resolved and figure-source status is documented. No scientific outputs were changed. See [public release audit](docs/PUBLIC_RELEASE_AUDIT.md), [file register](docs/PUBLIC_FILE_REGISTER.csv), and [executable smoke instructions](REPRODUCE.md). Raw data remain governed by their original sources and licenses. No DOI or release tag has been created.
 
 ## Citation
 
@@ -66,3 +66,7 @@ Citation metadata are provided in [CITATION.cff](CITATION.cff). The final DOI an
 ## Repository note
 
 This repository is for scientific reproducibility and evidence traceability. Post-outcome diagnostics are retained as secondary analyses and must not be reinterpreted as a fresh confirmatory family.
+
+## Release-resolution status
+
+The six S6 AUPRC discrepancies are resolved as presentation errors; corrected production materials are prepared only. Portable reconstruction passes with original local inputs, but current public CKW September–December files differ from frozen versions. Recommendation remains **REVISE**. See docs/PUBLIC_RELEASE_AUDIT.md and REPRODUCE.md for current commands and limitations.

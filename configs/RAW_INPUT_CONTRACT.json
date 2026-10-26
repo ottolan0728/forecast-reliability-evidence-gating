@@ -1,0 +1,146 @@
+{
+  "schema": 1,
+  "feature_source_sha256": "b8b7d80e0f7bd4b0ce01b942d6f5d679c416683c29e646afb055b323f31af273",
+  "frozen_pilot_sha256": "5747fe9817ef213aa2364729056d4cdb818327739f38f6b5c16d503ce60e06e1",
+  "rules": {
+    "temporal_roles": "Jan-Jun point fitting; July auxiliaries; August calibration; September update history; Oct-Dec evaluation",
+    "model_fitting_in_this_command": false,
+    "normalizer": "train q99",
+    "primary_peak": "train q95",
+    "missing": "no interpolation; zero valid; nonfinite/negative invalid",
+    "cohort": "exact frozen roster, never reselect"
+  },
+  "bdg2": {
+    "registry": "results/derived/primary_inputs/evidence_gating_external/selected_registry.csv",
+    "source_commit": "d08f5d010392979e5c24a4c18967d5014c495709",
+    "git_lfs_oid": "039d909d8981e2d69eaeb366144e6ab7e84fa5e7e216aee42bddd95384a66418",
+    "inputs": [
+      {
+        "relative_path": "bdg2/electricity.csv",
+        "bytes": 174239039,
+        "sha256": "039d909d8981e2d69eaeb366144e6ab7e84fa5e7e216aee42bddd95384a66418",
+        "url": "https://media.githubusercontent.com/media/buds-lab/building-data-genome-project-2/d08f5d010392979e5c24a4c18967d5014c495709/data/meters/raw/electricity.csv"
+      }
+    ],
+    "registry_sha256": "b3ef7289a53c5700ada9db08c55389233b9e1c79c20effae16839107e009aa07"
+  },
+  "ckw": {
+    "registry": "results/derived/primary_inputs/evidence_gating_ckw_c1/registry.csv",
+    "inputs": [
+      {
+        "relative_path": "ckw/ckw_opendata_smartmeter_dataset_b_202501.csv.gz",
+        "bytes": 2913177,
+        "sha256": "06cbee770ef091688161913e12e5c51317bcc985ad55a7c86e66b7506d079b5d",
+        "url": "https://axsa4prod4publicdata4sa.blob.core.windows.net/%24web/ckw_opendata_smartmeter_dataset_b_202501.csv.gz",
+        "etag": "0x8DE583E6888FFC1",
+        "retrieved_utc": "2026-09-20T16:00:30.9362181Z",
+        "last_modified": "Tue, 20 Jan 2026 16:10:19 GMT"
+      },
+      {
+        "relative_path": "ckw/ckw_opendata_smartmeter_dataset_b_202502.csv.gz",
+        "bytes": 2614904,
+        "sha256": "3ee6b4233ac34802395e40ab7f642d6868bba7a2d8da0cc89508e6ea90ba55b6",
+        "url": "https://axsa4prod4publicdata4sa.blob.core.windows.net/%24web/ckw_opendata_smartmeter_dataset_b_202502.csv.gz",
+        "etag": "0x8DE709BB409BC51",
+        "retrieved_utc": "2026-09-20T16:00:34.5031433Z",
+        "last_modified": "Fri, 20 Feb 2026 16:18:37 GMT"
+      },
+      {
+        "relative_path": "ckw/ckw_opendata_smartmeter_dataset_b_202503.csv.gz",
+        "bytes": 2875246,
+        "sha256": "327bc07ec315aa387db01af0039e732670b602cecf5bebbd2091538430011767",
+        "url": "https://axsa4prod4publicdata4sa.blob.core.windows.net/%24web/ckw_opendata_smartmeter_dataset_b_202503.csv.gz",
+        "etag": "0x8DE869F23C744ED",
+        "retrieved_utc": "2026-09-20T16:00:37.3025724Z",
+        "last_modified": "Fri, 20 Mar 2026 16:38:39 GMT"
+      },
+      {
+        "relative_path": "ckw/ckw_opendata_smartmeter_dataset_b_202504.csv.gz",
+        "bytes": 2769334,
+        "sha256": "dc8d023baad16f78b004fef8240bc28c9a531ef496e83236121fdac287af8324",
+        "url": "https://axsa4prod4publicdata4sa.blob.core.windows.net/%24web/ckw_opendata_smartmeter_dataset_b_202504.csv.gz",
+        "etag": "0x8DE9EF56E7A6520",
+        "retrieved_utc": "2026-09-20T16:00:42.0635935Z",
+        "last_modified": "Mon, 20 Apr 2026 15:56:49 GMT"
+      },
+      {
+        "relative_path": "ckw/ckw_opendata_smartmeter_dataset_b_202505.csv.gz",
+        "bytes": 2789122,
+        "sha256": "8b98c4c755b49f59e80a824a384299e4b5cb195284c78f97cbd2e0e1d3d64bd2",
+        "url": "https://axsa4prod4publicdata4sa.blob.core.windows.net/%24web/ckw_opendata_smartmeter_dataset_b_202505.csv.gz",
+        "etag": "0x8DEB68C174D3558",
+        "retrieved_utc": "2026-09-20T16:00:44.7193646Z",
+        "last_modified": "Wed, 20 May 2026 16:23:13 GMT"
+      },
+      {
+        "relative_path": "ckw/ckw_opendata_smartmeter_dataset_b_202506.csv.gz",
+        "bytes": 2660289,
+        "sha256": "0cf3278ecdf368b793408c8d5aacd72bc8adee6118ee7b60e7695e7ebd8764c6",
+        "url": "https://axsa4prod4publicdata4sa.blob.core.windows.net/%24web/ckw_opendata_smartmeter_dataset_b_202506.csv.gz",
+        "etag": "0x8DED0D824C17715",
+        "retrieved_utc": "2026-09-20T16:00:47.5529613Z",
+        "last_modified": "Tue, 23 Jun 2026 03:33:08 GMT"
+      },
+      {
+        "relative_path": "ckw/ckw_opendata_smartmeter_dataset_b_202507.csv.gz",
+        "bytes": 2728089,
+        "sha256": "2ddc6760c76219c46804c9e52042c30a04257368ff74a923fd7bc219c0117d90",
+        "url": "https://axsa4prod4publicdata4sa.blob.core.windows.net/%24web/ckw_opendata_smartmeter_dataset_b_202507.csv.gz",
+        "etag": "0x8DEE6848283C66C",
+        "retrieved_utc": "2026-09-20T16:00:52.1479754Z",
+        "last_modified": "Mon, 20 Jul 2026 17:29:53 GMT"
+      },
+      {
+        "relative_path": "ckw/ckw_opendata_smartmeter_dataset_b_202508.csv.gz",
+        "bytes": 2730336,
+        "sha256": "61bf8ccb396548fab03dac740c936895d125604a2e26635fc388c1618e138d94",
+        "url": "https://axsa4prod4publicdata4sa.blob.core.windows.net/%24web/ckw_opendata_smartmeter_dataset_b_202508.csv.gz",
+        "etag": "0x8DEFE168A951631",
+        "retrieved_utc": "2026-09-20T16:00:54.7549063Z",
+        "last_modified": "Wed, 19 Aug 2026 17:23:10 GMT"
+      },
+      {
+        "relative_path": "ckw/ckw_opendata_smartmeter_dataset_b_202509.csv.gz",
+        "bytes": 2678615,
+        "sha256": "2be4c88d7eb30af1f7c19653bae02ccfb8d44012e2aba34729d518e74f2106e6",
+        "url": "https://axsa4prod4publicdata4sa.blob.core.windows.net/%24web/ckw_opendata_smartmeter_dataset_b_202509.csv.gz",
+        "etag": "0x8DF0C3DC04852CC",
+        "retrieved_utc": "2026-09-20T16:19:58.6819742Z",
+        "last_modified": "Sun, 06 Sep 2026 17:39:06 GMT",
+        "download_blocked": true
+      },
+      {
+        "relative_path": "ckw/ckw_opendata_smartmeter_dataset_b_202510.csv.gz",
+        "bytes": 2807882,
+        "sha256": "4cd0879156c6129481b096627c7cbc64d57ce7f5f7bdb4745b678ae172bd55f5",
+        "url": "https://axsa4prod4publicdata4sa.blob.core.windows.net/%24web/ckw_opendata_smartmeter_dataset_b_202510.csv.gz",
+        "etag": "0x8DF0C3DC07B10B4",
+        "retrieved_utc": "2026-09-20T16:20:01.3704533Z",
+        "last_modified": "Sun, 06 Sep 2026 17:39:07 GMT",
+        "download_blocked": true
+      },
+      {
+        "relative_path": "ckw/ckw_opendata_smartmeter_dataset_b_202511.csv.gz",
+        "bytes": 2734318,
+        "sha256": "2482d8554eac5d8f8fb1c5076c9a997226057e347e5d91ab87f624a8798f1aac",
+        "url": "https://axsa4prod4publicdata4sa.blob.core.windows.net/%24web/ckw_opendata_smartmeter_dataset_b_202511.csv.gz",
+        "etag": "0x8DF0C3DC0B17412",
+        "retrieved_utc": "2026-09-20T16:20:04.0065711Z",
+        "last_modified": "Sun, 06 Sep 2026 17:39:07 GMT",
+        "download_blocked": true
+      },
+      {
+        "relative_path": "ckw/ckw_opendata_smartmeter_dataset_b_202512.csv.gz",
+        "bytes": 2817884,
+        "sha256": "33007e136ede7887eb66062ca33125996634a132dad914546c1c855f6acb1cc2",
+        "url": "https://axsa4prod4publicdata4sa.blob.core.windows.net/%24web/ckw_opendata_smartmeter_dataset_b_202512.csv.gz",
+        "etag": "0x8DF0C3DC0EF1137",
+        "retrieved_utc": "2026-09-20T16:20:06.9131061Z",
+        "last_modified": "Sun, 06 Sep 2026 17:39:07 GMT",
+        "download_blocked": true
+      }
+    ],
+    "registry_sha256": "85724a3aa517200fd4f6776c467cf65f83dfe4acd006c190c3b3805eca3d668e",
+    "public_acquisition_status": "BLOCKED_FOR_202509_THROUGH_202512_CURRENT_SOURCE_CONTENT_CHANGED"
+  }
+}

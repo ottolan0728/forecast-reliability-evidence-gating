@@ -1,0 +1,11 @@
+{
+  "status": "DRAFT_PRODUCTION_CORRECTION_NOT_SUBMITTED",
+  "original_accepted_supplement_sha256": "6155040c1188462042f8960319f62f712ec5462c1e4f14fd534f58cd721c6ad6",
+  "original_source_sha256": "0f03f11775f29621d465a3b1153b6c404bab1976a2087ee6e53eb53dff541be6",
+  "corrected_production_supplement_sha256": "87de832fde11094c1be8a53f1211f96991e7ddd34fec240c342932455755d245",
+  "corrected_production_source_sha256": "aaab827bba2189b6afc412260b63d44f9b986052d7d110b82a806ad63ea3af1a",
+  "cells_changed": 6,
+  "other_page_pixels_changed": 0,
+  "pdf_method": "Six numeric text tokens replaced in the original PDF content stream; original fonts/kerning/page layout retained. Not a recompiled PDF. Matching TeX source changes exactly six table cells.",
+  "pymupdf_version": "1.26.5"
+}

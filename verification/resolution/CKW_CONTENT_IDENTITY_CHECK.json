@@ -1,0 +1,38 @@
+[
+  {
+    "file": "ckw/ckw_opendata_smartmeter_dataset_b_202509.csv.gz",
+    "expected_sha256": "2be4c88d7eb30af1f7c19653bae02ccfb8d44012e2aba34729d518e74f2106e6",
+    "current_sha256": "f948ca47eadbe755c7015287eac960b50efaf31dbdff4ac4b6f45940f6904a9e",
+    "exact_bytes_match": false,
+    "frozen_csv_sha256": "9ee78e6ef886a095dafa1f5b6810b0f51a9826ba39267d76f935a8e92e72b25f",
+    "current_csv_sha256": "b40aa5a90b140a86e33d41abfbbe618b348d5e5df944e23588d31eaa28b74a45",
+    "uncompressed_bytes_match": false
+  },
+  {
+    "file": "ckw/ckw_opendata_smartmeter_dataset_b_202510.csv.gz",
+    "expected_sha256": "4cd0879156c6129481b096627c7cbc64d57ce7f5f7bdb4745b678ae172bd55f5",
+    "current_sha256": "d13be8ad095ce9cc1a0ed70699862a61ce869a7932d2f6fda3a10bdcea9fda4b",
+    "exact_bytes_match": false,
+    "frozen_csv_sha256": "4be97a6b741335a71182be2ff0a643a17508af7461e8a2c02a6cecde9bc32bb1",
+    "current_csv_sha256": "410dc53a9d61eb3a87f2877ab1a15335a40ba5978c5fefe99a232039650c0427",
+    "uncompressed_bytes_match": false
+  },
+  {
+    "file": "ckw/ckw_opendata_smartmeter_dataset_b_202511.csv.gz",
+    "expected_sha256": "2482d8554eac5d8f8fb1c5076c9a997226057e347e5d91ab87f624a8798f1aac",
+    "current_sha256": "737870fc0331657b46c3a8d6b48495f0d144ffbf71067b20aee70b4b1336a88e",
+    "exact_bytes_match": false,
+    "frozen_csv_sha256": "11dc69104f837e1d118a1bbba9a32e86b9ac2d9fecac832e12fcab10082527da",
+    "current_csv_sha256": "67f292493531b7514641b2dfa2ab80a7400ecedd821e2ef5b78dbe6ca37e9b23",
+    "uncompressed_bytes_match": false
+  },
+  {
+    "file": "ckw/ckw_opendata_smartmeter_dataset_b_202512.csv.gz",
+    "expected_sha256": "33007e136ede7887eb66062ca33125996634a132dad914546c1c855f6acb1cc2",
+    "current_sha256": "0442c66a788276fff4a3911e6f8f011ac290f89cd23c484950ceb1b7073a9a4e",
+    "exact_bytes_match": false,
+    "frozen_csv_sha256": "56a77b40d1f97344082b3a4fb3a7843ee4604afb6e276bf737211b07afef5dfa",
+    "current_csv_sha256": "0c287548d62d53ff2bf5f6e679a378114f13abdae26ecb59d174798fc833d185",
+    "uncompressed_bytes_match": false
+  }
+]
