@@ -43,15 +43,23 @@ Raw source datasets are **not redistributed** in this repository.
 
 See [DATA.md](DATA.md) for provenance and reconstruction notes.
 
+### CKW historical-snapshot limitation
+
+The CKW provider updates its public datasets over time. During accepted-paper release preparation, current provider files for four historical 2025 months could not be certified as byte-identical to the frozen historical snapshots used in the accepted analysis. Current provider exports must therefore not be silently substituted for the frozen inputs.
+
+See [docs/CKW_HISTORICAL_SNAPSHOT_LIMITATION.md](docs/CKW_HISTORICAL_SNAPSHOT_LIMITATION.md).
+
 ## Reproducibility
 
 The accepted manuscript reports a final numerical verification pass of **146,964 checks with zero failures**. Frozen primary analyses and opened-cohort secondary diagnostics remain explicitly separated.
+
+The release-candidate audit additionally completed clean-copy smoke checks and exact reconstruction checks over the retained frozen components without retraining or changing scientific results.
 
 See [REPRODUCIBILITY.md](REPRODUCIBILITY.md) for the evidence-status rules and repository organization.
 
 ## Availability status
 
-The manuscript has been accepted. Public reproducibility materials are now being finalized in this repository. Raw data remain governed by their original sources and licenses. A versioned archival release is planned after the publication metadata are finalized.
+The manuscript has been accepted. Public reproducibility materials are being finalized in this repository. Raw data remain governed by their original sources and licenses. The accepted-paper public payload has been audited as a release candidate; a final versioned archival release will not claim byte-identical reconstruction from current CKW provider exports unless historical source identity can be independently verified.
 
 ## Citation
 
