@@ -1,0 +1,24 @@
+# Raw/source data
+data/raw/
+raw_data/
+*.parquet
+*.feather
+
+# Model and cache artifacts
+*.pkl
+*.joblib
+__pycache__/
+.ipynb_checkpoints/
+
+# Local environments
+.venv/
+venv/
+.env
+
+# OS/editor
+.DS_Store
+Thumbs.db
+
+# Submission-only/private material
+reviewer_private/
+submission_private/
